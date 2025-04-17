@@ -2680,3 +2680,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17Apr2025 05:58:14.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Hunt and Gather]
 [17Apr2025 06:01:13.591] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2336, y=5, z=-581} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
 [17Apr2025 06:01:13.591] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-2336, y=5, z=-581}
+[17Apr2025 06:05:55.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [The Parrots and the Bats]
+[17Apr2025 06:08:53.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Penteconter]
+[17Apr2025 06:11:34.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [What a Deal!]

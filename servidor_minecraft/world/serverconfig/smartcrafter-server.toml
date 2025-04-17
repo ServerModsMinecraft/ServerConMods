@@ -1,0 +1,13 @@
+#.
+#Base progress needed to craft one item. Higher values slow crafting.
+#Range: > 1
+crafterProgressNeeded = 100
+#.
+#Stress impact of the Smart Crafter. Higher values require more power to operate.
+#Range: > 1
+crafterStressImpact = 6
+#.
+#Multiplier for how RPM affects crafting speed. Higher values make speed increase crafting rate more.
+#Range: 1 ~ 256
+speedRatio = 24
+

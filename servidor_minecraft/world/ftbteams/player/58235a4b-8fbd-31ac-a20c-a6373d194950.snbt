@@ -1,0 +1,17 @@
+{
+	id: "58235a4b-8fbd-31ac-a20c-a6373d194950"
+	type: "player"
+	player_name: "DierkDavid"
+	ranks: {
+		58235a4b-8fbd-31ac-a20c-a6373d194950: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DierkDavid"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFCA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

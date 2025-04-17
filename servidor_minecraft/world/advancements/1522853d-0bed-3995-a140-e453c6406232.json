@@ -751,7 +751,9 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-04-17 04:06:48 +0000",
       "minecraft:beach": "2025-04-17 04:25:43 +0000",
+      "minecraft:river": "2025-04-17 05:07:11 +0000",
       "minecraft:cold_ocean": "2025-04-17 04:05:31 +0000",
+      "minecraft:forest": "2025-04-17 05:04:34 +0000",
       "minecraft:deep_cold_ocean": "2025-04-17 04:05:44 +0000",
       "minecraft:ocean": "2025-04-17 04:04:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 03:33:35 +0000",
@@ -1897,6 +1899,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/birch_planks": {
     "criteria": {
       "has_planks": "2025-04-17 04:15:31 +0000"
@@ -2011,6 +2019,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2025-04-17 04:15:31 +0000"
@@ -2086,6 +2100,18 @@
   "refurbished_furniture:recipes/misc/constructing/pink_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 04:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:56 +0000"
     },
     "done": true
   },
@@ -2275,6 +2301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_birch_planks": "2025-04-17 04:15:31 +0000"
@@ -2455,6 +2487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-04-17 04:56:01 +0000"
@@ -2573,6 +2611,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 04:56:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
     },
     "done": true
   },
@@ -2768,6 +2812,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
     "criteria": {
       "has_acacia_plank": "2025-04-17 04:37:53 +0000"
@@ -2777,6 +2827,12 @@
   "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
     "criteria": {
       "has_acacia_plank": "2025-04-17 04:37:53 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2025-04-17 05:01:56 +0000"
     },
     "done": true
   },
@@ -2918,6 +2974,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-17 04:31:10 +0000"
@@ -2975,6 +3037,12 @@
   "cfm:recipes/decorations/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-04-17 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2025-04-17 05:01:56 +0000"
     },
     "done": true
   },
@@ -3044,9 +3112,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_cooler": {
     "criteria": {
       "has_chest": "2025-04-17 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-04-17 05:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-17 04:58:36 +0000"
     },
     "done": true
   },
@@ -3203,6 +3289,12 @@
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2025-04-17 04:15:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
     },
     "done": true
   },
@@ -3422,6 +3514,12 @@
     },
     "done": true
   },
+  "createoreexcavation:recipes/misc/diamond_drill": {
+    "criteria": {
+      "diamond": "2025-04-17 05:01:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-04-17 04:37:53 +0000"
@@ -3557,6 +3655,12 @@
   "mcwbridges:recipes/diorite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-17 04:49:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/rock_path": {
+    "criteria": {
+      "has_andesite": "2025-04-17 04:58:36 +0000"
     },
     "done": true
   },
@@ -3716,6 +3820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-17 04:32:17 +0000"
@@ -3749,6 +3859,12 @@
   "handcrafted:recipes/misc/spider_trophy": {
     "criteria": {
       "has_spider_trophy": "2025-04-17 04:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:56 +0000"
     },
     "done": true
   },
@@ -3794,9 +3910,27 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 04:56:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+    "criteria": {
+      "has_andesite": "2025-04-17 04:58:36 +0000"
     },
     "done": true
   },
@@ -3872,6 +4006,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-17 04:31:40 +0000"
@@ -3944,6 +4084,25 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_building": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:56 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_diamond_brush": {
+    "criteria": {
+      "has_item": "2025-04-17 05:01:56 +0000",
+      "has_the_recipe": "2025-04-17 05:01:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-17 04:32:17 +0000"
@@ -3953,6 +4112,12 @@
   "refurbished_furniture:recipes/misc/constructing/orange_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 04:56:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
     },
     "done": true
   },
@@ -4214,6 +4379,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/tools/diamond_brush": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-04-17 04:26:03 +0000"
@@ -4331,6 +4502,12 @@
   "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-17 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-17 05:01:36 +0000"
     },
     "done": true
   },
@@ -4508,9 +4685,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/iron_wand": {
     "criteria": {
       "has_item": "2025-04-17 04:56:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
     },
     "done": true
   },
@@ -4544,6 +4733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-17 04:31:40 +0000"
@@ -4553,6 +4748,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-04-17 04:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-17 04:58:36 +0000"
     },
     "done": true
   },
@@ -4640,6 +4841,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/gravel_bricks/gravel_bricks": {
     "criteria": {
       "has_item": "2025-04-17 04:56:13 +0000"
@@ -4685,6 +4892,12 @@
   "oceansdelight:recipes/oceansdelight/stuffed_cod": {
     "criteria": {
       "has_cod": "2025-04-17 04:36:27 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-04-17 04:58:36 +0000"
     },
     "done": true
   },
@@ -4917,6 +5130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-04-17 04:31:10 +0000"
@@ -5074,6 +5293,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_trampoline": {
     "criteria": {
       "has_iron": "2025-04-17 04:56:44 +0000"
@@ -5095,6 +5320,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-04-17 04:56:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
     },
     "done": true
   },
@@ -5200,6 +5431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 04:56:44 +0000"
@@ -5239,6 +5476,12 @@
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-04-17 04:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:56 +0000"
     },
     "done": true
   },
@@ -5362,6 +5605,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-04-17 04:26:03 +0000"
@@ -5371,6 +5620,18 @@
   "cfm:recipes/decorations/green_cooler": {
     "criteria": {
       "has_chest": "2025-04-17 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-04-17 04:59:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
     },
     "done": true
   },
@@ -5416,6 +5677,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-04-17 04:26:03 +0000"
@@ -5425,6 +5692,12 @@
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-04-17 04:31:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
     },
     "done": true
   },
@@ -5485,6 +5758,12 @@
   "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-17 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-17 05:01:56 +0000"
     },
     "done": true
   },
@@ -5602,6 +5881,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:56 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-04-17 04:36:23 +0000"
@@ -5641,6 +5926,12 @@
   "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-17 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:56 +0000"
     },
     "done": true
   },
@@ -5749,6 +6040,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_basin": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 04:56:44 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-04-17 05:01:56 +0000"
     },
     "done": true
   },
@@ -5866,6 +6163,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_wood": "2025-04-17 04:56:44 +0000"
@@ -5878,9 +6187,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-04-17 04:31:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
     },
     "done": true
   },
@@ -5892,6 +6213,12 @@
       "origin_valley": "2025-04-17 04:18:04 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
   },
   "handcrafted:recipes/misc/acacia_side_table": {
     "criteria": {
@@ -6175,6 +6502,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2025-04-17 04:31:10 +0000"
@@ -6196,6 +6529,12 @@
   "interiors:recipes/building_blocks/crafting/cushion/red_cushion": {
     "criteria": {
       "has_planks": "2025-04-17 04:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-17 04:58:36 +0000"
     },
     "done": true
   },
@@ -6232,6 +6571,18 @@
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 04:56:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:56 +0000"
     },
     "done": true
   },
@@ -6331,6 +6682,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-04-17 04:26:03 +0000"
@@ -6373,6 +6730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_trampoline": {
     "criteria": {
       "has_iron": "2025-04-17 04:56:44 +0000"
@@ -6388,6 +6751,12 @@
   "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 04:56:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-17 05:01:36 +0000"
     },
     "done": true
   },
@@ -6529,6 +6898,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-17 04:58:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-17 04:31:40 +0000"
@@ -6601,9 +6982,21 @@
     },
     "done": true
   },
+  "buildinggadgets2:recipes/misc/gadget_exchanging": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:56 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
       "has_planks": "2025-04-17 04:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-17 05:01:56 +0000"
     },
     "done": true
   },
@@ -6664,6 +7057,12 @@
   "mcwlights:recipes/lantern": {
     "criteria": {
       "has_the_recipe": "2025-04-17 04:32:07 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-17 04:58:36 +0000"
     },
     "done": true
   },

@@ -733,6 +733,7 @@
       "minecraft:cold_ocean": "2025-04-17 04:05:32 +0000",
       "minecraft:forest": "2025-04-17 05:09:57 +0000",
       "minecraft:deep_cold_ocean": "2025-04-17 04:05:44 +0000",
+      "minecraft:desert": "2025-04-17 07:05:38 +0000",
       "minecraft:ocean": "2025-04-17 04:04:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 03:58:20 +0000",
       "minecraft:savanna": "2025-04-17 06:51:07 +0000",
@@ -3274,6 +3275,7 @@
     "criteria": {
       "woodland": "2025-04-17 05:44:36 +0000",
       "shrubland": "2025-04-17 04:25:10 +0000",
+      "scrubland": "2025-04-17 07:10:07 +0000",
       "clover_patch": "2025-04-17 05:43:18 +0000",
       "orchard": "2025-04-17 05:40:25 +0000",
       "lavender_forest": "2025-04-17 04:25:26 +0000",
@@ -7829,6 +7831,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_flower": "2025-04-17 07:10:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-04-17 06:43:58 +0000"
@@ -7993,6 +8001,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "sky": "2025-04-17 07:12:21 +0000",
       "earth": "2025-04-17 06:30:04 +0000"
     },
     "done": false
@@ -8112,6 +8121,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-04-17 07:10:35 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-04-17 06:40:36 +0000"
@@ -8220,6 +8235,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-04-17 07:03:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-04-17 07:11:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_stairs": {
     "criteria": {
       "has_planks": "2025-04-17 06:39:27 +0000"
@@ -8298,9 +8325,27 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/slime/sky/crystal_growing": {
+    "criteria": {
+      "has_dirt": "2025-04-17 07:12:30 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-04-17 07:12:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/mangrove_bench": {
     "criteria": {
       "has_mangrove_bench": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-04-17 07:10:35 +0000"
     },
     "done": true
   },
@@ -8573,6 +8618,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_mail_box": {
     "criteria": {
       "has_mangrove_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-04-17 07:12:21 +0000"
     },
     "done": true
   },
@@ -9047,6 +9098,12 @@
   "tconstruct:recipes/building_blocks/world/wood/greenheart/log_to_wood": {
     "criteria": {
       "has_log": "2025-04-17 06:39:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-04-17 07:12:21 +0000"
     },
     "done": true
   },

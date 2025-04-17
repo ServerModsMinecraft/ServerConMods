@@ -751,6 +751,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-04-17 04:06:37 +0000",
       "minecraft:birch_forest": "2025-04-17 03:55:02 +0000",
+      "minecraft:badlands": "2025-04-17 07:05:31 +0000",
       "minecraft:savanna_plateau": "2025-04-17 06:50:37 +0000",
       "minecraft:beach": "2025-04-17 01:00:54 +0000",
       "minecraft:river": "2025-04-17 01:00:52 +0000",
@@ -759,6 +760,7 @@
       "minecraft:forest": "2025-04-17 05:06:58 +0000",
       "minecraft:lush_caves": "2025-04-17 03:50:59 +0000",
       "minecraft:deep_cold_ocean": "2025-04-17 04:05:31 +0000",
+      "minecraft:desert": "2025-04-17 07:05:37 +0000",
       "minecraft:ocean": "2025-04-17 01:00:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 00:55:33 +0000",
       "minecraft:savanna": "2025-04-17 06:51:00 +0000",
@@ -2792,6 +2794,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "sky": "2025-04-17 07:11:14 +0000",
       "earth": "2025-04-17 04:06:56 +0000"
     },
     "done": false
@@ -4524,6 +4527,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-04-17 07:06:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-04-17 04:25:57 +0000"
@@ -4593,6 +4602,12 @@
   "cfm:recipes/decorations/pink_trampoline": {
     "criteria": {
       "has_iron": "2025-04-17 04:01:45 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-04-17 07:11:05 +0000"
     },
     "done": true
   },
@@ -5127,6 +5142,12 @@
   "minecraft:recipes/decorations/dirt_washed_pink.json": {
     "criteria": {
       "has_dirt": "2025-04-17 03:41:26 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-04-17 07:11:14 +0000"
     },
     "done": true
   },
@@ -7101,6 +7122,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-04-17 04:36:21 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-04-17 07:11:14 +0000"
     },
     "done": true
   },
@@ -10332,6 +10359,7 @@
     "criteria": {
       "woodland": "2025-04-17 05:51:23 +0000",
       "shrubland": "2025-04-17 04:25:48 +0000",
+      "scrubland": "2025-04-17 07:09:53 +0000",
       "old_growth_woodland": "2025-04-17 05:51:15 +0000",
       "orchard": "2025-04-17 05:42:27 +0000",
       "lavender_forest": "2025-04-17 04:26:59 +0000",
@@ -10341,6 +10369,12 @@
       "dune_beach": "2025-04-17 04:25:36 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-04-17 07:07:08 +0000"
+    },
+    "done": true
   },
   "farmersdelight:main/place_feast": {
     "criteria": {
@@ -10873,6 +10907,12 @@
   "handcrafted:recipes/misc/birch_dining_bench": {
     "criteria": {
       "has_birch_dining_bench": "2025-04-17 03:39:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-04-17 07:11:14 +0000"
     },
     "done": true
   },

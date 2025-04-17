@@ -2717,3 +2717,32 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17Apr2025 06:56:31.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has completed the challenge [Centennial]
 [17Apr2025 07:03:11.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [No Step on Snake]
 [17Apr2025 07:03:28.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu was slain by Rattlesnake
+[17Apr2025 07:04:13.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Teleported Sameu to DierkDavid]
+[17Apr2025 07:06:04.327] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2422, y=3, z=-262}
+[17Apr2025 07:06:18.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [No Step on Snake]
+[17Apr2025 07:06:48.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Mariachi?]
+[17Apr2025 07:06:49.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [No Step on Snake]
+[17Apr2025 07:07:08.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Mariachi?]
+[17Apr2025 07:07:44.634] [Worker-Main-37/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2352, y=-6, z=-682}
+[17Apr2025 07:07:44.635] [Worker-Main-37/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2352, y=-5, z=-682}
+[17Apr2025 07:07:44.635] [Worker-Main-37/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2352, y=-6, z=-681}
+[17Apr2025 07:07:44.635] [Worker-Main-37/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2352, y=-6, z=-680}
+[17Apr2025 07:07:48.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu was slain by Rhinoceros
+[17Apr2025 07:08:01.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Teleported Sameu to DierkDavid]
+[17Apr2025 07:10:06.730] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=53, y=-22, z=239}
+[17Apr2025 07:10:06.730] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=59, y=-22, z=239}
+[17Apr2025 07:10:06.731] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-21, z=245}
+[17Apr2025 07:10:06.731] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-22, z=243}
+[17Apr2025 07:10:06.731] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-21, z=242}
+[17Apr2025 07:10:06.731] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-22, z=241}
+[17Apr2025 07:10:06.731] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=241}
+[17Apr2025 07:10:06.732] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=56, y=-20, z=245}
+[17Apr2025 07:10:06.732] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=57, y=-21, z=245}
+[17Apr2025 07:10:06.732] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}
+[17Apr2025 07:10:06.732] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=241}
+[17Apr2025 07:10:06.733] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=243}
+[17Apr2025 07:10:06.733] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}
+[17Apr2025 07:11:05.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has reached the goal [Skyslime Island]
+[17Apr2025 07:11:42.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has reached the goal [Skyslime Island]
+[17Apr2025 07:11:45.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has reached the goal [Skyslime Island]
+[17Apr2025 07:13:36.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu fell from a high place

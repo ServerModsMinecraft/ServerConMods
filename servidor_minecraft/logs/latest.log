@@ -2010,3 +2010,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 19:31:22.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> pero solo hay 5
 [17Apr2025 19:31:26.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> y habia como 20 o ma
 [17Apr2025 19:31:29.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> :,v
+[17Apr2025 19:45:41.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sameu lost connection: Disconnected
+[17Apr2025 19:45:41.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu left the game
+[17Apr2025 19:46:50.574] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[17Apr2025 19:46:50.576] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[17Apr2025 19:46:50.577] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[17Apr2025 19:46:50.577] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[17Apr2025 19:46:50.577] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[17Apr2025 19:46:50.578] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[17Apr2025 19:46:50.579] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[17Apr2025 19:46:50.580] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[17Apr2025 19:47:26.372] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[17Apr2025 19:47:26.372] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[17Apr2025 19:47:26.372] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[17Apr2025 19:47:26.372] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[17Apr2025 19:47:26.373] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[17Apr2025 19:47:26.373] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[17Apr2025 19:47:26.373] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[17Apr2025 19:47:26.373] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool

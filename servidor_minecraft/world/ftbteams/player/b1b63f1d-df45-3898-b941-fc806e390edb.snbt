@@ -1,0 +1,17 @@
+{
+	id: "b1b63f1d-df45-3898-b941-fc806e390edb"
+	type: "player"
+	player_name: "Sameu"
+	ranks: {
+		b1b63f1d-df45-3898-b941-fc806e390edb: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sameu"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E3FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -749,8 +749,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-04-17 03:55:02 +0000",
       "minecraft:beach": "2025-04-17 01:00:54 +0000",
       "minecraft:river": "2025-04-17 01:00:52 +0000",
+      "minecraft:lush_caves": "2025-04-17 03:50:59 +0000",
       "minecraft:ocean": "2025-04-17 01:00:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 00:55:33 +0000"
     },
@@ -1458,6 +1460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-04-17 03:50:16 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/magnifying_glass": {
     "criteria": {
       "has_s": "2025-04-17 03:39:36 +0000"
@@ -1806,6 +1814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-17 03:50:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
     "criteria": {
       "has_planks": "2025-04-17 03:39:32 +0000"
@@ -1851,6 +1865,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-04-17 03:39:54 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-04-17 03:51:52 +0000"
     },
     "done": true
   },
@@ -2034,6 +2054,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-04-17 03:55:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-04-17 03:48:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_cyan.json": {
     "criteria": {
       "has_dirt": "2025-04-17 03:41:26 +0000"
@@ -2100,6 +2132,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-04-17 03:51:52 +0000"
+    },
+    "done": true
+  },
   "colourfulearth:recipes/decorations/grass_dyed_light_blue": {
     "criteria": {
       "has_grass_block": "2025-04-17 03:37:55 +0000"
@@ -2118,6 +2156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-17 03:55:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-17 03:43:36 +0000"
@@ -2133,6 +2177,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-04-17 03:43:36 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/bone_knife": {
+    "criteria": {
+      "has_bones": "2025-04-17 03:55:05 +0000"
     },
     "done": true
   },
@@ -2292,6 +2342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-17 03:50:16 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/paper_lamp": {
     "criteria": {
       "has_the_recipe": "2025-04-17 03:40:40 +0000"
@@ -2379,6 +2435,12 @@
   "interiors:recipes/building_blocks/crafting/cushion/light_blue_cushion": {
     "criteria": {
       "has_planks": "2025-04-17 03:39:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-04-17 03:55:05 +0000"
     },
     "done": true
   },
@@ -2508,9 +2570,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "glow_berries": "2025-04-17 03:52:12 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_planks": "2025-04-17 03:39:32 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
+    "criteria": {
+      "has_ginger": "2025-04-17 03:51:52 +0000"
     },
     "done": true
   },
@@ -2559,6 +2633,12 @@
   "handcrafted:recipes/misc/wither_skeleton_trophy": {
     "criteria": {
       "has_wither_skeleton_trophy": "2025-04-17 03:39:32 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/glow_jam_jar": {
+    "criteria": {
+      "has_glow_berries": "2025-04-17 03:51:52 +0000"
     },
     "done": true
   },
@@ -2766,6 +2846,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-04-17 03:51:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-17 03:39:54 +0000"
@@ -2780,8 +2866,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-17 03:55:04 +0000",
       "minecraft:spider": "2025-04-17 03:38:27 +0000",
-      "minecraft:creeper": "2025-04-17 03:38:03 +0000"
+      "minecraft:creeper": "2025-04-17 03:38:03 +0000",
+      "minecraft:zombie": "2025-04-17 03:51:48 +0000"
     },
     "done": false
   },
@@ -2863,6 +2951,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 03:51:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
     "criteria": {
       "has_planks": "2025-04-17 03:39:32 +0000"
@@ -2932,6 +3026,12 @@
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-17 03:43:40 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/magma_block_slab": {
+    "criteria": {
+      "has_magma_block": "2025-04-17 03:49:57 +0000"
     },
     "done": true
   },
@@ -3451,9 +3551,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-04-17 03:55:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
     "criteria": {
       "has_planks": "2025-04-17 03:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-17 03:48:46 +0000"
     },
     "done": true
   },

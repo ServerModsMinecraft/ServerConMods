@@ -771,6 +771,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-04-17 08:16:49 +0000",
       "minecraft:flower_forest": "2025-04-17 08:36:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 03:33:35 +0000",
+      "minecraft:meadow": "2025-04-17 18:59:18 +0000",
       "minecraft:savanna": "2025-04-17 06:51:06 +0000",
       "minecraft:plains": "2025-04-17 04:26:20 +0000"
     },
@@ -11010,9 +11011,105 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-04-17 19:01:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-04-17 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-04-17 19:01:32 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-04-17 18:54:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/polished_schist": {
+    "criteria": {
+      "has_item": "2025-04-17 19:00:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-04-17 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-17 19:00:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-04-17 19:01:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_slab": {
+    "criteria": {
+      "has_item": "2025-04-17 19:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-17 18:59:57 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-17 19:00:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_stairs": {
+    "criteria": {
+      "has_item": "2025-04-17 19:00:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/polished_schist_bricks_from_schist_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-17 19:00:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-17 19:00:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_wall": {
+    "criteria": {
+      "has_item": "2025-04-17 19:00:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/polished_schist_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-17 19:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-17 18:59:57 +0000"
     },
     "done": true
   },

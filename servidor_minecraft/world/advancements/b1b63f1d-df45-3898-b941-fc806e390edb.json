@@ -744,6 +744,7 @@
       "minecraft:desert": "2025-04-17 07:05:38 +0000",
       "minecraft:ocean": "2025-04-17 04:04:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 03:58:20 +0000",
+      "minecraft:meadow": "2025-04-17 18:59:21 +0000",
       "minecraft:savanna": "2025-04-17 06:51:07 +0000",
       "minecraft:plains": "2025-04-17 05:08:46 +0000"
     },
@@ -10058,6 +10059,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-17 19:02:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
@@ -10193,6 +10200,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-17 19:05:40 +0000"
     },
     "done": true
   },
@@ -10749,6 +10762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-17 19:05:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-04-17 18:21:44 +0000"
@@ -11010,6 +11029,12 @@
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-04-17 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-17 19:05:40 +0000"
     },
     "done": true
   },

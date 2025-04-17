@@ -757,7 +757,8 @@
       "minecraft:lush_caves": "2025-04-17 03:50:59 +0000",
       "minecraft:deep_cold_ocean": "2025-04-17 04:05:31 +0000",
       "minecraft:ocean": "2025-04-17 01:00:57 +0000",
-      "minecraft:old_growth_birch_forest": "2025-04-17 00:55:33 +0000"
+      "minecraft:old_growth_birch_forest": "2025-04-17 00:55:33 +0000",
+      "minecraft:plains": "2025-04-17 04:54:31 +0000"
     },
     "done": false
   },
@@ -1373,6 +1374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-17 04:54:00 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/birch_planks": {
     "criteria": {
       "has_planks": "2025-04-17 03:39:32 +0000"
@@ -1745,6 +1752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-17 04:54:00 +0000"
+    },
+    "done": true
+  },
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
       "has_item": "2025-04-17 04:01:45 +0000"
@@ -2090,6 +2103,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-04-17 03:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-17 04:54:00 +0000"
     },
     "done": true
   },
@@ -2922,6 +2941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-17 04:54:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-04-17 04:02:48 +0000"
@@ -3237,6 +3262,12 @@
   "create:recipes/misc/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2025-04-17 04:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-04-17 04:55:06 +0000"
     },
     "done": true
   },
@@ -4507,6 +4538,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-04-17 04:54:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 04:01:45 +0000"
@@ -4729,6 +4766,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-17 04:53:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-17 03:43:36 +0000"
@@ -4811,6 +4854,7 @@
     "criteria": {
       "cooked_cod": "2025-04-17 04:39:53 +0000",
       "bread": "2025-04-17 04:15:18 +0000",
+      "golden_apple": "2025-04-17 04:47:48 +0000",
       "rotten_flesh": "2025-04-17 04:01:33 +0000",
       "glow_berries": "2025-04-17 03:52:12 +0000",
       "cooked_salmon": "2025-04-17 04:15:26 +0000"
@@ -4976,6 +5020,12 @@
   "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-17 04:32:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-17 04:48:13 +0000"
     },
     "done": true
   },
@@ -6004,6 +6054,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-04-17 04:54:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_basin": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 04:01:45 +0000"
@@ -6199,6 +6255,12 @@
   "minecraft:recipes/decorations/grass_washed_black.json": {
     "criteria": {
       "has_grass_block": "2025-04-17 03:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-17 04:54:00 +0000"
     },
     "done": true
   },
@@ -6832,6 +6894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-17 04:54:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-17 04:32:39 +0000"
@@ -7009,6 +7077,12 @@
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2025-04-17 04:43:14 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_shield": {
+    "criteria": {
+      "has_item": "2025-04-17 04:54:00 +0000"
     },
     "done": true
   },
@@ -8163,6 +8237,12 @@
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-04-17 04:01:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-17 04:48:13 +0000"
     },
     "done": true
   },

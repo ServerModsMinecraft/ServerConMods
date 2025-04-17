@@ -13523,9 +13523,21 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/raw_copper_block_slab": {
+    "criteria": {
+      "has_raw_copper_block": "2025-04-17 20:11:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-04-17 19:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-04-17 20:11:56 +0000"
     },
     "done": true
   },

@@ -2059,3 +2059,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 20:08:31.409] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Vasiliki'/116, l='ServerLevel[world]', x=-488.70, y=53.00, z=-5956.70] died: Vasiliki was slain by Zombie
 [17Apr2025 20:10:05.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> almrd
 [17Apr2025 20:10:10.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> mucha cosa
+[17Apr2025 20:20:22.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Ol' Betsy]
+[17Apr2025 20:20:26.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Voluntary Exile]

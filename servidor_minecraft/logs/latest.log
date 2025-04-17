@@ -1973,3 +1973,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 18:14:52.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sameu[/127.218.188.179:33897] logged in with entity id 63 at (-494.69999998807907, 67.0, -5977.720725728114)
 [17Apr2025 18:14:52.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu joined the game
 [17Apr2025 18:14:53.101] [Server thread/INFO] [Jade/]: Syncing config to Sameu (b1b63f1d-df45-3898-b941-fc806e390edb)
+[17Apr2025 18:27:12.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 18:27:12.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerlist<--[HERE]
+[17Apr2025 18:27:19.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] Gey el lo lea
+[17Apr2025 18:27:46.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> lo bueno que no se leer
+[17Apr2025 18:28:01.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhairJCM[/127.252.103.120:58113] logged in with entity id 2191 at (-532.0577453601636, 70.0, -5953.3290061433645)
+[17Apr2025 18:28:01.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM joined the game
+[17Apr2025 18:28:01.286] [Server thread/INFO] [Jade/]: Syncing config to JhairJCM (1522853d-0bed-3995-a140-e453c6406232)
+[17Apr2025 18:29:00.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> :V

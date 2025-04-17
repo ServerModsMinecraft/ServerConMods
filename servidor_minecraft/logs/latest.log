@@ -1990,3 +1990,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 03:39:46.844] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15badea2[id=<null>,name=Sameu,properties={},legacy=false] (/127.218.188.179:40811) lost connection: Disconnected
 [17Apr2025 03:39:54.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Stone Age]
 [17Apr2025 03:40:40.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Getting an Upgrade]
+[17Apr2025 03:43:29.941] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1be58875[id=<null>,name=Sameu,properties={},legacy=false] (/127.218.188.179:34333) lost connection: Disconnected
+[17Apr2025 03:43:35.043] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a43a319[id=<null>,name=Sameu,properties={},legacy=false] (/127.218.188.179:59997) lost connection: Disconnected
+[17Apr2025 03:44:43.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Set the time to 1000]
+[17Apr2025 03:45:23.693] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2fa239a9[id=<null>,name=Sameu,properties={},legacy=false] (/127.218.188.179:47383) lost connection: Disconnected
+[17Apr2025 03:47:13.093] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@576c6e39[id=<null>,name=Sameu,properties={},legacy=false] (/127.218.188.179:38185) lost connection: Disconnected
+[17Apr2025 03:48:12.842] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20e77872[id=<null>,name=Sameu,properties={},legacy=false] (/127.218.188.179:59515) lost connection: Disconnected
+[17Apr2025 03:48:20.744] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@186411f0[id=<null>,name=Sameu,properties={},legacy=false] (/127.218.188.179:58635) lost connection: Disconnected
+[17Apr2025 03:48:46.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Alex's Mobs]
+[17Apr2025 03:51:01.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid was shot by Skeleton

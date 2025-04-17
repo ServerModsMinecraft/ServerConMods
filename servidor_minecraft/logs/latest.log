@@ -2131,3 +2131,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 23:20:40.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> dosc?
 [17Apr2025 23:20:40.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> dc?
 [17Apr2025 23:20:43.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> xD
+[17Apr2025 23:28:05.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Bonk!]
+[17Apr2025 23:31:41.730] [Worker-Main-293/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2336, y=25, z=-5806}

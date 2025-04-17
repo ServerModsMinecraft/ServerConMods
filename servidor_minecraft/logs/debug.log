@@ -23204,3 +23204,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 23:31:25.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Apr2025 23:31:25.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Apr2025 23:31:41.730] [Worker-Main-293/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2336, y=25, z=-5806}
+[17Apr2025 23:33:46.389] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:brigantine
+[17Apr2025 23:33:46.411] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:skeleton_cac
+[17Apr2025 23:33:46.413] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:pillager_bow
+[17Apr2025 23:33:46.415] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:skeleton_bow
+[17Apr2025 23:33:46.416] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:skeleton_axe
+[17Apr2025 23:33:46.418] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:pillager_cac
+[17Apr2025 23:33:46.419] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:pillager_axe
+[17Apr2025 23:33:46.425] [Worker-Main-294/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_quad
+[17Apr2025 23:36:00.262] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2761, y=8, z=-1729}
+[17Apr2025 23:36:25.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 23:36:25.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 23:38:50.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Olin'/75086, l='ServerLevel[world]', x=-531.00, y=-65.00, z=-5958.56] died, message: 'Olin was killed'
+[17Apr2025 23:38:50.097] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Olin'/75086, l='ServerLevel[world]', x=-531.00, y=-65.00, z=-5958.56] died: Olin was killed
+[17Apr2025 23:39:08.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Katy'/75167, l='ServerLevel[world]', x=-531.46, y=-65.00, z=-5958.22] died, message: 'Katy was killed'
+[17Apr2025 23:39:08.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Katy'/75167, l='ServerLevel[world]', x=-531.46, y=-65.00, z=-5958.22] died: Katy was killed
+[17Apr2025 23:39:13.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Winston'/75191, l='ServerLevel[world]', x=-527.78, y=-65.00, z=-5967.22] died, message: 'Winston was killed'
+[17Apr2025 23:39:13.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Winston'/75191, l='ServerLevel[world]', x=-527.78, y=-65.00, z=-5967.22] died: Winston was killed
+[17Apr2025 23:39:33.096] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Darnell'/75237, l='ServerLevel[world]', x=-530.50, y=-65.00, z=-5958.50] died, message: 'Darnell was killed'
+[17Apr2025 23:39:33.097] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Darnell'/75237, l='ServerLevel[world]', x=-530.50, y=-65.00, z=-5958.50] died: Darnell was killed
+[17Apr2025 23:39:43.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Claudia'/75273, l='ServerLevel[world]', x=-530.30, y=-65.00, z=-5958.02] died, message: 'Claudia was killed'
+[17Apr2025 23:39:43.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Claudia'/75273, l='ServerLevel[world]', x=-530.30, y=-65.00, z=-5958.02] died: Claudia was killed
+[17Apr2025 23:40:04.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Anibal'/75444, l='ServerLevel[world]', x=-529.59, y=-65.00, z=-5955.70] died, message: 'Anibal was killed'
+[17Apr2025 23:40:04.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Anibal'/75444, l='ServerLevel[world]', x=-529.59, y=-65.00, z=-5955.70] died: Anibal was killed
+[17Apr2025 23:40:55.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [What a Deal!]
+[17Apr2025 23:41:25.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 23:41:25.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 23:41:57.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Linette'/75985, l='ServerLevel[world]', x=-530.30, y=-65.00, z=-5958.50] died, message: 'Linette was killed'
+[17Apr2025 23:41:57.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Linette'/75985, l='ServerLevel[world]', x=-530.30, y=-65.00, z=-5958.50] died: Linette was killed

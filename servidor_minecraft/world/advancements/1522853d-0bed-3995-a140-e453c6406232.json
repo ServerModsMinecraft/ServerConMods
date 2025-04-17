@@ -11196,6 +11196,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-04-17 23:36:36 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-04-17 21:23:16 +0000"
@@ -11577,6 +11583,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-04-17 23:38:16 +0000"
     },
     "done": true
   },

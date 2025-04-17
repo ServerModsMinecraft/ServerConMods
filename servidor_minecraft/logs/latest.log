@@ -2699,3 +2699,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17Apr2025 06:20:47.904] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity BoatBOP['Boat'/57741, l='ServerLevel[world]', x=-1280.40, y=62.52, z=-801.69] as it would cause deadlock
 [17Apr2025 06:20:48.083] [Server thread/INFO] [Jade/]: Syncing config to Sameu (b1b63f1d-df45-3898-b941-fc806e390edb)
 [17Apr2025 06:33:05.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Crops of the Wild]
+[17Apr2025 06:39:21.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [It Belongs in a Museum]
+[17Apr2025 06:40:41.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Isn't It Iron Pick]
+[17Apr2025 06:41:57.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was blown up by Creeper

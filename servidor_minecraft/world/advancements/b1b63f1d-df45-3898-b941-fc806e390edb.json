@@ -3178,6 +3178,7 @@
     "criteria": {
       "minecraft:spider": "2025-04-17 05:14:52 +0000",
       "minecraft:stray": "2025-04-17 05:50:28 +0000",
+      "minecraft:zombie": "2025-04-17 06:38:10 +0000",
       "minecraft:drowned": "2025-04-17 04:15:12 +0000"
     },
     "done": false
@@ -7770,15 +7771,244 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_cracked_mud_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-04-17 06:40:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_crate": {
+    "criteria": {
+      "has_mangrove_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_chair": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "create_better_motors:recipes/building_blocks/crafting/multimeter": {
+    "criteria": {
+      "has_compass": "2025-04-17 06:40:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
   "tconstruct:world/slime_collector": {
     "criteria": {
       "earth": "2025-04-17 06:30:04 +0000"
     },
     "done": false
   },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_4": {
+    "criteria": {
+      "has_mangrove_plank": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_3": {
+    "criteria": {
+      "has_mangrove_plank": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_2": {
+    "criteria": {
+      "has_mangrove_plank": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_1": {
+    "criteria": {
+      "has_mangrove_plank": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_granite_pillar_trim": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_dining_bench": {
+    "criteria": {
+      "has_mangrove_dining_bench": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_wood": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/world/wood/greenheart/sign": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_granite_corner_trim": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/world/wood/greenheart/slab": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_table": {
+    "criteria": {
+      "has_mangrove_table": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/building_blocks/cracked_mud_brick_stairs": {
+    "criteria": {
+      "has_cracked_mud_bricks": "2025-04-17 06:40:37 +0000",
+      "has_the_recipe": "2025-04-17 06:40:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-04-17 06:30:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-17 06:40:36 +0000"
     },
     "done": true
   },
@@ -7788,9 +8018,371 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/building_blocks/cracked_mud_brick_slab": {
+    "criteria": {
+      "has_cracked_mud_bricks": "2025-04-17 06:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_drawer": {
+    "criteria": {
+      "has_mangrove_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/world/wood/greenheart/button": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:28 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_couch": {
+    "criteria": {
+      "has_mangrove_couch": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
+    "criteria": {
+      "has_mangrove_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_table": {
+    "criteria": {
+      "has_mangrove_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/world/wood/greenheart/pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-04-17 06:39:31 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_cracked_mud_brick_slab": {
+    "criteria": {
+      "has_item": "2025-04-17 06:40:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/wet_sponge_slab": {
+    "criteria": {
+      "has_wet_sponge": "2025-04-17 06:39:31 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mangrove_planks": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_bench": {
+    "criteria": {
+      "has_mangrove_bench": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_desk": {
+    "criteria": {
+      "has_mangrove_desk": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_cutting_board": {
+    "criteria": {
+      "has_mangrove_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_park_bench": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-04-17 06:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-04-17 06:42:15 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/unseal": {
+    "criteria": {
+      "has_item_a": "2025-04-17 06:39:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_mangrove_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_table": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-04-17 06:40:42 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "copper": "2025-04-17 06:40:42 +0000",
+      "skyslime_vine": "2025-04-17 06:40:42 +0000",
+      "queens_slime": "2025-04-17 06:40:42 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_corner_trim": {
+    "criteria": {
+      "has_mangrove_corner_trim": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_desk": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mangrove_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/mangrove_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_drawer": {
+    "criteria": {
+      "has_mangrove_drawer": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-17 06:38:40 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mangrove_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_pillar_trim": {
+    "criteria": {
+      "has_mangrove_pillar_trim": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-17 06:34:46 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_mail_box": {
+    "criteria": {
+      "has_mangrove_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/world/wood/greenheart/fence": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_counter": {
+    "criteria": {
+      "has_mangrove_counter": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-04-17 06:40:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_shelf": {
+    "criteria": {
+      "has_mangrove_shelf": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_mud_brick_stairs_from_cracked_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_mud_bricks": "2025-04-17 06:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-17 06:40:41 +0000"
     },
     "done": true
   },
@@ -7800,9 +8392,147 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
+    "criteria": {
+      "has_mangrove_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2025-04-17 06:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/world/wood/greenheart/fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_mangrove_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_chair": {
+    "criteria": {
+      "has_mangrove_chair": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/granite": {
+    "criteria": {
+      "has_wood": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/tools/building/earth_staff": {
+    "criteria": {
+      "has_wood": "2025-04-17 06:39:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "war_pick": "2025-04-17 06:40:42 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/sealant": {
     "criteria": {
       "has_tag_a": "2025-04-17 06:30:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-04-17 06:37:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_mud_brick_slab_from_cracked_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_mud_bricks": "2025-04-17 06:40:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-04-17 06:37:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-04-17 06:40:39 +0000"
     },
     "done": true
   },
@@ -7812,9 +8542,147 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/mangrove_crate": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-04-17 06:37:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_mangrove_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
     "criteria": {
       "has_item": "2025-04-17 06:30:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/world/wood/greenheart/trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-04-17 06:40:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-04-17 06:39:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_mangrove_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/world/wood/greenheart/log_to_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 06:39:24 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/sponge_slab": {
+    "criteria": {
+      "has_sponge": "2025-04-17 06:39:41 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/world/wood/greenheart/planks": {
+    "criteria": {
+      "has_log": "2025-04-17 06:39:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_fancy_bed": {
+    "criteria": {
+      "has_mangrove_fancy_bed": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_desk": {
+    "criteria": {
+      "has_mangrove_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-04-17 06:40:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_chest": {
+    "criteria": {
+      "has_mangrove_plank": "2025-04-17 06:39:27 +0000"
     },
     "done": true
   },
@@ -7824,9 +8692,117 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/world/wood/greenheart/stairs": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_barrel": {
+    "criteria": {
+      "has_mangrove_plank": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-04-17 06:42:15 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_nightstand": {
+    "criteria": {
+      "has_mangrove_nightstand": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-17 06:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/mangrove_table": {
+    "criteria": {
+      "has_bamboo": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/mangrove_support": {
+    "criteria": {
+      "has_plank": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/common/slime/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-04-17 06:30:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/mangrove_seat": {
+    "criteria": {
+      "has_plank": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/world/wood/greenheart/door": {
+    "criteria": {
+      "has_planks": "2025-04-17 06:39:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_side_table": {
+    "criteria": {
+      "has_mangrove_side_table": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/mangrove_cupboard": {
+    "criteria": {
+      "has_mangrove_cupboard": "2025-04-17 06:39:27 +0000"
     },
     "done": true
   },

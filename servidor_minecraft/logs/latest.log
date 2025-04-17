@@ -2109,3 +2109,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 21:46:10.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu left the game
 [17Apr2025 22:07:35.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 10 players online: JhairJCM
 [17Apr2025 22:53:25.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Into Fire]
+[17Apr2025 23:11:34.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 23:11:34.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: slist<--[HERE]
+[17Apr2025 23:11:37.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 10 players online: JhairJCM
+[17Apr2025 23:11:40.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] oe vicioso papu

@@ -12846,15 +12846,135 @@
     },
     "done": true
   },
-  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_obsidian": "2025-04-17 09:08:28 +0000"
+      "has_azure_bluet": "2025-04-17 07:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-17 07:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-17 08:02:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-17 08:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-17 08:04:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-04-17 08:04:46 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/coal_block_slab": {
+    "criteria": {
+      "has_coal_block": "2025-04-17 08:04:46 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_coal_block_from_coal_block": {
+    "criteria": {
+      "has_coal_block": "2025-04-17 08:04:46 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/raw_iron_block_slab": {
+    "criteria": {
+      "has_raw_iron_block": "2025-04-17 08:04:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-04-17 08:04:51 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/campfire/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-04-17 08:08:21 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smelting/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-04-17 08:08:21 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smoking/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-04-17 08:08:21 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/nut_butter_bottle": {
+    "criteria": {
+      "has_nuts": "2025-04-17 08:08:21 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/baklava_no_citrus": {
+    "criteria": {
+      "has_nuts": "2025-04-17 08:08:21 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/storage/acorn_storage_block": {
+    "criteria": {
+      "has_acorn": "2025-04-17 08:08:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-17 08:15:04 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/quill": {
+    "criteria": {
+      "has_tag_a": "2025-04-17 08:15:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-04-17 08:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-17 08:15:25 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2025-04-17 08:15:25 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/clay_island": {
+    "criteria": {
+      "found_island": "2025-04-17 08:16:42 +0000"
     },
     "done": true
   },
@@ -12870,51 +12990,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-04-17 08:02:35 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/campfire/roasted_acorn": {
-    "criteria": {
-      "roasted_acorn": "2025-04-17 08:08:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/eat_comfort_food": {
-    "criteria": {
-      "comfort": "2025-04-17 08:54:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-04-17 08:57:24 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-17 08:27:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-04-17 08:57:31 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-04-17 08:27:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-04-17 08:02:35 +0000"
     },
     "done": true
   },
@@ -12930,21 +13014,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-04-17 08:57:31 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/oak_blinds": {
     "criteria": {
       "has_log": "2025-04-17 08:27:01 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
-    "criteria": {
-      "has_item": "2025-04-17 08:43:55 +0000"
     },
     "done": true
   },
@@ -12954,33 +13026,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/light_blue_dye_from_icy_iris": {
-    "criteria": {
-      "has_flower": "2025-04-17 08:43:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-04-17 08:27:01 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/train_trapdoor": {
-    "criteria": {
-      "has_item": "2025-04-17 08:50:19 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-17 08:27:01 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/smelting/roasted_acorn": {
-    "criteria": {
-      "roasted_acorn": "2025-04-17 08:08:21 +0000"
     },
     "done": true
   },
@@ -13015,57 +13069,15 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/palettes/copycat_vertical_step_from_conversion": {
-    "criteria": {
-      "has_item": "2025-04-17 08:45:05 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_oak_cabinet": {
     "criteria": {
       "has_log": "2025-04-17 08:27:01 +0000"
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
-    "criteria": {
-      "has_obsidian": "2025-04-17 09:08:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/track_signal": {
-    "criteria": {
-      "has_item": "2025-04-17 08:50:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-04-17 08:57:24 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-17 08:27:01 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/brake": {
-    "criteria": {
-      "has_item": "2025-04-17 09:08:28 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/raw_iron_block_slab": {
-    "criteria": {
-      "has_raw_iron_block": "2025-04-17 08:04:51 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/controls": {
-    "criteria": {
-      "has_item": "2025-04-17 08:50:19 +0000"
     },
     "done": true
   },
@@ -13081,33 +13093,9 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/coal_block_slab": {
-    "criteria": {
-      "has_coal_block": "2025-04-17 08:04:46 +0000"
-    },
-    "done": true
-  },
-  "chiselsandbits:recipes/tools/quill": {
-    "criteria": {
-      "has_tag_a": "2025-04-17 08:15:25 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-17 08:27:01 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/smoking/roasted_acorn": {
-    "criteria": {
-      "roasted_acorn": "2025-04-17 08:08:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-04-17 09:08:28 +0000"
     },
     "done": true
   },
@@ -13117,33 +13105,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-04-17 08:04:05 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-17 08:27:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-04-17 08:04:51 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/prismarine": {
     "criteria": {
       "has_the_recipe": "2025-04-17 08:27:01 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/palettes/copycat_slab_from_panels": {
-    "criteria": {
-      "has_item": "2025-04-17 08:43:52 +0000"
     },
     "done": true
   },
@@ -13165,12 +13135,6 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/palettes/copycat_slab_from_steps": {
-    "criteria": {
-      "has_item": "2025-04-17 08:45:05 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-17 08:27:01 +0000"
@@ -13183,21 +13147,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-04-17 08:44:56 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-04-17 08:27:01 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/item_silo_from_conversion": {
-    "criteria": {
-      "has_item": "2025-04-17 08:50:56 +0000"
     },
     "done": true
   },
@@ -13213,30 +13165,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
-    "criteria": {
-      "has_feather": "2025-04-17 08:15:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-04-17 07:58:45 +0000"
-    },
-    "done": true
-  },
-  "super_ore_block:recipes/building_blocks/super_coal_block_from_coal_block": {
-    "criteria": {
-      "has_coal_block": "2025-04-17 08:04:46 +0000"
-    },
-    "done": true
-  },
-  "create:track_0": {
-    "criteria": {
-      "0": "2025-04-17 08:51:45 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-17 08:27:01 +0000"
@@ -13246,24 +13174,6 @@
   "cfm:recipes/decorations/oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-04-17 08:27:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-04-17 08:44:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-04-17 09:08:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/track_observer": {
-    "criteria": {
-      "has_item": "2025-04-17 08:50:19 +0000"
     },
     "done": true
   },
@@ -13309,27 +13219,9 @@
     },
     "done": true
   },
-  "delightful:recipes/food/cooking/nut_butter_bottle": {
-    "criteria": {
-      "has_nuts": "2025-04-17 08:08:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/track_station": {
-    "criteria": {
-      "has_item": "2025-04-17 08:50:19 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-04-17 08:27:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-04-17 08:15:25 +0000"
     },
     "done": true
   },
@@ -13345,27 +13237,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/train_door": {
-    "criteria": {
-      "has_item": "2025-04-17 08:50:19 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/food/baklava_no_citrus": {
-    "criteria": {
-      "has_nuts": "2025-04-17 08:08:21 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-17 08:27:01 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-04-17 08:15:04 +0000"
     },
     "done": true
   },
@@ -13387,24 +13261,6 @@
     },
     "done": true
   },
-  "tconstruct:world/clay_island": {
-    "criteria": {
-      "found_island": "2025-04-17 08:16:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-04-17 07:58:45 +0000"
-    },
-    "done": true
-  },
-  "constructionwand:recipes/misc/core_angel": {
-    "criteria": {
-      "has_item": "2025-04-17 08:15:25 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-17 08:27:01 +0000"
@@ -13414,18 +13270,6 @@
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-04-17 08:27:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/track_observer_from_other_plates": {
-    "criteria": {
-      "has_item": "2025-04-17 08:50:19 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/storage/acorn_storage_block": {
-    "criteria": {
-      "has_acorn": "2025-04-17 08:08:21 +0000"
     },
     "done": true
   },
@@ -13447,9 +13291,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "mcwdoors:recipes/oak": {
     "criteria": {
-      "has_oxeye_daisy": "2025-04-17 08:57:31 +0000"
+      "has_wood": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_icy_iris": {
+    "criteria": {
+      "has_flower": "2025-04-17 08:43:35 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_slab_from_panels": {
+    "criteria": {
+      "has_item": "2025-04-17 08:43:52 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-17 08:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-04-17 08:44:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-04-17 08:44:56 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_vertical_step_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-17 08:45:05 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_slab_from_steps": {
+    "criteria": {
+      "has_item": "2025-04-17 08:45:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-17 08:50:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2025-04-17 08:50:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2025-04-17 08:50:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2025-04-17 08:50:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2025-04-17 08:50:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2025-04-17 08:50:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2025-04-17 08:50:19 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-17 08:50:56 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-04-17 08:51:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-04-17 08:54:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-17 08:57:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-17 08:57:24 +0000"
     },
     "done": true
   },
@@ -13459,9 +13417,51 @@
     },
     "done": true
   },
-  "mcwdoors:recipes/oak": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "has_wood": "2025-04-17 08:27:01 +0000"
+      "has_oxeye_daisy": "2025-04-17 08:57:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-17 08:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-17 08:57:31 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-04-17 09:08:28 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2025-04-17 09:08:28 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/brake": {
+    "criteria": {
+      "has_item": "2025-04-17 09:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-04-17 09:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-17 09:08:28 +0000"
     },
     "done": true
   },

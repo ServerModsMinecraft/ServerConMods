@@ -2658,3 +2658,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17Apr2025 05:29:49.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was slain by Cave Spider
 [17Apr2025 05:37:22.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid moved wrongly!
 [17Apr2025 05:42:32.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Mine? Mine? Mine?]
+[17Apr2025 05:43:07.451] [Worker-Main-23/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[17Apr2025 05:43:07.630] [Worker-Main-23/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[17Apr2025 05:43:07.630] [Worker-Main-23/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[17Apr2025 05:44:26.078] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2034, y=2, z=-830} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 05:44:26.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-2034, y=2, z=-830}
+[17Apr2025 05:45:06.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was slain by Bear
+[17Apr2025 05:50:05.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Not Today, Thank You]
+[17Apr2025 05:50:33.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Set the weather to clear]
+[17Apr2025 05:50:50.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Gamerule doWeatherCycle is now set to: false]
+[17Apr2025 05:51:48.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Smashing Success]
+[17Apr2025 05:52:30.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid moved too quickly! -5.647419654722171,0.2247629905309907,8.317677110417208
+[17Apr2025 05:52:49.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Close Quarters]

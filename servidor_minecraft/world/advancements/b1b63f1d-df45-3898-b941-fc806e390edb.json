@@ -762,6 +762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-17 05:51:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-04-17 05:31:20 +0000"
@@ -1062,6 +1068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-17 05:51:08 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/birch_palisade": {
     "criteria": {
       "has_log": "2025-04-17 04:08:35 +0000"
@@ -1242,6 +1254,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-04-17 05:43:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-17 04:09:48 +0000"
@@ -1371,6 +1389,12 @@
   "cfm:recipes/decorations/stripped_birch_chair": {
     "criteria": {
       "has_planks": "2025-04-17 04:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-17 05:51:08 +0000"
     },
     "done": true
   },
@@ -1897,6 +1921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-17 05:50:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 04:59:43 +0000"
@@ -2062,6 +2092,12 @@
   "mcwbridges:recipes/bridge_torch": {
     "criteria": {
       "has_planks": "2025-04-17 05:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-17 05:51:08 +0000"
     },
     "done": true
   },
@@ -2779,6 +2815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-17 05:47:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_mail_box": {
     "criteria": {
       "has_chest": "2025-04-17 04:34:08 +0000"
@@ -3181,6 +3223,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-17 05:50:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_cooler": {
     "criteria": {
       "has_chest": "2025-04-17 04:34:08 +0000"
@@ -3517,6 +3565,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-04-17 05:51:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-17 04:33:58 +0000"
@@ -3580,6 +3634,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_planks": "2025-04-17 04:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-17 05:51:10 +0000"
     },
     "done": true
   },
@@ -3819,6 +3879,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-17 05:50:38 +0000",
+      "cooked_cod": "2025-04-17 05:46:19 +0000",
       "rotten_flesh": "2025-04-17 04:15:43 +0000",
       "cod": "2025-04-17 04:37:33 +0000",
       "cooked_salmon": "2025-04-17 05:25:15 +0000"
@@ -4119,9 +4181,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-17 05:51:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
       "has_planks": "2025-04-17 04:09:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 05:43:53 +0000"
     },
     "done": true
   },
@@ -4248,6 +4322,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-17 04:09:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 05:43:53 +0000"
     },
     "done": true
   },
@@ -4534,6 +4614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-17 05:51:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2025-04-17 04:33:58 +0000"
@@ -4573,6 +4659,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-04-17 05:14:52 +0000",
+      "minecraft:stray": "2025-04-17 05:50:28 +0000",
       "minecraft:drowned": "2025-04-17 04:15:12 +0000"
     },
     "done": false
@@ -5040,6 +5127,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-04-17 05:51:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-04-17 05:39:11 +0000"
@@ -5292,6 +5385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-17 05:51:08 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/chain": {
     "criteria": {
       "has_ingot": "2025-04-17 04:59:43 +0000"
@@ -5367,6 +5466,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-04-17 04:40:47 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-04-17 05:43:11 +0000"
     },
     "done": true
   },
@@ -5844,6 +5949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-17 05:51:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-17 04:34:08 +0000"
@@ -6018,6 +6129,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/combat/tools/armor/travelers_shield": {
+    "criteria": {
+      "has_item": "2025-04-17 05:51:08 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/cushion/yellow_cushion": {
     "criteria": {
       "has_planks": "2025-04-17 04:09:06 +0000"
@@ -6081,6 +6198,12 @@
   "cfm:recipes/tools/spatula": {
     "criteria": {
       "has_iron": "2025-04-17 04:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-17 05:43:53 +0000"
     },
     "done": true
   },
@@ -6242,10 +6365,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-04-17 05:44:36 +0000",
       "shrubland": "2025-04-17 04:25:10 +0000",
+      "clover_patch": "2025-04-17 05:43:18 +0000",
       "orchard": "2025-04-17 05:40:25 +0000",
       "lavender_forest": "2025-04-17 04:25:26 +0000",
+      "mediterranean_forest": "2025-04-17 05:49:47 +0000",
       "spider_nest": "2025-04-17 05:21:38 +0000",
+      "redwood_forest": "2025-04-17 05:43:40 +0000",
       "dune_beach": "2025-04-17 04:24:54 +0000"
     },
     "done": false
@@ -6853,6 +6980,12 @@
   "chiselsandbits:recipes/tools/wrench": {
     "criteria": {
       "has_p": "2025-04-17 04:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-17 05:51:10 +0000"
     },
     "done": true
   },

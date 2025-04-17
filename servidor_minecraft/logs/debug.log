@@ -22121,3 +22121,210 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 08:18:24.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Apr2025 08:21:29.998] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-348, y=-44, z=-3423} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
 [17Apr2025 08:21:29.998] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-348, y=-44, z=-3423}
+[17Apr2025 08:22:22.813] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-161, y=-51, z=-3782} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:22:22.813] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-161, y=-51, z=-3782}
+[17Apr2025 08:23:24.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 08:23:24.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 08:23:38.055] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-112, y=-31, z=-4304} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:23:38.055] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-112, y=-31, z=-4304}
+[17Apr2025 08:23:52.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> aca
+[17Apr2025 08:24:22.801] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/roads/bent_1
+[17Apr2025 08:24:22.804] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/house/small_1
+[17Apr2025 08:24:22.806] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/house/small_2
+[17Apr2025 08:24:22.809] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/house/small_3
+[17Apr2025 08:24:22.810] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/house/small_4
+[17Apr2025 08:24:22.810] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/house/small_5
+[17Apr2025 08:24:22.813] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/house/med_1
+[17Apr2025 08:24:22.814] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/house/med_2
+[17Apr2025 08:24:22.817] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/house/big_1
+[17Apr2025 08:24:22.818] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/house/big_2
+[17Apr2025 08:24:22.819] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/jobsite/butcher
+[17Apr2025 08:24:22.821] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/jobsite/cartography
+[17Apr2025 08:24:22.822] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/jobsite/chemist
+[17Apr2025 08:24:22.826] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/jobsite/library
+[17Apr2025 08:24:22.828] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/jobsite/loomhouse
+[17Apr2025 08:24:22.829] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/jobsite/mason
+[17Apr2025 08:24:22.830] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/jobsite/pen
+[17Apr2025 08:24:22.831] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/jobsite/farm
+[17Apr2025 08:24:22.833] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/jobsite/smith
+[17Apr2025 08:24:22.835] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/jobsite/tannery
+[17Apr2025 08:24:22.836] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/jobsite/restaurant
+[17Apr2025 08:24:22.838] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/jobsite/fd_farm
+[17Apr2025 08:24:22.839] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/lamp_1
+[17Apr2025 08:24:22.840] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/lamp_2
+[17Apr2025 08:24:22.840] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/lamp_3
+[17Apr2025 08:24:22.842] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/lamp_4
+[17Apr2025 08:24:22.842] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/well
+[17Apr2025 08:24:22.843] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/cage
+[17Apr2025 08:24:22.845] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/cemetary
+[17Apr2025 08:24:22.846] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/tree
+[17Apr2025 08:24:22.846] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/grave_0
+[17Apr2025 08:24:22.847] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/grave_1
+[17Apr2025 08:24:22.847] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/grave_2
+[17Apr2025 08:24:22.848] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/grave_3
+[17Apr2025 08:24:22.848] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/grave_4
+[17Apr2025 08:24:22.849] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/grave_5
+[17Apr2025 08:24:22.849] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/jacko_1
+[17Apr2025 08:24:22.850] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/jacko_2
+[17Apr2025 08:24:22.850] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/jacko_3
+[17Apr2025 08:24:22.851] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/jacko_4
+[17Apr2025 08:24:22.851] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/decos/jacko_5
+[17Apr2025 08:24:22.852] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/deco/goddess_statue
+[17Apr2025 08:24:22.857] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/roads/straight
+[17Apr2025 08:24:22.863] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/roads/bent_2
+[17Apr2025 08:24:22.867] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/roads/t_3
+[17Apr2025 08:24:23.068] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/roads/intersection
+[17Apr2025 08:24:23.197] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/roads/t_2
+[17Apr2025 08:24:23.301] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/halloween/roads/t_1
+[17Apr2025 08:24:47.644] [Worker-Main-3/DEBUG] [mixin/]: Mixing dragonLibLegacy.AdvancementBehaviourAccessor from create_enchantment_industry.mixins.json into com.simibubi.create.foundation.advancement.AdvancementBehaviour
+[17Apr2025 08:24:47.644] [Worker-Main-3/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:dragonLibLegacy.AdvancementBehaviourAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[17Apr2025 08:24:47.649] [Worker-Main-3/DEBUG] [mixin/]: Mixing OpenEndedPipeInvoker from create_enchantment_industry.mixins.json into com.simibubi.create.content.fluids.OpenEndedPipe
+[17Apr2025 08:24:47.649] [Worker-Main-3/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:OpenEndedPipeInvoker: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[17Apr2025 08:24:47.649] [Worker-Main-3/DEBUG] [mixin/]: Mixing OpenEndedPipeMixin from create_enchantment_industry.mixins.json into com.simibubi.create.content.fluids.OpenEndedPipe
+[17Apr2025 08:24:47.649] [Worker-Main-3/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:OpenEndedPipeMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[17Apr2025 08:24:47.649] [Worker-Main-3/DEBUG] [mixin/]: Renaming synthetic method lambda$inject$2(Lnet/minecraftforge/fluids/capability/IFluidHandler;)V to mdff8eb0$lambda$inject$2$0 in create_enchantment_industry.mixins.json:OpenEndedPipeMixin
+[17Apr2025 08:24:47.650] [Worker-Main-3/DEBUG] [mixin/]: Renaming synthetic method lambda$inject$1(Lplus/dragons/createenchantmentindustry/content/contraptions/fluids/experience/ExperienceFluid;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/phys/Vec3;Lnet/minecraft/world/phys/Vec3;ILnet/minecraft/world/entity/player/Player;)V to mdff8eb0$lambda$inject$1$1 in create_enchantment_industry.mixins.json:OpenEndedPipeMixin
+[17Apr2025 08:24:47.650] [Worker-Main-3/DEBUG] [mixin/]: Renaming synthetic method lambda$inject$0(Lnet/minecraftforge/fluids/capability/IFluidHandler;)V to mdff8eb0$lambda$inject$0$2 in create_enchantment_industry.mixins.json:OpenEndedPipeMixin
+[17Apr2025 08:24:47.658] [Worker-Main-3/DEBUG] [mixin/]: Mixing OpenEndFluidHandlerMixin from create_enchantment_industry.mixins.json into com.simibubi.create.content.fluids.OpenEndedPipe$OpenEndFluidHandler
+[17Apr2025 08:24:47.658] [Worker-Main-3/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:OpenEndFluidHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[17Apr2025 08:25:14.213] [Server thread/DEBUG] [mixin/]: Mixing temp_platform.BlockHelperMixin from pattern_schematics.mixins.json into com.simibubi.create.foundation.utility.BlockHelper
+[17Apr2025 08:25:31.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Smashing Success]
+[17Apr2025 08:26:23.758] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2471, y=-25, z=-2786}
+[17Apr2025 08:26:23.759] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2472, y=-25, z=-2786}
+[17Apr2025 08:26:35.734] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2100, y=-27, z=-3231}
+[17Apr2025 08:26:49.758] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/roads/t_1 is being run through DFU (hash 2eae464e0dedadb31c459318650123eb3c4f416ccac75ebc5fc623e212d67de8), this will cause launch time delays
+[17Apr2025 08:26:49.809] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/house/big_1 is being run through DFU (hash bc6fb2772f261e0990e60e1c041ee97b388d78e8cab59435e42813a8b03b6aef), this will cause launch time delays
+[17Apr2025 08:26:49.821] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/house/med_1 is being run through DFU (hash e8fb019f2f4dfe634bc11c5ab803b3437317fd8e5dbe171c1f7a09ba84e70e6a), this will cause launch time delays
+[17Apr2025 08:26:49.830] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/house/med_2 is being run through DFU (hash 1a57efe0dfc367f0459351a60018bb6209e2adf0b512daa6fe4d38aa790ae5a9), this will cause launch time delays
+[17Apr2025 08:26:49.842] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/house/small_1 is being run through DFU (hash 2f18d58a3eb08b9e900039ce970b3bf577bfd7119ca720ff3b16ff915c7bae65), this will cause launch time delays
+[17Apr2025 08:26:49.846] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/house/small_2 is being run through DFU (hash de251961b43edba6b857297c8cbce26c44f0118a0ca52c9118676ebeb4354da7), this will cause launch time delays
+[17Apr2025 08:26:49.851] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/house/small_3 is being run through DFU (hash 8151633872d131525d5a207cad787c07419e9976e31524bfac7404f263a6700f), this will cause launch time delays
+[17Apr2025 08:26:49.857] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/house/small_4 is being run through DFU (hash b45e654952cbb57c0508b7cfbab996064306ec7c04618758b7658175588dcdaf), this will cause launch time delays
+[17Apr2025 08:26:49.861] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/house/small_5 is being run through DFU (hash e576ffc7f1896b108b8af5d5616e2e59564b6b8ed7bc94afee0dc17d0f03389e), this will cause launch time delays
+[17Apr2025 08:26:49.865] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/butcher is being run through DFU (hash e4533560e086dd87cedd1db485c163fea82822110d477ee9bc1e24b162aa7ea4), this will cause launch time delays
+[17Apr2025 08:26:49.870] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/chemist is being run through DFU (hash f2e44e2cc2194e2d1bc1f6c3f7ac7ac605add6a306edc2163d4bdef814f11052), this will cause launch time delays
+[17Apr2025 08:26:49.874] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/farm is being run through DFU (hash 1a45b6b77d0249ea2ac297f941cd3e305a12458e2c2115fd7bf4b5c5f4fd9ef3), this will cause launch time delays
+[17Apr2025 08:26:49.883] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/leather is being run through DFU (hash 23789fc2fef1edc759a6424ebac0839c967b11a2186a4731166f80ba171d6d6e), this will cause launch time delays
+[17Apr2025 08:26:49.889] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/library is being run through DFU (hash 20e04e1f715e6babfb61396a5ea38ecf29628309364849b6dedf126b5988293d), this will cause launch time delays
+[17Apr2025 08:26:49.892] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/mason is being run through DFU (hash f2944783a5ae7242084a56a186ffcea0f2eb11dc538a640b6a8953581a22545c), this will cause launch time delays
+[17Apr2025 08:26:49.900] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/shepherd is being run through DFU (hash 1abfac02890507454fd3f1a0c964f259bd4e4165ab5e6644dee1c777215aff32), this will cause launch time delays
+[17Apr2025 08:26:49.904] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/smith is being run through DFU (hash 87022e41d48822c2d4501254453a5a4062e5afc506e80973599b7f2b24d92565), this will cause launch time delays
+[17Apr2025 08:26:49.911] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/cartography is being run through DFU (hash 67c31d2552fde2367f52f025856d04b373abed04a359acc324bb1e3690e3f174), this will cause launch time delays
+[17Apr2025 08:26:49.925] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/restaurant is being run through DFU (hash 0c74d424012ee22730202ced44a258f870d985df7f7820fb58c0d12d7574eabe), this will cause launch time delays
+[17Apr2025 08:26:49.928] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/fd_farm is being run through DFU (hash a3661d0c6c4d53f13f4228216fce5fc3da9e5dcada42a21cd3ce4e4d826a59ee), this will cause launch time delays
+[17Apr2025 08:26:49.934] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/deco/melon_1 is being run through DFU (hash edc524344d8e5fa7612a71c508d5d20f5735addc3e99c23216301d60493cdde6), this will cause launch time delays
+[17Apr2025 08:26:49.935] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/deco/shed is being run through DFU (hash 7ba6e93a777735d95c6edd8db70361960027d45c1a62d65c315b2fa76f85b7bd), this will cause launch time delays
+[17Apr2025 08:26:49.936] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/deco/statue_2 is being run through DFU (hash 3562b28acc0572cf841c5bcf27a3ccdbab445285e38a1b878561758e3296482b), this will cause launch time delays
+[17Apr2025 08:26:49.937] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/deco/well is being run through DFU (hash 27225df0b0b888eba3c351afcb2bef69382128a2bd407db9fed71b6f1c2b9e35), this will cause launch time delays
+[17Apr2025 08:26:49.952] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/roads/straight is being run through DFU (hash 3f70ca9b7a6f38b014a01f5fe5fae6457a81e4f69a621832a077f38ad73446f1), this will cause launch time delays
+[17Apr2025 08:26:49.959] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/roads/bent_1 is being run through DFU (hash 10064891dcb4f1677c41d615515dd8714e757b556e5df8317c26c35214cc8e20), this will cause launch time delays
+[17Apr2025 08:26:49.967] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/roads/t_3 is being run through DFU (hash 4303ba184372a3a5dce4608c774fe8c324a01dd45e0b0944ebcd92bd0f59724a), this will cause launch time delays
+[17Apr2025 08:26:49.980] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/roads/bent_2 is being run through DFU (hash 72270c5466cf494f37f92a5c6826718ccb1754c8c2f5ad357e73a8f41d9cc865), this will cause launch time delays
+[17Apr2025 08:26:49.987] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/roads/t_2 is being run through DFU (hash 196b6309ff415f49f23250b7ee6da516b759fc97232475cba8fd93686b44d90e), this will cause launch time delays
+[17Apr2025 08:26:49.995] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/villager/jungle
+[17Apr2025 08:26:50.071] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/jungle/roads/inter is being run through DFU (hash 7b4d1999b523b057f32324dbabe8348c91150e48c8ad498e3275bdc7028a784c), this will cause launch time delays
+[17Apr2025 08:26:53.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 0.26415731433735345
+[17Apr2025 08:26:53.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 0.6365267595188016
+[17Apr2025 08:27:21.221] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-247, y=-21, z=-4574} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:27:21.221] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-247, y=-21, z=-4574}
+[17Apr2025 08:27:58.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=155, y=-30, z=-4935} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:27:58.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=155, y=-30, z=-4935}
+[17Apr2025 08:28:05.772] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[17Apr2025 08:28:05.772] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[17Apr2025 08:28:05.773] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[17Apr2025 08:28:05.773] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[17Apr2025 08:28:05.773] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[17Apr2025 08:28:05.773] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[17Apr2025 08:28:05.774] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[17Apr2025 08:28:24.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 08:28:24.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 08:28:37.834] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=75, y=-26, z=285}
+[17Apr2025 08:28:37.835] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=74, y=-25, z=291}
+[17Apr2025 08:28:37.835] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=74, y=-25, z=289}
+[17Apr2025 08:28:37.835] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=74, y=-25, z=293}
+[17Apr2025 08:29:12.768] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2436, y=-49, z=-3944} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:29:12.769] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-2436, y=-49, z=-3944}
+[17Apr2025 08:30:22.976] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-26, z=202}
+[17Apr2025 08:30:22.977] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-26, z=203}
+[17Apr2025 08:30:22.977] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=202}
+[17Apr2025 08:30:22.977] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=196}
+[17Apr2025 08:30:22.977] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-24, z=195}
+[17Apr2025 08:30:22.978] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=194}
+[17Apr2025 08:30:22.978] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=198}
+[17Apr2025 08:30:22.979] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=195}
+[17Apr2025 08:30:22.979] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=194}
+[17Apr2025 08:30:22.979] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=196}
+[17Apr2025 08:30:22.980] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=196}
+[17Apr2025 08:30:22.980] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=193}
+[17Apr2025 08:30:42.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 0.3244169306112781
+[17Apr2025 08:30:42.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 0.7530412012001761
+[17Apr2025 08:30:42.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 1.1816691823219116
+[17Apr2025 08:30:42.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 1.610299148876038
+[17Apr2025 08:30:43.294] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/swamp/base_plate
+[17Apr2025 08:30:43.301] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/base_plate
+[17Apr2025 08:30:43.310] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/mountain/base_plate
+[17Apr2025 08:30:43.314] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/desert/base_plate
+[17Apr2025 08:30:43.318] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/dark_forest/base_plate
+[17Apr2025 08:30:43.321] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/beach/base_plate
+[17Apr2025 08:30:43.328] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/taiga/base_plate
+[17Apr2025 08:30:43.333] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/badlands/base_plate
+[17Apr2025 08:30:43.426] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/straight is being run through DFU (hash ac6355e2e9589162d9bc5fc97fef49edadc69ece81f579f78169b6e4b5d151c7), this will cause launch time delays
+[17Apr2025 08:30:43.475] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/t_2 is being run through DFU (hash d09fa61dfc2f8b0fbcc05b5931ca2de4dcc05141471602d323f6e9579ca56ffe), this will cause launch time delays
+[17Apr2025 08:30:43.484] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/small_1 is being run through DFU (hash 530fbe4fc1856fe7806067c47b2967d1f59d2d223ab87deb5e9c7e05ec8aec6b), this will cause launch time delays
+[17Apr2025 08:30:43.505] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/small_2 is being run through DFU (hash 84b5c48b59824f337d2d197dbc45a3f7a1d34fb9dfc9dbe2d2031345275a98f3), this will cause launch time delays
+[17Apr2025 08:30:43.527] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/small_3 is being run through DFU (hash 877641db5b13a5404e364c94b343db6964ba21e4db2007ac0f31b66deaa04289), this will cause launch time delays
+[17Apr2025 08:30:43.552] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/small_4 is being run through DFU (hash 0c73a298925f250c805b88f2f5415680030c18dc6671fafcfafa0fa0e9d367e1), this will cause launch time delays
+[17Apr2025 08:30:43.573] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/big_3 is being run through DFU (hash 80c5853c58a99ea7bf4d973629104f941015e25f9e4c681a324686f1c03a3a8a), this will cause launch time delays
+[17Apr2025 08:30:43.612] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/mid_1 is being run through DFU (hash 5a9572bd51355918bfe4061dfa51cd240a1c82514d723314c414ad29a1a843b6), this will cause launch time delays
+[17Apr2025 08:30:43.637] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/mid_2 is being run through DFU (hash 970169706aba8f3e97644dcb7049b95c17b043f15dc4aaf6db69b87bb738ad32), this will cause launch time delays
+[17Apr2025 08:30:43.666] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/big_1 is being run through DFU (hash 3c663e351348868fc499af42ea99b395fa6efd02125fb52cb8074782babd8a4d), this will cause launch time delays
+[17Apr2025 08:30:43.700] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/big_2 is being run through DFU (hash 908ee942c265f44a9189e809838b3b73d5408d21151fc1d7004b04dfa3e154ae), this will cause launch time delays
+[17Apr2025 08:30:43.721] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/butcher is being run through DFU (hash 54402bc38fbf77aacf4ab0c96ee4e1b233d3cf3fc2c52d77cb53b26b21102e93), this will cause launch time delays
+[17Apr2025 08:30:43.738] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/cartographer is being run through DFU (hash b80ada6b8db1036997ccc68c49c165550df69fac5ee1d97674dcdfc6db0a110f), this will cause launch time delays
+[17Apr2025 08:30:43.757] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/chemist is being run through DFU (hash 48e4c8e15cf8ba50ba0877514bdb98c7ada96ca03177169cd4cd418373f246e0), this will cause launch time delays
+[17Apr2025 08:30:43.786] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/library is being run through DFU (hash de376cf06fae11cb5b2a803f2e30797889556c93d4ae7e8a530c11a138c95f23), this will cause launch time delays
+[17Apr2025 08:30:43.816] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/shepherd is being run through DFU (hash 57a3c1590d1ae0ed249a5a3bf6bd90d28c8019bfd4e9d06c33001bb1f13dbd15), this will cause launch time delays
+[17Apr2025 08:30:43.832] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/mason is being run through DFU (hash 90effc802019f521697beec76cb859d9df7de578beaca940a694421ecfc9c6fa), this will cause launch time delays
+[17Apr2025 08:30:43.851] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/pen is being run through DFU (hash 388300e638c0900403c7b08c341bdf275490c530d3d2597824c14ef215b719f4), this will cause launch time delays
+[17Apr2025 08:30:43.853] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/farm is being run through DFU (hash d834b87cd4d769bcad5f5bb138567a23cdede882a2d044cb20f32bbcf7afad70), this will cause launch time delays
+[17Apr2025 08:30:43.878] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/smith is being run through DFU (hash 51a9f7311e89d70b978774a9ab106c880c9e4dbbeadb4ccf00500b88bc33d3a7), this will cause launch time delays
+[17Apr2025 08:30:43.898] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/restaurant is being run through DFU (hash 154be5a5ddeb53d2cc103c2ccef02612a970c3d7baa065ac77cad10d22fa5235), this will cause launch time delays
+[17Apr2025 08:30:43.913] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/fd_farm is being run through DFU (hash 0721bf179628e563508d727ef86c9a9569559a7842328cb67fa2c57a89895061), this will cause launch time delays
+[17Apr2025 08:30:43.948] [Worker-Main-2/DEBUG] [ModernFix/]: Structure waystones:village/desert/waystone is being run through DFU (hash 5acb5b060578cb1eb92dd528424c2635b6cc7be8b854e58450e2df50a8f8a045), this will cause launch time delays
+[17Apr2025 08:30:44.075] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_1 is being run through DFU (hash a742078c1ecb2ec49a6f4bf37062eb9fa4e2b2c825c9e0b06439b01a10178952), this will cause launch time delays
+[17Apr2025 08:30:44.076] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_2 is being run through DFU (hash e89955eedd9eeeb0fc28587aac3278ec21a6024f2bd9e3541fc0692371a75a0b), this will cause launch time delays
+[17Apr2025 08:30:44.077] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_3 is being run through DFU (hash 323b788d9cf1a3e176b08b89fd07b64afded0dc230e7d888654a2cf4894b5fd6), this will cause launch time delays
+[17Apr2025 08:30:44.078] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_4 is being run through DFU (hash a31f22e3f8f04a8a8bf6ce18651f17310b18cb0c9209bb61d4dc5048d42d3db7), this will cause launch time delays
+[17Apr2025 08:30:44.078] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_5 is being run through DFU (hash 1dc8f0d7ee016beb251b0d3a06d339be240e46fdb10aff4de5c71cd6879f1698), this will cause launch time delays
+[17Apr2025 08:30:44.079] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/well is being run through DFU (hash e96de773e2ba29cd7bb485b09c40473c68a4556698fd088bdb6e9e917b260214), this will cause launch time delays
+[17Apr2025 08:30:44.081] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/bench is being run through DFU (hash 77b1acdf7224c860b91230af0d85eb413c00395a5f2825d2ab2e088d897b0210), this will cause launch time delays
+[17Apr2025 08:30:44.082] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/boat is being run through DFU (hash bd449d6b061806e2143d8c0a39e65100db07d154909ad77ec350dd3a77316ce6), this will cause launch time delays
+[17Apr2025 08:30:44.083] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_0 is being run through DFU (hash 77b21f5ca14537315fbb8633b54cd3268e8a17996a05f7f3bb4e17310f516b40), this will cause launch time delays
+[17Apr2025 08:30:44.084] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/goddess_statue is being run through DFU (hash aaaf683ca0c6c7992584459c62d07e5303c734b58bb0641d1360108fb86e41ef), this will cause launch time delays
+[17Apr2025 08:30:44.191] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/t_3 is being run through DFU (hash 9d7e17a4888834f030ba03cbc3ad7ca45d1491e095989a99f14a833e1e32dd6a), this will cause launch time delays
+[17Apr2025 08:30:44.219] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/bent_1 is being run through DFU (hash c946c47a784ab2756b5eaa87c86b1758076e90c322e67ea08ce8291a11875b17), this will cause launch time delays
+[17Apr2025 08:30:44.419] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/t_1 is being run through DFU (hash 240844057168ff6bfa1e39aad7a2870902f0b96eb5b64dbdead56c68176dc30d), this will cause launch time delays
+[17Apr2025 08:30:44.430] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/bent_2 is being run through DFU (hash faa5b858e9bb4de13783abdf33b3889deb4f239e047de88544ff93dc86c77673), this will cause launch time delays
+[17Apr2025 08:30:44.437] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/inter is being run through DFU (hash 5c291aa99aa71b679e636e696c96d3ad2d8b20aa8ef0c7ef772944540df03ba9), this will cause launch time delays
+[17Apr2025 08:30:44.448] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/terminator is being run through DFU (hash f6405405e69c80d4accb776136e923e3150f9aafd011193bb71ff2ea04f7d6d5), this will cause launch time delays
+[17Apr2025 08:31:00.251] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=110, y=-24, z=245}
+[17Apr2025 08:31:00.251] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=110, y=-24, z=244}
+[17Apr2025 08:31:00.251] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=111, y=-24, z=244}
+[17Apr2025 08:31:00.252] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-25, z=248}
+[17Apr2025 08:31:00.252] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=113, y=-23, z=244}
+[17Apr2025 08:31:00.253] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=112, y=-24, z=244}
+[17Apr2025 08:31:13.469] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2573, y=-2, z=-4328} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:31:13.469] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-2573, y=-2, z=-4328}
+[17Apr2025 08:31:33.564] [Worker-Main-2/DEBUG] [mixin/]: Mixing SchematicannonInventoryMixin from pattern_schematics.mixins.json into com.simibubi.create.content.schematics.cannon.SchematicannonInventory
+[17Apr2025 08:31:33.569] [Worker-Main-2/DEBUG] [mixin/]: Mixing temp_platform.SchematicPrinterMixin from pattern_schematics.mixins.json into com.simibubi.create.content.schematics.SchematicPrinter
+[17Apr2025 08:31:33.598] [Worker-Main-2/DEBUG] [mixin/]: Mixing sequencedgearshift.SequencerInstructionsMixin from create_connected.mixins.json into com.simibubi.create.content.kinetics.transmission.sequencer.SequencerInstructions
+[17Apr2025 08:31:33.598] [Worker-Main-2/DEBUG] [mixin/]: create_connected.mixins.json:sequencedgearshift.SequencerInstructionsMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[17Apr2025 08:31:33.599] [Worker-Main-2/DEBUG] [mixin/]: Renaming @Invoker method create_connected$invokeInit(Ljava/lang/String;ILjava/lang/String;Lcom/simibubi/create/foundation/gui/AllGuiTextures;)Lcom/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions; to create_connected$invokeInit_$md$ff8eb0$0 in create_connected.mixins.json:sequencedgearshift.SequencerInstructionsMixin
+[17Apr2025 08:31:33.599] [Worker-Main-2/DEBUG] [mixin/]: Renaming @Invoker method create_connected$invokeInit(Ljava/lang/String;ILjava/lang/String;Lcom/simibubi/create/foundation/gui/AllGuiTextures;ZZIII)Lcom/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions; to create_connected$invokeInit_$md$ff8eb0$1 in create_connected.mixins.json:sequencedgearshift.SequencerInstructionsMixin
+[17Apr2025 08:31:40.689] [Server thread/DEBUG] [mixin/]: Mixing chaincogwheel.RotationPropagatorMixin from create_connected.mixins.json into com.simibubi.create.content.kinetics.RotationPropagator
+[17Apr2025 08:31:40.689] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:chaincogwheel.RotationPropagatorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[17Apr2025 08:31:40.691] [Server thread/DEBUG] [mixin/]: Mixing create.RotationPropagatorMixin from createcasing.mixins.json into com.simibubi.create.content.kinetics.RotationPropagator
+[17Apr2025 08:31:42.965] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2589, y=39, z=-4441} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:31:42.965] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-2589, y=39, z=-4441}
+[17Apr2025 08:31:50.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> mande
+[17Apr2025 08:32:07.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> arriba

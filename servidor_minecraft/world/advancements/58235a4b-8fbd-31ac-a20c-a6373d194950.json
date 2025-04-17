@@ -749,6 +749,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-04-17 08:21:27 +0000",
       "minecraft:taiga": "2025-04-17 08:14:01 +0000",
       "minecraft:deep_ocean": "2025-04-17 04:06:37 +0000",
       "minecraft:birch_forest": "2025-04-17 03:55:02 +0000",
@@ -6651,6 +6652,7 @@
     "criteria": {
       "woodland": "2025-04-17 05:51:23 +0000",
       "shrubland": "2025-04-17 04:25:48 +0000",
+      "rocky_shrubland": "2025-04-17 08:24:38 +0000",
       "scrubland": "2025-04-17 07:09:53 +0000",
       "old_growth_woodland": "2025-04-17 05:51:15 +0000",
       "orchard": "2025-04-17 05:42:27 +0000",
@@ -6662,6 +6664,7 @@
       "dune_beach": "2025-04-17 04:25:36 +0000",
       "pasture": "2025-04-17 08:05:30 +0000",
       "volcanic_plains": "2025-04-17 07:45:19 +0000",
+      "grassland": "2025-04-17 08:26:54 +0000",
       "prairie": "2025-04-17 08:06:01 +0000",
       "rainforest": "2025-04-17 07:40:05 +0000"
     },
@@ -12835,6 +12838,18 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/dark_prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/oak_log_slab": {
+    "criteria": {
+      "has_oak_log": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-17 08:02:35 +0000"
@@ -12847,9 +12862,57 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-17 08:02:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_blinds": {
+    "criteria": {
+      "has_log": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-17 08:27:01 +0000"
     },
     "done": true
   },
@@ -12859,9 +12922,64 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-04-17 08:27:01 +0000",
+      "has_the_recipe": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/raw_iron_block_slab": {
     "criteria": {
       "has_raw_iron_block": "2025-04-17 08:04:51 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mangrove": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-17 08:27:01 +0000"
     },
     "done": true
   },
@@ -12877,9 +12995,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/smoking/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-04-17 08:08:21 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/red_sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 08:27:01 +0000"
     },
     "done": true
   },
@@ -12889,9 +13019,69 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-04-17 08:04:51 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/warped": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/components": {
+    "criteria": {
+      "has_wood": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 08:27:01 +0000"
     },
     "done": true
   },
@@ -12913,9 +13103,69 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/crimson": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/nut_butter_bottle": {
     "criteria": {
       "has_nuts": "2025-04-17 08:08:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-17 08:27:01 +0000"
     },
     "done": true
   },
@@ -12925,15 +13175,51 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/baklava_no_citrus": {
     "criteria": {
       "has_nuts": "2025-04-17 08:08:21 +0000"
     },
     "done": true
   },
+  "mcwwindows:recipes/sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-04-17 08:15:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_classic": {
+    "criteria": {
+      "has_logs": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-04-17 08:27:01 +0000"
     },
     "done": true
   },
@@ -12955,9 +13241,45 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/storage/acorn_storage_block": {
     "criteria": {
       "has_acorn": "2025-04-17 08:08:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-04-17 08:27:01 +0000"
     },
     "done": true
   },

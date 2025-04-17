@@ -2683,3 +2683,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17Apr2025 06:05:55.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [The Parrots and the Bats]
 [17Apr2025 06:08:53.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Penteconter]
 [17Apr2025 06:11:34.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [What a Deal!]
+[17Apr2025 06:16:26.803] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Maybelle'/44495, l='ServerLevel[world]', x=-2078.54, y=71.00, z=-802.36] died, message: 'Maybelle was killed by Witch using magic'
+[17Apr2025 06:16:26.805] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Maybelle'/44495, l='ServerLevel[world]', x=-2078.54, y=71.00, z=-802.36] died: Maybelle was killed by Witch using magic
+[17Apr2025 06:17:20.858] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1763, y=36, z=-602}
+[17Apr2025 06:17:21.912] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1534, y=-50, z=-1316}
+[17Apr2025 06:17:21.913] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1534, y=-50, z=-1314}
+[17Apr2025 06:17:55.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Hot Stuff]
+[17Apr2025 06:18:15.953] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jefferey'/44556, l='ServerLevel[world]', x=-2088.08, y=74.00, z=-818.49] died, message: 'Jefferey was killed by Witch using magic'
+[17Apr2025 06:18:15.954] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jefferey'/44556, l='ServerLevel[world]', x=-2088.08, y=74.00, z=-818.49] died: Jefferey was killed by Witch using magic
+[17Apr2025 06:19:22.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sameu lost connection: Disconnected
+[17Apr2025 06:19:22.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu left the game
+[17Apr2025 06:20:47.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sameu[/127.218.188.179:43865] logged in with entity id 57740 at (-1280.395535389994, 62.07326432466506, -801.6875)
+[17Apr2025 06:20:47.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu joined the game
+[17Apr2025 06:20:47.904] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity BoatBOP['Boat'/57741, l='ServerLevel[world]', x=-1280.40, y=62.52, z=-801.69] as it would cause deadlock
+[17Apr2025 06:20:47.904] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity BoatBOP['Boat'/57741, l='ServerLevel[world]', x=-1280.40, y=62.52, z=-801.69] as it would cause deadlock
+[17Apr2025 06:20:48.083] [Server thread/INFO] [Jade/]: Syncing config to Sameu (b1b63f1d-df45-3898-b941-fc806e390edb)
+[17Apr2025 06:33:05.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Crops of the Wild]

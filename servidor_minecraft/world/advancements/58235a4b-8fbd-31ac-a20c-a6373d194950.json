@@ -12846,6 +12846,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-04-17 09:08:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-04-17 08:04:46 +0000"
@@ -13021,6 +13027,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2025-04-17 09:08:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/track_signal": {
     "criteria": {
       "has_item": "2025-04-17 08:50:19 +0000"
@@ -13036,6 +13048,12 @@
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/brake": {
+    "criteria": {
+      "has_item": "2025-04-17 09:08:28 +0000"
     },
     "done": true
   },
@@ -13084,6 +13102,12 @@
   "delightful:recipes/smoking/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-04-17 08:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-04-17 09:08:28 +0000"
     },
     "done": true
   },
@@ -13228,6 +13252,12 @@
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-04-17 08:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-17 09:08:28 +0000"
     },
     "done": true
   },
@@ -13432,6 +13462,12 @@
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-17 09:08:28 +0000"
     },
     "done": true
   },

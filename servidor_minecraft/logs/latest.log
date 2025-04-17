@@ -2285,3 +2285,33 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 09:01:55.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu left the game
 [17Apr2025 09:02:22.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhairJCM lost connection: Disconnected
 [17Apr2025 09:02:22.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM left the game
+[17Apr2025 09:08:28.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Ice Bucket Challenge]
+[17Apr2025 09:08:28.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Gave 2 [Obsidian] to DierkDavid]
+[17Apr2025 09:12:11.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid lost connection: Disconnected
+[17Apr2025 09:12:11.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid left the game
+[17Apr2025 09:12:15.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 09:12:15.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: save<--[HERE]
+[17Apr2025 09:12:19.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 09:12:19.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: save<--[HERE]
+[17Apr2025 09:12:22.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Apr2025 09:12:22.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Apr2025 09:12:22.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Apr2025 09:12:22.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Apr2025 09:12:22.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Apr2025 09:12:22.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Apr2025 09:12:22.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/createteleporters:pocket_dimension
+[17Apr2025 09:12:22.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Apr2025 09:12:22.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[17Apr2025 09:12:22.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[17Apr2025 09:12:22.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Apr2025 09:12:22.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Apr2025 09:12:22.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[17Apr2025 09:12:22.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Apr2025 09:12:22.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[17Apr2025 09:12:22.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[17Apr2025 09:12:22.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Apr2025 09:12:23.109] [Server thread/INFO] [Framework/]: Unloading server configs...
+[17Apr2025 09:12:23.113] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[17Apr2025 09:12:23.117] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[17Apr2025 09:12:23.117] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[17Apr2025 09:12:23.127] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

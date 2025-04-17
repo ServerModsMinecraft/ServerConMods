@@ -11048,6 +11048,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-04-17 21:05:35 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/cobbled_deepslate": {
     "criteria": {
       "has_wood": "2025-04-17 19:16:31 +0000"
@@ -11294,6 +11300,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2025-04-17 21:05:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-04-17 20:56:17 +0000"
@@ -11357,6 +11369,12 @@
   "buildinggadgets2:recipes/misc/template_manager": {
     "criteria": {
       "has_paper": "2025-04-17 20:56:17 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/brake": {
+    "criteria": {
+      "has_item": "2025-04-17 21:05:35 +0000"
     },
     "done": true
   },
@@ -11609,6 +11627,12 @@
   "create:recipes/misc/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-17 21:05:35 +0000"
     },
     "done": true
   },
@@ -11939,6 +11963,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-17 19:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-17 21:05:35 +0000"
     },
     "done": true
   },

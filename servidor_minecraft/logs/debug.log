@@ -22016,3 +22016,42 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 20:51:14.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Apr2025 20:51:38.263] [Server thread/DEBUG] [mixin/]: Mixing temp_platform.BlockHelperMixin from pattern_schematics.mixins.json into com.simibubi.create.foundation.utility.BlockHelper
 [17Apr2025 20:51:38.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [The Andesite Age]
+[17Apr2025 20:55:43.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/straight
+[17Apr2025 20:55:43.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/inter
+[17Apr2025 20:55:43.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/campfire_1
+[17Apr2025 20:55:43.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/smith
+[17Apr2025 20:55:43.104] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_5
+[17Apr2025 20:55:43.105] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/bent_1
+[17Apr2025 20:55:43.105] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/weaponsmith
+[17Apr2025 20:55:43.106] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_1
+[17Apr2025 20:55:43.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_3
+[17Apr2025 20:55:43.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_1
+[17Apr2025 20:55:43.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_3
+[17Apr2025 20:55:43.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_2
+[17Apr2025 20:55:43.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/archer
+[17Apr2025 20:55:43.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/well
+[17Apr2025 20:55:43.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/tannery
+[17Apr2025 20:55:43.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/terminator
+[17Apr2025 20:55:43.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_1
+[17Apr2025 20:55:43.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_4
+[17Apr2025 20:55:43.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_2
+[17Apr2025 20:55:43.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/bent_2
+[17Apr2025 20:55:43.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/fountain
+[17Apr2025 20:55:43.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/flowerbed
+[17Apr2025 20:55:43.128] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/goddess_statue
+[17Apr2025 20:55:43.129] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_2
+[17Apr2025 20:55:43.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/med_1
+[17Apr2025 20:55:43.136] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/fd_farm
+[17Apr2025 20:55:43.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/bench
+[17Apr2025 20:55:43.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/library
+[17Apr2025 20:55:43.140] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[17Apr2025 20:55:43.140] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_4
+[17Apr2025 20:55:43.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/campfire_2
+[17Apr2025 20:55:43.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/butcher
+[17Apr2025 20:55:43.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/melon_1
+[17Apr2025 20:55:43.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/armoursmith
+[17Apr2025 20:55:43.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/lamp_1
+[17Apr2025 20:56:14.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 20:56:14.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 21:01:14.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 21:01:14.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -2216,3 +2216,55 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 08:41:45.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> donde esta el chek
 [17Apr2025 08:42:57.784] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Luis'/54611, l='ServerLevel[world]', x=-2060.29, y=95.00, z=-5594.92] died, message: 'Luis withered away'
 [17Apr2025 08:42:57.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Luis'/54611, l='ServerLevel[world]', x=-2060.29, y=95.00, z=-5594.92] died: Luis withered away
+[17Apr2025 08:43:06.648] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1736, y=12, z=-5551} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:43:06.648] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-1736, y=12, z=-5551}
+[17Apr2025 08:43:34.521] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1729, y=-39, z=-5528} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:43:34.521] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-1729, y=-39, z=-5528}
+[17Apr2025 08:43:34.521] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1730, y=-38, z=-5528} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:43:34.521] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-1730, y=-38, z=-5528}
+[17Apr2025 08:45:24.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> enojon es
+[17Apr2025 08:46:49.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> XD
+[17Apr2025 08:47:31.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1557, y=22, z=-6045} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:47:31.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-1557, y=22, z=-6045}
+[17Apr2025 08:47:41.446] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Apr2025 08:47:41.535] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Apr2025 08:47:41.633] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Apr2025 08:47:41.728] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Apr2025 08:47:41.838] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Apr2025 08:48:00.745] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1182, y=-34, z=-5894} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:48:00.746] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-1182, y=-34, z=-5894}
+[17Apr2025 08:48:20.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gil'/60697, l='ServerLevel[world]', x=-998.48, y=-65.00, z=-6028.82] died, message: 'Gil was killed'
+[17Apr2025 08:48:20.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Gil'/60697, l='ServerLevel[world]', x=-998.48, y=-65.00, z=-6028.82] died: Gil was killed
+[17Apr2025 08:48:49.587] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-26, z=202}
+[17Apr2025 08:48:49.588] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-26, z=203}
+[17Apr2025 08:48:49.588] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=202}
+[17Apr2025 08:48:49.588] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=196}
+[17Apr2025 08:48:49.588] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-24, z=195}
+[17Apr2025 08:48:49.589] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=194}
+[17Apr2025 08:48:49.589] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=198}
+[17Apr2025 08:48:49.589] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=195}
+[17Apr2025 08:48:49.590] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=194}
+[17Apr2025 08:48:49.590] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=196}
+[17Apr2025 08:48:49.590] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=196}
+[17Apr2025 08:48:49.590] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=193}
+[17Apr2025 08:48:52.454] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[17Apr2025 08:48:52.469] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[17Apr2025 08:48:52.477] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[17Apr2025 08:48:52.482] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[17Apr2025 08:48:52.486] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[17Apr2025 08:48:52.496] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[17Apr2025 08:48:52.505] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[17Apr2025 08:48:52.509] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[17Apr2025 08:48:59.492] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=53, y=-22, z=239}
+[17Apr2025 08:48:59.493] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=59, y=-22, z=239}
+[17Apr2025 08:48:59.493] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-21, z=245}
+[17Apr2025 08:48:59.493] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-22, z=243}
+[17Apr2025 08:48:59.493] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-21, z=242}
+[17Apr2025 08:48:59.493] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-22, z=241}
+[17Apr2025 08:48:59.494] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=241}
+[17Apr2025 08:48:59.495] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=56, y=-20, z=245}
+[17Apr2025 08:48:59.495] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=57, y=-21, z=245}
+[17Apr2025 08:48:59.496] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}
+[17Apr2025 08:48:59.496] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=241}
+[17Apr2025 08:48:59.496] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=243}
+[17Apr2025 08:48:59.496] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}

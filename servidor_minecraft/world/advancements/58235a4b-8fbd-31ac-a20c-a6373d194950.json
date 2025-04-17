@@ -752,16 +752,20 @@
       "minecraft:old_growth_pine_taiga": "2025-04-17 08:21:27 +0000",
       "minecraft:taiga": "2025-04-17 08:14:01 +0000",
       "minecraft:deep_ocean": "2025-04-17 04:06:37 +0000",
+      "minecraft:frozen_river": "2025-04-17 08:46:26 +0000",
       "minecraft:birch_forest": "2025-04-17 03:55:02 +0000",
       "minecraft:badlands": "2025-04-17 07:05:31 +0000",
       "minecraft:savanna_plateau": "2025-04-17 06:50:37 +0000",
       "minecraft:beach": "2025-04-17 01:00:54 +0000",
       "minecraft:river": "2025-04-17 01:00:52 +0000",
+      "minecraft:stony_shore": "2025-04-17 08:38:44 +0000",
       "minecraft:dripstone_caves": "2025-04-17 05:07:32 +0000",
+      "minecraft:snowy_taiga": "2025-04-17 08:48:22 +0000",
       "minecraft:cold_ocean": "2025-04-17 04:05:25 +0000",
       "minecraft:forest": "2025-04-17 05:06:58 +0000",
       "minecraft:lush_caves": "2025-04-17 03:50:59 +0000",
       "minecraft:deep_cold_ocean": "2025-04-17 04:05:31 +0000",
+      "minecraft:frozen_ocean": "2025-04-17 08:46:09 +0000",
       "minecraft:desert": "2025-04-17 07:05:37 +0000",
       "minecraft:ocean": "2025-04-17 01:00:57 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-17 08:17:17 +0000",
@@ -4012,6 +4016,7 @@
       "bread": "2025-04-17 04:15:18 +0000",
       "golden_apple": "2025-04-17 04:47:48 +0000",
       "rotten_flesh": "2025-04-17 04:01:33 +0000",
+      "suspicious_stew": "2025-04-17 08:43:19 +0000",
       "glow_berries": "2025-04-17 03:52:12 +0000",
       "cooked_salmon": "2025-04-17 04:15:26 +0000"
     },
@@ -6654,20 +6659,28 @@
       "shrubland": "2025-04-17 04:25:48 +0000",
       "rocky_shrubland": "2025-04-17 08:24:38 +0000",
       "scrubland": "2025-04-17 07:09:53 +0000",
+      "highland": "2025-04-17 08:39:38 +0000",
       "old_growth_woodland": "2025-04-17 05:51:15 +0000",
       "orchard": "2025-04-17 05:42:27 +0000",
+      "field": "2025-04-17 08:41:20 +0000",
       "lavender_forest": "2025-04-17 04:26:59 +0000",
       "mediterranean_forest": "2025-04-17 05:52:19 +0000",
+      "coniferous_forest": "2025-04-17 08:39:37 +0000",
       "spider_nest": "2025-04-17 05:13:45 +0000",
       "wasteland": "2025-04-17 07:39:06 +0000",
       "redwood_forest": "2025-04-17 05:15:00 +0000",
       "dune_beach": "2025-04-17 04:25:36 +0000",
+      "auroral_garden": "2025-04-17 08:43:28 +0000",
       "pasture": "2025-04-17 08:05:30 +0000",
       "volcanic_plains": "2025-04-17 07:45:19 +0000",
       "lavender_field": "2025-04-17 08:38:15 +0000",
+      "fir_clearing": "2025-04-17 08:39:10 +0000",
       "grassland": "2025-04-17 08:26:54 +0000",
       "prairie": "2025-04-17 08:06:01 +0000",
-      "rainforest": "2025-04-17 07:40:05 +0000"
+      "snowy_coniferous_forest": "2025-04-17 08:43:45 +0000",
+      "snowy_fir_clearing": "2025-04-17 08:48:13 +0000",
+      "rainforest": "2025-04-17 07:40:05 +0000",
+      "ominous_woods": "2025-04-17 08:40:12 +0000"
     },
     "done": false
   },
@@ -12899,9 +12912,21 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-17 08:43:55 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/spruce": {
     "criteria": {
       "has_the_recipe": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_icy_iris": {
+    "criteria": {
+      "has_flower": "2025-04-17 08:43:35 +0000"
     },
     "done": true
   },
@@ -12951,6 +12976,12 @@
     "criteria": {
       "has_wood": "2025-04-17 08:27:01 +0000",
       "has_the_recipe": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_vertical_step_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-17 08:45:05 +0000"
     },
     "done": true
   },
@@ -13038,6 +13069,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/palettes/copycat_slab_from_panels": {
+    "criteria": {
+      "has_item": "2025-04-17 08:43:52 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/warped": {
     "criteria": {
       "has_the_recipe": "2025-04-17 08:27:01 +0000"
@@ -13056,6 +13093,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/palettes/copycat_slab_from_steps": {
+    "criteria": {
+      "has_item": "2025-04-17 08:45:05 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-17 08:27:01 +0000"
@@ -13065,6 +13108,12 @@
   "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-04-17 08:44:56 +0000"
     },
     "done": true
   },
@@ -13113,6 +13162,12 @@
   "cfm:recipes/decorations/oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-04-17 08:27:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-04-17 08:44:56 +0000"
     },
     "done": true
   },

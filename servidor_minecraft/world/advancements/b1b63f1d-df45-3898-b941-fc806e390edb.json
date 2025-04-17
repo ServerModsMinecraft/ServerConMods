@@ -740,6 +740,7 @@
       "minecraft:cold_ocean": "2025-04-17 04:05:32 +0000",
       "minecraft:forest": "2025-04-17 05:09:57 +0000",
       "minecraft:deep_cold_ocean": "2025-04-17 04:05:44 +0000",
+      "minecraft:frozen_ocean": "2025-04-17 08:43:43 +0000",
       "minecraft:desert": "2025-04-17 07:05:38 +0000",
       "minecraft:ocean": "2025-04-17 04:04:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 03:58:20 +0000",
@@ -3289,6 +3290,7 @@
       "clover_patch": "2025-04-17 05:43:18 +0000",
       "old_growth_woodland": "2025-04-17 07:42:12 +0000",
       "orchard": "2025-04-17 05:40:25 +0000",
+      "field": "2025-04-17 08:41:25 +0000",
       "lavender_forest": "2025-04-17 04:25:26 +0000",
       "mediterranean_forest": "2025-04-17 05:49:47 +0000",
       "coniferous_forest": "2025-04-17 08:06:51 +0000",
@@ -3297,11 +3299,14 @@
       "redwood_forest": "2025-04-17 05:43:40 +0000",
       "dune_beach": "2025-04-17 04:24:54 +0000",
       "seasonal_forest": "2025-04-17 08:32:43 +0000",
+      "auroral_garden": "2025-04-17 08:43:18 +0000",
       "pasture": "2025-04-17 08:04:48 +0000",
       "volcanic_plains": "2025-04-17 07:41:20 +0000",
       "lavender_field": "2025-04-17 08:32:18 +0000",
       "fir_clearing": "2025-04-17 08:06:08 +0000",
-      "rainforest": "2025-04-17 07:39:46 +0000"
+      "snowy_coniferous_forest": "2025-04-17 08:44:31 +0000",
+      "rainforest": "2025-04-17 07:39:46 +0000",
+      "ominous_woods": "2025-04-17 08:39:36 +0000"
     },
     "done": false
   },
@@ -9853,6 +9858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-04-17 08:45:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-17 08:29:34 +0000"
@@ -9883,6 +9894,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-04-17 08:45:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-17 08:29:34 +0000"
@@ -9898,6 +9915,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-17 08:29:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_flower": "2025-04-17 08:43:14 +0000"
     },
     "done": true
   },
@@ -9928,6 +9951,12 @@
   "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-04-17 08:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-04-17 08:40:27 +0000"
     },
     "done": true
   },

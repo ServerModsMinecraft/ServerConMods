@@ -2709,3 +2709,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17Apr2025 06:52:39.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has reached the goal [Flowers of the Savanna]
 [17Apr2025 06:53:03.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [A Glorious Feast]
 [17Apr2025 06:53:05.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid moved wrongly!
+[17Apr2025 06:53:59.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has completed the challenge [Centennial]
+[17Apr2025 06:54:32.476] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2101, y=-32, z=-387} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 06:54:32.476] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-2101, y=-32, z=-387}
+[17Apr2025 06:55:57.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has reached the goal [Flowers of the Savanna]
+[17Apr2025 06:56:11.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Shon'/69087, l='ServerLevel[world]', x=-1921.05, y=82.15, z=-549.59] died: Shon was slain by DierkDavid
+[17Apr2025 06:56:31.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has completed the challenge [Centennial]
+[17Apr2025 07:03:11.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [No Step on Snake]
+[17Apr2025 07:03:28.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu was slain by Rattlesnake

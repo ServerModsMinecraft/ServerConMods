@@ -11017,6 +11017,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/chute": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rope_pulley": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
     "criteria": {
       "has_item": "2025-04-17 19:15:04 +0000"
@@ -11035,6 +11053,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-04-17 19:01:32 +0000"
@@ -11044,6 +11068,12 @@
   "twigs:recipes/tuff/tuff_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-04-17 19:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
     },
     "done": true
   },
@@ -11065,9 +11095,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/polished_tuff": {
     "criteria": {
       "has_item": "2025-04-17 19:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_girder": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
     },
     "done": true
   },
@@ -11089,9 +11131,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-17 20:48:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-04-17 19:10:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-04-17 20:49:05 +0000"
     },
     "done": true
   },
@@ -11107,9 +11179,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/filter": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_sail": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-04-17 18:54:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/linear_chassis": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
     },
     "done": true
   },
@@ -11134,6 +11230,18 @@
   "twigs:recipes/rocky_dirt": {
     "criteria": {
       "has_item": "2025-04-17 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_table_cloth_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-04-17 20:49:05 +0000"
     },
     "done": true
   },
@@ -11179,6 +11287,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/item_hatch": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-17 19:16:31 +0000"
@@ -11215,15 +11329,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/wrench": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/schist/schist_slab": {
     "criteria": {
       "has_item": "2025-04-17 19:00:38 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-17 19:16:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
     },
     "done": true
   },
@@ -11263,6 +11401,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-17 20:48:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-17 19:16:31 +0000"
@@ -11275,9 +11419,75 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/shaft": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hand_crank": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/turntable": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticker": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-17 19:16:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/radial_chassis": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/goggles": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/display_board": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
     },
     "done": true
   },
@@ -11290,6 +11500,18 @@
   "twigs:recipes/schist/schist_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-04-17 19:00:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/analog_lever": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cart_assembler": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
     },
     "done": true
   },
@@ -11317,6 +11539,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/andesite_tunnel": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/polished_tuff_bricks_from_bloodstone_stonecutting": {
     "criteria": {
       "has_item": "2025-04-17 19:11:39 +0000"
@@ -11335,6 +11563,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/windmill_bearing": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/basin": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_funnel": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/schist/schist_stairs": {
     "criteria": {
       "has_item": "2025-04-17 19:00:38 +0000"
@@ -11344,6 +11590,18 @@
   "twigs:recipes/schist/polished_schist_bricks_from_schist_stonecutting": {
     "criteria": {
       "has_item": "2025-04-17 19:00:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-04-17 20:49:05 +0000"
     },
     "done": true
   },
@@ -11371,9 +11629,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-04-17 19:11:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/contraption_controls": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
     },
     "done": true
   },
@@ -11386,6 +11656,12 @@
   "twigs:recipes/rhyolite/rhyolite_stairs": {
     "criteria": {
       "has_item": "2025-04-17 19:15:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_bracket": {
+    "criteria": {
+      "has_item": "2025-04-17 20:49:05 +0000"
     },
     "done": true
   },

@@ -3224,6 +3224,7 @@
       "rotten_flesh": "2025-04-17 04:15:43 +0000",
       "melon_slice": "2025-04-17 08:11:49 +0000",
       "cod": "2025-04-17 04:37:33 +0000",
+      "rabbit_stew": "2025-04-17 20:48:35 +0000",
       "cooked_salmon": "2025-04-17 05:25:15 +0000",
       "carrot": "2025-04-17 06:12:46 +0000"
     },
@@ -11405,9 +11406,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-04-17 20:43:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-17 19:56:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-04-17 20:48:35 +0000"
     },
     "done": true
   },
@@ -11492,6 +11505,12 @@
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-17 19:56:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-04-17 20:43:51 +0000"
     },
     "done": true
   },
@@ -11618,6 +11637,12 @@
   "mcwbridges:recipes/balustrade_diorite_bridge": {
     "criteria": {
       "has_planks": "2025-04-17 19:56:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-04-17 20:43:51 +0000"
     },
     "done": true
   },

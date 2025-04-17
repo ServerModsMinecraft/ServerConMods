@@ -11029,6 +11029,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2025-04-17 19:35:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-04-17 19:01:32 +0000"
@@ -11137,6 +11143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-17 19:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-17 19:16:31 +0000"
@@ -11194,6 +11206,12 @@
   "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-04-17 19:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-17 19:35:41 +0000"
     },
     "done": true
   },
@@ -11278,6 +11296,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-17 19:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-17 19:35:41 +0000"
     },
     "done": true
   },

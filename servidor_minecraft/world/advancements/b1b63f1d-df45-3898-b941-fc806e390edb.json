@@ -11050,6 +11050,12 @@
     },
     "done": true
   },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-04-17 19:30:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-04-17 18:21:44 +0000"

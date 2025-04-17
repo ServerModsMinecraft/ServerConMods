@@ -21463,3 +21463,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 19:27:26.404] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@7e9ff501, b=81, e=107}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@7e9ff501, b=0, e=80}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@7e9ff501, b=108, e=116}}
 [17Apr2025 19:27:26.404] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@7e9ff501, b=81, e=107}
 [17Apr2025 19:28:54.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has reached the goal [Dinner's Served!]
+[17Apr2025 19:30:56.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> causitas
+[17Apr2025 19:30:59.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> y todo mi oro?
+[17Apr2025 19:31:05.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> cual oro
+[17Apr2025 19:31:05.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> :v
+[17Apr2025 19:31:08.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> ;v
+[17Apr2025 19:31:12.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> en el horno papu
+[17Apr2025 19:31:14.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 19:31:14.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 19:31:22.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> pero solo hay 5
+[17Apr2025 19:31:26.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> y habia como 20 o ma
+[17Apr2025 19:31:29.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> :,v
+[17Apr2025 19:36:14.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 19:36:14.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

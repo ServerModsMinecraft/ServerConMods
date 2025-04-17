@@ -22328,3 +22328,63 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 08:31:42.965] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-2589, y=39, z=-4441}
 [17Apr2025 08:31:50.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> mande
 [17Apr2025 08:32:07.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> arriba
+[17Apr2025 08:33:24.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 08:33:24.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 08:34:49.150] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[17Apr2025 08:34:49.151] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to mdff8eb0$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[17Apr2025 08:34:49.729] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[17Apr2025 08:34:49.735] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[17Apr2025 08:34:49.735] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[17Apr2025 08:34:55.517] [Worker-Main-1/DEBUG] [ModernFix/]: Structure awesomedungeonocean:brigantine is being run through DFU (hash 53c32f57871d2256e1e3389ce92aa259ef34064c6296e6d15fac9281972c909e), this will cause launch time delays
+[17Apr2025 08:34:56.110] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:skeleton_cac
+[17Apr2025 08:34:56.111] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:pillager_bow
+[17Apr2025 08:34:56.112] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:skeleton_bow
+[17Apr2025 08:34:56.113] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:skeleton_axe
+[17Apr2025 08:34:56.115] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:pillager_cac
+[17Apr2025 08:34:56.116] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:pillager_axe
+[17Apr2025 08:34:58.859] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1335, y=-18, z=-5163} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:34:58.860] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-1335, y=-18, z=-5163}
+[17Apr2025 08:35:02.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid moved wrongly!
+[17Apr2025 08:36:21.605] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2504, y=22, z=-5152} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:36:21.605] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-2504, y=22, z=-5152}
+[17Apr2025 08:36:35.758] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[17Apr2025 08:36:35.758] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[17Apr2025 08:36:35.759] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[17Apr2025 08:37:16.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 0.4426499591627362
+[17Apr2025 08:37:16.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 0.9061349986923233
+[17Apr2025 08:37:16.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 1.3695397905012214
+[17Apr2025 08:37:16.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 1.8326424378392403
+[17Apr2025 08:38:24.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 08:38:24.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 08:38:35.583] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-26, z=202}
+[17Apr2025 08:38:35.583] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-26, z=203}
+[17Apr2025 08:38:35.584] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=202}
+[17Apr2025 08:38:35.584] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=196}
+[17Apr2025 08:38:35.585] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-24, z=195}
+[17Apr2025 08:38:35.585] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=194}
+[17Apr2025 08:38:35.585] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=198}
+[17Apr2025 08:38:35.586] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=195}
+[17Apr2025 08:38:35.586] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=194}
+[17Apr2025 08:38:35.586] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=196}
+[17Apr2025 08:38:35.587] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=196}
+[17Apr2025 08:38:35.587] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=193}
+[17Apr2025 08:38:58.403] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2003, y=38, z=-5582} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:38:58.404] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-2003, y=38, z=-5582}
+[17Apr2025 08:39:17.352] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatha'/54521, l='ServerLevel[world]', x=-2087.58, y=61.00, z=-5605.20] died, message: 'Leatha was shot by Illusioner'
+[17Apr2025 08:39:17.353] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Leatha'/54521, l='ServerLevel[world]', x=-2087.58, y=61.00, z=-5605.20] died: Leatha was shot by Illusioner
+[17Apr2025 08:39:57.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid moved wrongly!
+[17Apr2025 08:40:26.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 0.3616822552185113
+[17Apr2025 08:40:26.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 0.8013359840451812
+[17Apr2025 08:40:26.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 1.2433486725512612
+[17Apr2025 08:40:27.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 1.4806618448104691
+[17Apr2025 08:40:58.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> JIREN
+[17Apr2025 08:41:01.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> ABAJO
+[17Apr2025 08:41:26.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 0.2700667839108064
+[17Apr2025 08:41:26.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 0.672682792717751
+[17Apr2025 08:41:26.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 1.0
+[17Apr2025 08:41:26.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 1.0
+[17Apr2025 08:41:26.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 1.0417239688678204
+[17Apr2025 08:41:26.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 1.2242580221080732
+[17Apr2025 08:41:45.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> donde esta el chek
+[17Apr2025 08:42:57.784] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Luis'/54611, l='ServerLevel[world]', x=-2060.29, y=95.00, z=-5594.92] died, message: 'Luis withered away'
+[17Apr2025 08:42:57.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Luis'/54611, l='ServerLevel[world]', x=-2060.29, y=95.00, z=-5594.92] died: Luis withered away

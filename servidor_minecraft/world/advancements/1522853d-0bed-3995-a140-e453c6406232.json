@@ -766,6 +766,7 @@
       "minecraft:desert": "2025-04-17 07:04:20 +0000",
       "minecraft:ocean": "2025-04-17 04:04:07 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-17 08:16:49 +0000",
+      "minecraft:flower_forest": "2025-04-17 08:36:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 03:33:35 +0000",
       "minecraft:savanna": "2025-04-17 06:51:06 +0000",
       "minecraft:plains": "2025-04-17 04:26:20 +0000"
@@ -2945,7 +2946,9 @@
       "dune_beach": "2025-04-17 04:25:45 +0000",
       "pasture": "2025-04-17 08:04:41 +0000",
       "volcanic_plains": "2025-04-17 07:45:20 +0000",
+      "lavender_field": "2025-04-17 08:33:38 +0000",
       "grassland": "2025-04-17 08:27:05 +0000",
+      "prairie": "2025-04-17 08:36:01 +0000",
       "origin_valley": "2025-04-17 04:18:04 +0000",
       "rainforest": "2025-04-17 07:14:53 +0000"
     },

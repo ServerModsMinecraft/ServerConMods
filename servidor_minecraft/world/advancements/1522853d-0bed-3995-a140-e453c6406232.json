@@ -750,6 +750,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-04-17 04:06:48 +0000",
+      "minecraft:savanna_plateau": "2025-04-17 06:50:34 +0000",
       "minecraft:beach": "2025-04-17 04:25:43 +0000",
       "minecraft:river": "2025-04-17 05:07:11 +0000",
       "minecraft:dripstone_caves": "2025-04-17 05:07:44 +0000",
@@ -758,6 +759,7 @@
       "minecraft:deep_cold_ocean": "2025-04-17 04:05:44 +0000",
       "minecraft:ocean": "2025-04-17 04:04:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 03:33:35 +0000",
+      "minecraft:savanna": "2025-04-17 06:51:06 +0000",
       "minecraft:plains": "2025-04-17 04:26:20 +0000"
     },
     "done": false
@@ -4677,6 +4679,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-04-17 06:47:15 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/paper_lamp": {
     "criteria": {
       "has_the_recipe": "2025-04-17 04:32:07 +0000"
@@ -7335,6 +7343,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_basin": {
     "criteria": {
       "has_birch_planks": "2025-04-17 04:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-04-17 06:47:15 +0000"
     },
     "done": true
   },

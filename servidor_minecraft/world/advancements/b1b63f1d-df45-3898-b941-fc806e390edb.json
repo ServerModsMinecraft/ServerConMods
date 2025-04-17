@@ -725,6 +725,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-04-17 04:06:47 +0000",
+      "minecraft:savanna_plateau": "2025-04-17 06:50:27 +0000",
       "minecraft:beach": "2025-04-17 05:42:09 +0000",
       "minecraft:river": "2025-04-17 05:10:00 +0000",
       "minecraft:dripstone_caves": "2025-04-17 05:14:11 +0000",
@@ -733,6 +734,7 @@
       "minecraft:deep_cold_ocean": "2025-04-17 04:05:44 +0000",
       "minecraft:ocean": "2025-04-17 04:04:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 03:58:20 +0000",
+      "minecraft:savanna": "2025-04-17 06:51:07 +0000",
       "minecraft:plains": "2025-04-17 05:08:46 +0000"
     },
     "done": false
@@ -3205,6 +3207,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-17 05:50:38 +0000",
       "cooked_cod": "2025-04-17 05:46:19 +0000",
+      "bread": "2025-04-17 06:47:55 +0000",
       "rotten_flesh": "2025-04-17 04:15:43 +0000",
       "cod": "2025-04-17 04:37:33 +0000",
       "cooked_salmon": "2025-04-17 05:25:15 +0000",
@@ -7801,6 +7804,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-04-17 06:43:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_crate": {
     "criteria": {
       "has_mangrove_planks": "2025-04-17 06:39:27 +0000"
@@ -7846,6 +7855,12 @@
   "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-17 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-04-17 06:43:43 +0000"
     },
     "done": true
   },
@@ -8018,6 +8033,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2025-04-17 06:52:13 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/building_blocks/cracked_mud_brick_slab": {
     "criteria": {
       "has_cracked_mud_bricks": "2025-04-17 06:40:37 +0000"
@@ -8027,6 +8048,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-04-17 06:52:13 +0000"
     },
     "done": true
   },
@@ -8084,6 +8111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-17 06:43:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2025-04-17 06:39:31 +0000"
@@ -8135,6 +8168,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_cutting_board": {
     "criteria": {
       "has_mangrove_planks": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-04-17 06:44:11 +0000"
     },
     "done": true
   },
@@ -8206,6 +8245,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/cabbage": {
+    "criteria": {
+      "has_cabbage_crate": "2025-04-17 06:52:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
@@ -8272,9 +8317,21 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/hay_block_slab": {
+    "criteria": {
+      "has_hay_block": "2025-04-17 06:44:29 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/mangrove_drawer": {
     "criteria": {
       "has_mangrove_drawer": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2025-04-17 06:44:24 +0000"
     },
     "done": true
   },
@@ -8320,6 +8377,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 06:43:58 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/granite_bridge": {
     "criteria": {
       "has_planks": "2025-04-17 06:40:41 +0000"
@@ -8359,6 +8422,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-04-17 06:40:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/carrot_from_crate": {
+    "criteria": {
+      "has_carrot_crate": "2025-04-17 06:52:13 +0000"
     },
     "done": true
   },
@@ -8440,6 +8509,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2025-04-17 06:44:11 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/granite": {
     "criteria": {
       "has_wood": "2025-04-17 06:40:41 +0000"
@@ -8494,6 +8569,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beetroot_from_crate": {
+    "criteria": {
+      "has_beetroot_crate": "2025-04-17 06:52:13 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
     "criteria": {
       "has_item": "2025-04-17 06:40:36 +0000"
@@ -8512,15 +8593,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/rice_from_bag": {
+    "criteria": {
+      "has_rice_bag": "2025-04-17 06:52:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_mud_brick_slab_from_cracked_mud_bricks_stonecutting": {
     "criteria": {
       "has_cracked_mud_bricks": "2025-04-17 06:40:37 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-04-17 06:43:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2025-04-17 06:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-17 06:43:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2025-04-17 06:44:11 +0000"
     },
     "done": true
   },
@@ -8611,6 +8716,12 @@
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-17 06:40:41 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-04-17 06:44:29 +0000"
     },
     "done": true
   },
@@ -8776,6 +8887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-17 06:44:29 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/mangrove_seat": {
     "criteria": {
       "has_plank": "2025-04-17 06:39:27 +0000"
@@ -8803,6 +8920,12 @@
   "handcrafted:recipes/misc/mangrove_cupboard": {
     "criteria": {
       "has_mangrove_cupboard": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-04-17 06:43:58 +0000"
     },
     "done": true
   },

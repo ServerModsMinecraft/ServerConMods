@@ -2702,3 +2702,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17Apr2025 06:39:21.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [It Belongs in a Museum]
 [17Apr2025 06:40:41.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Isn't It Iron Pick]
 [17Apr2025 06:41:57.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was blown up by Creeper
+[17Apr2025 06:44:29.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [A Seedy Place]
+[17Apr2025 06:51:03.890] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nathanial'/68922, l='ServerLevel[world]', x=-2006.47, y=-65.00, z=-385.48] died, message: 'Nathanial was killed'
+[17Apr2025 06:51:03.890] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Nathanial'/68922, l='ServerLevel[world]', x=-2006.47, y=-65.00, z=-385.48] died: Nathanial was killed
+[17Apr2025 06:51:39.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [A Glorious Feast]
+[17Apr2025 06:52:39.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has reached the goal [Flowers of the Savanna]
+[17Apr2025 06:53:03.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [A Glorious Feast]
+[17Apr2025 06:53:05.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid moved wrongly!

@@ -725,6 +725,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-04-17 04:06:47 +0000",
+      "minecraft:beach": "2025-04-17 05:42:09 +0000",
       "minecraft:river": "2025-04-17 05:10:00 +0000",
       "minecraft:dripstone_caves": "2025-04-17 05:14:11 +0000",
       "minecraft:cold_ocean": "2025-04-17 04:05:32 +0000",
@@ -1572,6 +1573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-17 05:39:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-04-17 04:33:58 +0000"
@@ -2031,6 +2038,12 @@
   "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-17 04:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-17 05:39:20 +0000"
     },
     "done": true
   },
@@ -4497,6 +4510,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_flower": "2025-04-17 05:40:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_table": {
     "criteria": {
       "has_oak_table": "2025-04-17 04:33:58 +0000"
@@ -5021,6 +5040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-04-17 05:39:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_basin": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 04:59:43 +0000"
@@ -5369,6 +5394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-17 05:39:20 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-17 04:59:43 +0000"
@@ -5696,6 +5727,12 @@
   "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
       "has_bread": "2025-04-17 05:11:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-17 05:39:11 +0000"
     },
     "done": true
   },
@@ -6065,6 +6102,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 05:39:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2025-04-17 04:13:31 +0000"
@@ -6200,6 +6243,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-04-17 04:25:10 +0000",
+      "orchard": "2025-04-17 05:40:25 +0000",
       "lavender_forest": "2025-04-17 04:25:26 +0000",
       "spider_nest": "2025-04-17 05:21:38 +0000",
       "dune_beach": "2025-04-17 04:24:54 +0000"
@@ -6263,6 +6307,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-04-17 04:33:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-17 05:39:20 +0000"
     },
     "done": true
   },
@@ -6794,6 +6844,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 05:39:11 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/wrench": {
     "criteria": {
       "has_p": "2025-04-17 04:09:06 +0000"
@@ -6815,6 +6871,12 @@
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-04-17 04:31:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-17 05:39:11 +0000"
     },
     "done": true
   },
@@ -7385,6 +7447,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-17 05:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-17 05:39:11 +0000"
     },
     "done": true
   },

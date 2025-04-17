@@ -2951,6 +2951,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 05:39:50 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/item_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-04-17 05:12:28 +0000"
@@ -5348,6 +5354,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_flower": "2025-04-17 05:39:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_grill": {
     "criteria": {
       "has_iron": "2025-04-17 04:56:44 +0000"
@@ -5782,6 +5794,12 @@
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-04-17 05:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-04-17 05:39:50 +0000"
     },
     "done": true
   },
@@ -6367,6 +6385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-17 05:39:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-04-17 04:56:44 +0000"
@@ -6826,6 +6850,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-04-17 04:25:55 +0000",
+      "orchard": "2025-04-17 05:40:25 +0000",
       "lavender_forest": "2025-04-17 04:26:53 +0000",
       "spider_nest": "2025-04-17 05:21:47 +0000",
       "dune_beach": "2025-04-17 04:25:45 +0000",
@@ -7301,6 +7326,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 05:39:50 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/wrench": {
     "criteria": {
       "has_p": "2025-04-17 04:15:31 +0000"
@@ -7310,6 +7341,12 @@
   "trashcans:recipes/misc/item_trash_can": {
     "criteria": {
       "recipe_condition": "2025-04-17 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-17 05:39:50 +0000"
     },
     "done": true
   },
@@ -7796,6 +7833,12 @@
   "cfm:recipes/decorations/red_grill": {
     "criteria": {
       "has_iron": "2025-04-17 04:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-17 05:39:50 +0000"
     },
     "done": true
   },

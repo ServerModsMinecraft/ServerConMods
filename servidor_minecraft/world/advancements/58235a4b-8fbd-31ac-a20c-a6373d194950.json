@@ -8551,6 +8551,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-04-17 04:25:48 +0000",
+      "orchard": "2025-04-17 05:42:27 +0000",
       "lavender_forest": "2025-04-17 04:26:59 +0000",
       "spider_nest": "2025-04-17 05:13:45 +0000",
       "redwood_forest": "2025-04-17 05:15:00 +0000",

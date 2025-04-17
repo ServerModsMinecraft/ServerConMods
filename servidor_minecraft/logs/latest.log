@@ -2656,3 +2656,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17Apr2025 05:24:06.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Close Quarters]
 [17Apr2025 05:29:34.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid was slain by Cave Spider
 [17Apr2025 05:29:49.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was slain by Cave Spider
+[17Apr2025 05:37:22.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid moved wrongly!
+[17Apr2025 05:42:32.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Mine? Mine? Mine?]

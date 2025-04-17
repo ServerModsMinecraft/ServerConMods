@@ -919,6 +919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-17 04:20:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-04-17 04:09:06 +0000"
@@ -1141,6 +1147,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "dune_beach": "2025-04-17 04:24:54 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_counter": {
     "criteria": {
       "has_birch_counter": "2025-04-17 04:09:06 +0000"
@@ -1213,9 +1225,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-17 04:27:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-17 04:13:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 04:25:33 +0000"
     },
     "done": true
   },
@@ -1357,6 +1381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-17 04:20:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
     "criteria": {
       "has_planks": "2025-04-17 04:09:06 +0000"
@@ -1390,6 +1420,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-17 04:03:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-04-17 04:27:03 +0000"
     },
     "done": true
   },
@@ -1465,6 +1501,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-04-17 04:25:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-04-17 04:09:34 +0000"
@@ -1474,6 +1516,18 @@
   "cfm:recipes/decorations/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2025-04-17 04:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-17 04:20:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-17 04:20:56 +0000"
     },
     "done": true
   },
@@ -1522,6 +1576,12 @@
   "refurbished_furniture:recipes/misc/workbench": {
     "criteria": {
       "has_planks": "2025-04-17 04:09:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-17 04:27:03 +0000"
     },
     "done": true
   },
@@ -1603,6 +1663,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-04-17 04:27:03 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/birch_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-04-17 04:09:06 +0000"
@@ -1639,6 +1705,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-04-17 04:25:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
       "has_planks": "2025-04-17 04:09:06 +0000"
@@ -1666,6 +1738,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
     "criteria": {
       "has_stick": "2025-04-17 04:09:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-17 04:27:03 +0000"
     },
     "done": true
   },
@@ -1819,6 +1897,12 @@
     },
     "done": true
   },
+  "delightful:recipes/melon_slice": {
+    "criteria": {
+      "has_mini_melon": "2025-04-17 04:26:33 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/skeleton_horse_trophy": {
     "criteria": {
       "has_skeleton_horse_trophy": "2025-04-17 04:09:06 +0000"
@@ -1900,6 +1984,12 @@
   "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-17 04:09:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-04-17 04:27:03 +0000"
     },
     "done": true
   },
@@ -2161,6 +2251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-17 04:20:56 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-04-17 04:09:06 +0000"
@@ -2413,6 +2509,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-04-17 04:20:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-04-17 04:03:15 +0000"
@@ -2440,6 +2542,12 @@
   "cfm:recipes/decorations/birch_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2025-04-17 04:09:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-04-17 04:27:03 +0000"
     },
     "done": true
   },
@@ -2506,6 +2614,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_basin": {
     "criteria": {
       "has_birch_planks": "2025-04-17 04:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-04-17 04:25:16 +0000"
     },
     "done": true
   },
@@ -2581,6 +2695,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-04-17 04:27:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-04-17 04:09:34 +0000"
@@ -2596,6 +2716,12 @@
   "chiselsandbits:recipes/tools/measuring_tape": {
     "criteria": {
       "has_s": "2025-04-17 04:03:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-17 04:20:56 +0000"
     },
     "done": true
   },
@@ -2664,6 +2790,14 @@
       "has_boat": "2025-04-17 04:09:48 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2025-04-17 04:25:10 +0000",
+      "lavender_forest": "2025-04-17 04:25:26 +0000",
+      "dune_beach": "2025-04-17 04:24:54 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/magic_chest_boat": {
     "criteria": {
@@ -2998,6 +3132,12 @@
   "handcrafted:recipes/misc/birch_bench": {
     "criteria": {
       "has_birch_bench": "2025-04-17 04:09:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-17 04:27:03 +0000"
     },
     "done": true
   },

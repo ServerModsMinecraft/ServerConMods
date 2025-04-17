@@ -2107,3 +2107,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 21:44:45.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was shot by Skeleton
 [17Apr2025 21:46:10.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sameu lost connection: Disconnected
 [17Apr2025 21:46:10.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu left the game
+[17Apr2025 22:07:35.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 10 players online: JhairJCM

@@ -22633,3 +22633,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 21:56:25.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Apr2025 22:01:25.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Apr2025 22:01:25.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 22:03:51.353] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 9
+[17Apr2025 22:03:51.353] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@319f78de, b=9, e=35}, net.minecraft.world.inventory.ResultContainer@79bc9229=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@79bc9229, c=net.minecraft.world.inventory.InventoryMenu@319f78de, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@319f78de, b=45, e=45}, net.minecraft.world.inventory.TransientCraftingContainer@57b6521f=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@57b6521f, c=net.minecraft.world.inventory.InventoryMenu@319f78de, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@319f78de, b=36, e=44}}
+[17Apr2025 22:03:51.354] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@319f78de, b=9, e=35}
+[17Apr2025 22:06:25.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 22:06:25.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 22:07:35.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 10 players online: JhairJCM
+[17Apr2025 22:11:25.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 22:11:25.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

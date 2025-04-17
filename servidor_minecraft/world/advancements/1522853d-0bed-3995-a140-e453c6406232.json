@@ -11148,6 +11148,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/bronze_knife": {
+    "criteria": {
+      "has_ingots/bronze": "2025-04-17 22:05:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-04-17 21:36:25 +0000"
@@ -11361,6 +11367,18 @@
   "decorative_blocks:recipes/building_blocks/oak_beam": {
     "criteria": {
       "has_stripped_log": "2025-04-17 20:51:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-17 22:10:48 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/nickel_knife": {
+    "criteria": {
+      "has_ingots/nickel": "2025-04-17 22:08:44 +0000"
     },
     "done": true
   },
@@ -11781,6 +11799,12 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-17 21:55:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-17 22:10:48 +0000"
     },
     "done": true
   },

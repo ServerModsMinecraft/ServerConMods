@@ -2066,3 +2066,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 20:21:33.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> que wea
 [17Apr2025 20:21:35.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> XD
 [17Apr2025 20:21:39.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> xD
+[17Apr2025 20:31:42.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid lost connection: Disconnected
+[17Apr2025 20:31:42.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid left the game

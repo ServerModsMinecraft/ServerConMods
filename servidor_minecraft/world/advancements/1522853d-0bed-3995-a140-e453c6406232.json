@@ -10731,189 +10731,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
-    "criteria": {
-      "has_item": "2025-04-17 08:50:50 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:loot_vase_broken": {
-    "criteria": {
-      "criteria": "2025-04-17 08:25:31 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
-    "criteria": {
-      "has_dusts/quartz": "2025-04-17 08:08:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-04-17 08:08:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-04-17 08:06:05 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
-    "criteria": {
-      "has_item": "2025-04-17 08:44:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
-    "criteria": {
-      "has_item": "2025-04-17 08:50:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-04-17 08:08:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_wall": {
-    "criteria": {
-      "has_polished_cut_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
-    "criteria": {
-      "has_quartz_block": "2025-04-17 08:08:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_stairs": {
-    "criteria": {
-      "has_polished_cut_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_glass": {
-    "criteria": {
-      "has_quartz_dust": "2025-04-17 08:08:08 +0000"
-    },
-    "done": true
-  },
-  "sliceanddice:recipes/misc/sprinkler": {
-    "criteria": {
-      "has_pipe": "2025-04-17 08:43:59 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
     "criteria": {
       "press": "2025-04-17 08:07:55 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/palettes/copycat_slab_from_panels": {
-    "criteria": {
-      "has_item": "2025-04-17 08:43:56 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
-    "criteria": {
-      "has_certus_quartz_dust": "2025-04-17 08:08:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/item_silo_from_conversion": {
-    "criteria": {
-      "has_item": "2025-04-17 08:50:58 +0000"
     },
     "done": true
   },
@@ -10926,9 +10752,45 @@
     },
     "done": true
   },
-  "create:track_0": {
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
     "criteria": {
-      "0": "2025-04-17 08:51:43 +0000"
+      "has_dusts/quartz": "2025-04-17 08:08:08 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-04-17 08:08:08 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-04-17 08:08:08 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-04-17 08:08:08 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-17 08:08:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-17 08:08:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-04-17 08:08:20 +0000"
     },
     "done": true
   },
@@ -10950,21 +10812,171 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-17 08:08:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-17 08:08:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-04-17 08:08:20 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-04-17 08:25:31 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_slab_from_panels": {
+    "criteria": {
+      "has_item": "2025-04-17 08:43:56 +0000"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-04-17 08:43:59 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-17 08:44:02 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
+    "criteria": {
+      "has_item": "2025-04-17 08:50:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-17 08:50:50 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-17 08:50:58 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-04-17 08:51:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
-      "has_certus_quartz_dust": "2025-04-17 08:08:08 +0000"
+      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
-      "has_quartz_block": "2025-04-17 08:08:20 +0000"
+      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall": {
+    "criteria": {
+      "has_polished_cut_tuff": "2025-04-17 08:51:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs": {
+    "criteria": {
+      "has_polished_cut_tuff": "2025-04-17 08:51:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
     },
     "done": true
   },
@@ -10983,18 +10995,6 @@
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-17 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/cut_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-04-17 08:08:20 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2025-04-17 08:08:20 +0000"
     },
     "done": true
   },

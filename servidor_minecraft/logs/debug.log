@@ -20979,3 +20979,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 18:28:01.286] [Server thread/DEBUG] [com.hlysine.create_connected.CreateConnected/]: Sync Config: Sending server config to JhairJCM
 [17Apr2025 18:28:01.286] [Server thread/INFO] [Jade/]: Syncing config to JhairJCM (1522853d-0bed-3995-a140-e453c6406232)
 [17Apr2025 18:29:00.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhairJCM> :V
+[17Apr2025 18:31:14.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 18:31:14.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 18:31:17.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu was slain by Wolf
+[17Apr2025 18:36:14.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 18:36:14.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

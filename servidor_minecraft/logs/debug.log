@@ -23405,3 +23405,25 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17Apr2025 04:30:53.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1301, y=72, z=-802} BlockPos{x=-1302, y=72, z=-803}
 [17Apr2025 04:30:53.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1300, y=72, z=-802} BlockPos{x=-1302, y=72, z=-803}
 [17Apr2025 04:31:40.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Stone Age]
+[17Apr2025 04:32:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Getting an Upgrade]
+[17Apr2025 04:32:31.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 04:32:31.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 04:32:47.199] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[17Apr2025 04:32:47.200] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[17Apr2025 04:33:27.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM drowned
+[17Apr2025 04:34:46.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Sweet Dreams]
+[17Apr2025 04:35:07.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Gamerule playersSleepingPercentage is now set to: 1]
+[17Apr2025 04:35:08.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Sweet Dreams]
+[17Apr2025 04:36:15.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement ['X' Marks the Spot]
+[17Apr2025 04:36:15.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Disme A Dozen]
+[17Apr2025 04:36:22.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Barrel Booty]
+[17Apr2025 04:36:23.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement ['X' Marks the Spot]
+[17Apr2025 04:36:24.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Barrel Booty]
+[17Apr2025 04:37:31.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 04:37:31.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 04:38:13.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement ['X' Marks the Spot]
+[17Apr2025 04:38:23.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu drowned
+[17Apr2025 04:38:57.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Getting an Upgrade]
+[17Apr2025 04:40:34.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Not Today, Thank You]
+[17Apr2025 04:40:47.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Ice Bucket Challenge]
+[17Apr2025 04:40:55.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Hunt and Gather]

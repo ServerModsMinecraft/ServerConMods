@@ -757,6 +757,7 @@
       "minecraft:badlands": "2025-04-17 07:05:31 +0000",
       "minecraft:savanna_plateau": "2025-04-17 06:50:37 +0000",
       "minecraft:beach": "2025-04-17 01:00:54 +0000",
+      "minecraft:dark_forest": "2025-04-17 19:55:35 +0000",
       "minecraft:river": "2025-04-17 01:00:52 +0000",
       "minecraft:stony_shore": "2025-04-17 08:38:44 +0000",
       "minecraft:dripstone_caves": "2025-04-17 05:07:32 +0000",
@@ -1582,7 +1583,8 @@
       "minecraft:witch": "2025-04-17 05:28:56 +0000",
       "minecraft:cave_spider": "2025-04-17 05:14:15 +0000",
       "minecraft:zombie": "2025-04-17 03:51:48 +0000",
-      "minecraft:drowned": "2025-04-17 04:13:51 +0000"
+      "minecraft:drowned": "2025-04-17 04:13:51 +0000",
+      "minecraft:zombie_villager": "2025-04-17 19:54:18 +0000"
     },
     "done": false
   },
@@ -6664,6 +6666,7 @@
       "orchard": "2025-04-17 05:42:27 +0000",
       "field": "2025-04-17 08:41:20 +0000",
       "lavender_forest": "2025-04-17 04:26:59 +0000",
+      "moor": "2025-04-17 19:46:20 +0000",
       "mediterranean_forest": "2025-04-17 05:52:19 +0000",
       "coniferous_forest": "2025-04-17 08:39:37 +0000",
       "spider_nest": "2025-04-17 05:13:45 +0000",
@@ -6679,6 +6682,7 @@
       "prairie": "2025-04-17 08:06:01 +0000",
       "snowy_coniferous_forest": "2025-04-17 08:43:45 +0000",
       "snowy_fir_clearing": "2025-04-17 08:48:13 +0000",
+      "glowing_grotto": "2025-04-17 19:51:29 +0000",
       "rainforest": "2025-04-17 07:40:05 +0000",
       "ominous_woods": "2025-04-17 08:40:12 +0000"
     },
@@ -13471,15 +13475,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-17 19:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-17 19:53:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_cooking_pot": {
     "criteria": {
       "cooking_pot": "2025-04-17 19:28:54 +0000"
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-04-17 19:52:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_skillet": {
     "criteria": {
       "skillet": "2025-04-17 19:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-17 19:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-17 19:53:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-17 19:53:14 +0000"
     },
     "done": true
   },

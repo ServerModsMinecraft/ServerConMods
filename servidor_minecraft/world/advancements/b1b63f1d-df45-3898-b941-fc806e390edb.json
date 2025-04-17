@@ -10047,111 +10047,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
+  "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+      "has_cooked_chicken": "2025-04-17 18:18:39 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+  "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
-      "has_glass": "2025-04-17 18:48:44 +0000"
+      "has_cooked_chicken": "2025-04-17 18:18:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+  "farmersdelight:recipes/food/bacon_sandwich": {
     "criteria": {
-      "has_glass": "2025-04-17 18:48:44 +0000"
+      "has_bacon": "2025-04-17 18:19:03 +0000"
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "delightful:recipes/food/deluxe_cheeseburger": {
     "criteria": {
-      "deflected_projectile": "2025-04-17 19:02:33 +0000"
+      "has_bacon": "2025-04-17 18:19:03 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
+  "farmersdelight:recipes/food/bacon_and_eggs": {
     "criteria": {
-      "has_glass": "2025-04-17 18:48:44 +0000"
+      "has_bacon": "2025-04-17 18:19:03 +0000"
     },
     "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-17 19:16:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/cobbled_deepslate": {
-    "criteria": {
-      "has_wood": "2025-04-17 19:16:44 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
-    "criteria": {
-      "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
-    "criteria": {
-      "has_item": "2025-04-17 18:40:22 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dripstone_pillar_trim": {
-    "criteria": {
-      "has_dripstone_pillar_trim": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
-    "criteria": {
-      "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-04-17 18:48:44 +0000"
     },
     "done": true
   },
@@ -10167,9 +10095,309 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+  "tconstruct:recipes/combat/tools/armor/travelers_boots": {
     "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/copper_can": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_pants": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers_goggles": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/transmitter": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-04-17 18:21:44 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
+    "criteria": {
+      "has_item": "2025-04-17 18:40:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-17 18:40:22 +0000"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-04-17 18:47:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-17 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-04-17 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-04-17 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-17 18:48:44 +0000"
     },
     "done": true
   },
@@ -10185,42 +10413,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/combat/tools/armor/travelers_boots": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bacon_sandwich": {
-    "criteria": {
-      "has_bacon": "2025-04-17 18:19:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
@@ -10233,45 +10425,15 @@
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-17 19:16:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-04-17 19:05:40 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
     },
     "done": true
   },
@@ -10293,12 +10455,6 @@
     },
     "done": true
   },
-  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
@@ -10308,18 +10464,6 @@
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/smeltery/copper_can": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "constructionwand:recipes/tools/diamond_wand": {
-    "criteria": {
-      "has_item": "2025-04-17 18:50:44 +0000"
     },
     "done": true
   },
@@ -10341,39 +10485,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
-    "criteria": {
-      "has_item": "2025-04-17 18:40:22 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
     },
     "done": true
   },
-  "delightful:recipes/food/deluxe_cheeseburger": {
-    "criteria": {
-      "has_bacon": "2025-04-17 18:19:03 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/glass_bridge": {
     "criteria": {
       "has_planks": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/gadgets/frame/diamond": {
-    "criteria": {
-      "has_item": "2025-04-17 18:50:44 +0000"
     },
     "done": true
   },
@@ -10389,51 +10509,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
-    "criteria": {
-      "has_diamonds": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/dripstone_block_slab": {
-    "criteria": {
-      "has_dripstone_block": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-04-17 18:21:44 +0000"
     },
     "done": true
   },
@@ -10485,24 +10563,6 @@
     },
     "done": true
   },
-  "createoreexcavation:recipes/misc/diamond_drill": {
-    "criteria": {
-      "diamond": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/copper_nugget": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
@@ -10515,33 +10575,9 @@
     },
     "done": true
   },
-  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
-    "criteria": {
-      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dripstone_corner_trim": {
-    "criteria": {
-      "has_dripstone_corner_trim": "2025-04-17 19:11:15 +0000"
     },
     "done": true
   },
@@ -10563,33 +10599,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_valve": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
     },
     "done": true
   },
@@ -10605,12 +10617,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
@@ -10623,33 +10629,9 @@
     },
     "done": true
   },
-  "buildinggadgets2:recipes/misc/gadget_building": {
-    "criteria": {
-      "has_diamond": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:recipes/recipe_diamond_brush": {
-    "criteria": {
-      "has_item": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_slab": {
-    "criteria": {
-      "has_item": "2025-04-17 19:16:19 +0000"
     },
     "done": true
   },
@@ -10671,52 +10653,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-17 19:16:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
     },
     "done": true
   },
-  "sliceanddice:recipes/misc/sprinkler": {
-    "criteria": {
-      "has_pipe": "2025-04-17 18:47:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:recipes/tools/diamond_brush": {
-    "criteria": {
-      "has_the_recipe": "2025-04-17 18:50:44 +0000",
-      "has_diamond": "2025-04-17 18:50:44 +0000"
     },
     "done": true
   },
@@ -10732,21 +10677,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/misc/common/flint": {
-    "criteria": {
-      "has_item": "2025-04-17 19:23:58 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
     },
     "done": true
   },
@@ -10756,27 +10689,9 @@
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-17 19:16:19 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_whistle": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
     },
     "done": true
   },
@@ -10786,51 +10701,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/copper_backtank": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-04-17 18:18:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/gravel_bricks/gravel_bricks": {
-    "criteria": {
-      "has_item": "2025-04-17 19:23:58 +0000"
     },
     "done": true
   },
@@ -10852,27 +10725,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
-    "criteria": {
-      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
     },
     "done": true
   },
@@ -10894,27 +10749,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
     },
     "done": true
   },
@@ -10924,105 +10761,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-04-17 19:05:40 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/common/materials/copper_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-17 19:16:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_pants": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
     },
     "done": true
   },
@@ -11032,33 +10773,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
-  "mekanism:materials": {
-    "criteria": {
-      "material": "2025-04-17 19:30:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
     },
     "done": true
   },
@@ -11074,60 +10791,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/diamond_knife": {
-    "criteria": {
-      "has_diamond": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_wall": {
-    "criteria": {
-      "has_item": "2025-04-17 19:16:19 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_goggles": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-04-17 19:23:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
@@ -11140,27 +10803,9 @@
     },
     "done": true
   },
-  "aquaculture:recipes/tools/diamond_fillet_knife": {
-    "criteria": {
-      "has_items": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/copper_stuff": {
-    "criteria": {
-      "has_wood": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
     },
     "done": true
   },
@@ -11170,57 +10815,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
     },
     "done": true
   },
@@ -11236,39 +10839,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/transmitter": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/tools/diamond_machete": {
-    "criteria": {
-      "has_diamond": "2025-04-17 18:50:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-04-17 18:21:44 +0000"
     },
     "done": true
   },
@@ -11278,27 +10851,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/hose_pulley": {
-    "criteria": {
-      "has_item": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/polished_rhyolite": {
-    "criteria": {
-      "has_item": "2025-04-17 19:16:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_stairs": {
-    "criteria": {
-      "has_item": "2025-04-17 19:16:19 +0000"
     },
     "done": true
   },
@@ -11308,45 +10863,148 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/chicken_sandwich": {
-    "criteria": {
-      "has_cooked_chicken": "2025-04-17 18:18:39 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/root": {
-    "criteria": {
-      "copper": "2025-04-17 18:21:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/brewing/common/glass/vanilla/glass_bottle": {
     "criteria": {
       "has_glass": "2025-04-17 18:48:44 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/bacon_and_eggs": {
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
-      "has_bacon": "2025-04-17 18:19:03 +0000"
+      "has_glass_colorless": "2025-04-17 18:48:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+      "has_glass": "2025-04-17 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "createoreexcavation:recipes/misc/diamond_drill": {
+    "criteria": {
+      "diamond": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_building": {
+    "criteria": {
+      "has_diamond": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_diamond_brush": {
+    "criteria": {
+      "has_item": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/tools/diamond_brush": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 18:50:44 +0000",
+      "has_diamond": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-04-17 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2025-04-17 18:50:44 +0000"
     },
     "done": true
   },
@@ -11362,15 +11020,21 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+      "deflected_projectile": "2025-04-17 19:02:33 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_glass_colorless": "2025-04-17 18:48:44 +0000"
+      "has_raw_copper": "2025-04-17 19:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-17 19:05:40 +0000"
     },
     "done": true
   },
@@ -11380,9 +11044,345 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
     "criteria": {
-      "has_glass": "2025-04-17 18:48:44 +0000"
+      "has_dripstone_pillar_trim": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/dripstone_block_slab": {
+    "criteria": {
+      "has_dripstone_block": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-04-17 19:11:15 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-17 19:16:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-17 19:16:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2025-04-17 19:16:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-17 19:16:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-17 19:16:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-17 19:16:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2025-04-17 19:16:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2025-04-17 19:16:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2025-04-17 19:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/cobbled_deepslate": {
+    "criteria": {
+      "has_wood": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-17 19:16:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2025-04-17 19:23:58 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2025-04-17 19:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-17 19:23:58 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-04-17 19:30:07 +0000"
     },
     "done": true
   },

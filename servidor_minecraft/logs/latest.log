@@ -2028,3 +2028,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 19:47:26.373] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
 [17Apr2025 19:47:26.373] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
 [17Apr2025 19:47:26.373] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[17Apr2025 19:52:50.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Chest Slayer]
+[17Apr2025 19:53:18.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sameu[/127.218.188.179:59751] logged in with entity id 20001 at (-431.35259306313264, -45.0, -5812.300000011921)
+[17Apr2025 19:53:18.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu joined the game
+[17Apr2025 19:53:18.933] [Server thread/INFO] [Jade/]: Syncing config to Sameu (b1b63f1d-df45-3898-b941-fc806e390edb)
+[17Apr2025 19:57:30.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu was slain by Zombie
+[17Apr2025 19:57:56.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu was slain by Zombie
+[17Apr2025 19:57:57.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-496, y=28, z=-5821}
+[17Apr2025 19:58:18.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu was slain by Zombie
+[17Apr2025 19:58:44.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu was shot by Skeleton

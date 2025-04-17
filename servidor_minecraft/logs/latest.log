@@ -2774,3 +2774,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17Apr2025 07:21:01.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid left the game
 [17Apr2025 07:21:01.097] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [17Apr2025 07:23:01.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was slain by Skyslime
+[17Apr2025 07:27:31.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Cobweb Entanglement]
+[17Apr2025 07:28:22.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DierkDavid[/127.170.5.104:50047] logged in with entity id 83991 at (-2586.2514904214404, 71.47191799196334, -770.2274109189644)
+[17Apr2025 07:28:22.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid joined the game
+[17Apr2025 07:28:22.847] [Server thread/INFO] [Jade/]: Syncing config to DierkDavid (58235a4b-8fbd-31ac-a20c-a6373d194950)
+[17Apr2025 07:33:06.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Suit Up]

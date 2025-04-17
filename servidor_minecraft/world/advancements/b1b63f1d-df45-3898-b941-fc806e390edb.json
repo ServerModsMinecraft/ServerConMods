@@ -6801,7 +6801,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2025-04-17 05:21:37 +0000"
+      "in_better_monster_room": "2025-04-17 05:21:37 +0000",
+      "in_better_spider_dungeon": "2025-04-17 07:27:31 +0000"
     },
     "done": false
   },
@@ -9143,6 +9144,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-04-17 07:28:26 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/mangrove_fancy_bed": {
     "criteria": {
       "has_mangrove_fancy_bed": "2025-04-17 06:39:27 +0000"
@@ -9308,6 +9315,12 @@
   "decorative_blocks:recipes/building_blocks/mangrove_seat": {
     "criteria": {
       "has_plank": "2025-04-17 06:39:27 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-17 07:27:31 +0000"
     },
     "done": true
   },

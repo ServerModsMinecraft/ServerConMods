@@ -2670,3 +2670,13 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17Apr2025 05:51:48.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Smashing Success]
 [17Apr2025 05:52:30.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid moved too quickly! -5.647419654722171,0.2247629905309907,8.317677110417208
 [17Apr2025 05:52:49.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Close Quarters]
+[17Apr2025 05:52:56.856] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2247, y=28, z=-712} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 05:52:56.857] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-2247, y=28, z=-712}
+[17Apr2025 05:54:13.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has reached the goal [Pray to the Goddess]
+[17Apr2025 05:54:40.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Hunt and Gather]
+[17Apr2025 05:56:50.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Penteconter]
+[17Apr2025 05:57:40.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Close Quarters]
+[17Apr2025 05:57:47.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Penteconter]
+[17Apr2025 05:58:14.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Hunt and Gather]
+[17Apr2025 06:01:13.591] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2336, y=5, z=-581} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 06:01:13.591] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-2336, y=5, z=-581}

@@ -22345,3 +22345,38 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 04:00:50.118] [Server thread/DEBUG] [com.possible_triangle.create_jetpack.CreateJetpackMod/]: Sending server config to Sameu
 [17Apr2025 04:00:50.120] [Server thread/DEBUG] [com.hlysine.create_connected.CreateConnected/]: Sync Config: Sending server config to Sameu
 [17Apr2025 04:00:50.120] [Server thread/INFO] [Jade/]: Syncing config to Sameu (b1b63f1d-df45-3898-b941-fc806e390edb)
+[17Apr2025 04:01:43.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was slain by Spider
+[17Apr2025 04:01:45.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Acquire Hardware]
+[17Apr2025 04:02:31.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 04:02:31.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 04:02:48.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [The Cutest Predator]
+[17Apr2025 04:02:52.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu was slain by Zombie
+[17Apr2025 04:03:08.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM hit the ground too hard
+[17Apr2025 04:03:19.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu was shot by Skeleton
+[17Apr2025 04:04:01.895] [Worker-Main-23/DEBUG] [ModernFix/]: Structure awesomedungeonocean:ocean_quad is being run through DFU (hash ae4d983986e16fccc7918e7da40bfbacfce2e6c60c4c00959fe57747ee60ca5f), this will cause launch time delays
+[17Apr2025 04:04:17.969] [Worker-Main-37/DEBUG] [ModernFix/]: Structure awesomedungeonocean:ocean_the_column_temple is being run through DFU (hash 86b8341b174a29d085e6655bcfbab09ff87832785274b37c780dc7aa7c2651dc), this will cause launch time delays
+[17Apr2025 04:05:01.303] [Worker-Main-25/DEBUG] [ModernFix/]: Structure awesomedungeonocean:ocean_ruin_pillager is being run through DFU (hash 0acf60e6feb24b8393b7eb249c6da7359a883afba69c946cb8396257ed14bbc3), this will cause launch time delays
+[17Apr2025 04:05:13.724] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-320, y=-6, z=-608} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 04:05:13.724] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-320, y=-6, z=-608}
+[17Apr2025 04:05:20.433] [Worker-Main-24/DEBUG] [ModernFix/]: Structure explorify:badlands_pyramid/whole is being run through DFU (hash 8fc67ac9bcbfde144435c82fbb316078a639d3b6045f868969679c56ddd0968c), this will cause launch time delays
+[17Apr2025 04:05:26.406] [Worker-Main-25/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/beach/base_plate is being run through DFU (hash f22832e1e7f3fe6d10e8f1a8b625470a184246f727f3e3ec70ad273b32b80cfa), this will cause launch time delays
+[17Apr2025 04:05:26.412] [Worker-Main-25/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/dark_forest/base_plate is being run through DFU (hash 1bb85056d7285c01e36adeffa5cd63d82233b6f2ae3601c424847bb273f6f4f4), this will cause launch time delays
+[17Apr2025 04:05:26.418] [Worker-Main-25/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/badlands/base_plate is being run through DFU (hash e65ed1d67ebee476a05f6744470d831eba8e3eee0664ea6c850294dfb16dea55), this will cause launch time delays
+[17Apr2025 04:05:26.422] [Worker-Main-25/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/mountain/base_plate is being run through DFU (hash d2bceff59fd168e8162cb6a807e92f5a72a0c429f26b23a6fddde17cb56975e5), this will cause launch time delays
+[17Apr2025 04:05:26.427] [Worker-Main-25/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/desert/base_plate is being run through DFU (hash cda69f60034bb5a8bdcfba7b8b2768d6d271447235323f3bb42b10e878236e33), this will cause launch time delays
+[17Apr2025 04:05:26.432] [Worker-Main-25/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/swamp/base_plate is being run through DFU (hash 1c91b923ea37bb76ee3fe814183ce09996622f653bd3df6681f3381e18944892), this will cause launch time delays
+[17Apr2025 04:05:26.437] [Worker-Main-25/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/taiga/base_plate is being run through DFU (hash cb5b179d83e148dad3f2286b26ff031c98b384f9ca99102179a293b1b9e8e95f), this will cause launch time delays
+[17Apr2025 04:05:26.443] [Worker-Main-25/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/savanna/base_plate is being run through DFU (hash 6b9ec12b50e370fd2c31a4d65e130cb91bdca5d15a70970d8e19270ed8ff0cc0), this will cause launch time delays
+[17Apr2025 04:05:26.449] [Worker-Main-25/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/snowy/base_plate is being run through DFU (hash aaa612a9e37d85d5286619f9a9c0397ed448c58c2cea9dc7bebaec5b731d8a11), this will cause launch time delays
+[17Apr2025 04:05:26.460] [Worker-Main-25/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/plains/base_plate is being run through DFU (hash 7b5ce3ab484bfd0f180ded3ef9925bb16ba8f462027150361af856d5408eb895), this will cause launch time delays
+[17Apr2025 04:05:26.465] [Worker-Main-25/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/jungle/base_plate is being run through DFU (hash eb84ecf5def48181cd1b6e1bb0837dfa5c0a70eec549e3ab6cb04375fcce9168), this will cause launch time delays
+[17Apr2025 04:06:07.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Barrel Booty]
+[17Apr2025 04:06:07.795] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[17Apr2025 04:06:31.096] [Worker-Main-23/DEBUG] [ModernFix/]: Structure awesomedungeonocean:ocean_temple_quad is being run through DFU (hash 1d35afd19ce624471d14ed4277c3ee0ec1e19fa95d982713557845e2cce01f93), this will cause launch time delays
+[17Apr2025 04:06:50.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has reached the goal [Earthslime Island]
+[17Apr2025 04:07:31.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 04:07:31.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 04:07:48.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has reached the goal [Earthslime Island]
+[17Apr2025 04:08:09.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu drowned
+[17Apr2025 04:10:57.398] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-487, y=-43, z=-821} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 04:10:57.399] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-487, y=-43, z=-821}

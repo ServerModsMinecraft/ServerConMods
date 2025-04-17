@@ -2012,3 +2012,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 04:00:50.058] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sameu[/127.218.188.179:54151] logged in with entity id 6480 at (-110.5, 76.0, -133.5)
 [17Apr2025 04:00:50.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu joined the game
 [17Apr2025 04:00:50.120] [Server thread/INFO] [Jade/]: Syncing config to Sameu (b1b63f1d-df45-3898-b941-fc806e390edb)
+[17Apr2025 04:01:43.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was slain by Spider
+[17Apr2025 04:01:45.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Acquire Hardware]
+[17Apr2025 04:02:48.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [The Cutest Predator]
+[17Apr2025 04:02:52.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu was slain by Zombie
+[17Apr2025 04:03:08.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM hit the ground too hard
+[17Apr2025 04:03:19.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu was shot by Skeleton
+[17Apr2025 04:05:13.724] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-320, y=-6, z=-608} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 04:05:13.724] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-320, y=-6, z=-608}
+[17Apr2025 04:06:07.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Barrel Booty]
+[17Apr2025 04:06:50.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has reached the goal [Earthslime Island]
+[17Apr2025 04:07:48.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has reached the goal [Earthslime Island]
+[17Apr2025 04:08:09.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu drowned
+[17Apr2025 04:10:57.398] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-487, y=-43, z=-821} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 04:10:57.399] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-487, y=-43, z=-821}

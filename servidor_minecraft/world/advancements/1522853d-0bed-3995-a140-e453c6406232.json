@@ -11168,6 +11168,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2025-04-17 21:16:01 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_destruction": {
     "criteria": {
       "has_ender_pearl": "2025-04-17 19:07:43 +0000"

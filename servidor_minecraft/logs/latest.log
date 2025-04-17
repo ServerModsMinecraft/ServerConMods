@@ -2072,3 +2072,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 21:04:11.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Alex's Caves]
 [17Apr2025 21:05:02.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Once Upon a Cave]
 [17Apr2025 21:05:35.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Ice Bucket Challenge]
+[17Apr2025 21:16:01.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has completed the challenge [Mariachi!]
+[17Apr2025 21:17:36.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can't find element 'minecraft:' of type 'minecraft:entity_type'
+[17Apr2025 21:17:52.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can't find element 'minecraft:' of type 'minecraft:entity_type'
+[17Apr2025 21:18:01.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can't find element 'minecraft:' of type 'minecraft:entity_type'
+[17Apr2025 21:18:11.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can't find element 'minecraft:' of type 'minecraft:entity_type'
+[17Apr2025 21:18:28.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Can't find element 'minecraft:' of type 'minecraft:entity_type'
+[17Apr2025 21:19:44.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> raid
+[17Apr2025 21:20:07.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Cow
+[17Apr2025 21:20:41.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sameu lost connection: You logged in from another location
+[17Apr2025 21:20:41.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu left the game
+[17Apr2025 21:20:41.412] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Apr2025 21:20:41.418] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sameu[/127.50.61.139:48641] logged in with entity id 44027 at (-601.8832817610377, 39.0, -5922.055262129574)
+[17Apr2025 21:20:41.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu joined the game
+[17Apr2025 21:20:41.514] [Server thread/INFO] [Jade/]: Syncing config to Sameu (b1b63f1d-df45-3898-b941-fc806e390edb)
+[17Apr2025 21:21:01.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Cow
+[17Apr2025 21:21:48.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Suit Up]

@@ -2149,3 +2149,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 23:40:55.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [What a Deal!]
 [17Apr2025 23:41:57.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Linette'/75985, l='ServerLevel[world]', x=-530.30, y=-65.00, z=-5958.50] died, message: 'Linette was killed'
 [17Apr2025 23:41:57.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Linette'/75985, l='ServerLevel[world]', x=-530.30, y=-65.00, z=-5958.50] died: Linette was killed
+[17Apr2025 23:47:39.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has completed the challenge [Mariachi!]
+[17Apr2025 23:53:44.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Bonk!]

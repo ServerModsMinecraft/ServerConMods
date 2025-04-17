@@ -2037,3 +2037,79 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 08:00:58.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhairJCM lost connection: Timed out
 [17Apr2025 08:00:58.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM left the game
 [17Apr2025 08:00:58.846] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Apr2025 08:02:25.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhairJCM[/127.252.103.120:35447] logged in with entity id 8024 at (-2375.1987612301446, 73.41999998688698, -2066.235978255451)
+[17Apr2025 08:02:25.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM joined the game
+[17Apr2025 08:02:26.051] [Server thread/INFO] [Jade/]: Syncing config to JhairJCM (1522853d-0bed-3995-a140-e453c6406232)
+[17Apr2025 08:02:27.123] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[17Apr2025 08:02:27.137] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[17Apr2025 08:02:27.147] [Worker-Main-2/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[17Apr2025 08:02:36.067] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2574, y=-42, z=-2281}
+[17Apr2025 08:02:36.068] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2573, y=-42, z=-2281}
+[17Apr2025 08:03:29.367] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2076, y=-33, z=-2226} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:03:29.367] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-2076, y=-33, z=-2226}
+[17Apr2025 08:04:05.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Sneak 100]
+[17Apr2025 08:05:10.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2012, y=68, z=-2233} BlockPos{x=-2012, y=67, z=-2234}
+[17Apr2025 08:05:10.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2012, y=68, z=-2233} BlockPos{x=-2012, y=67, z=-2234}
+[17Apr2025 08:05:10.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2012, y=68, z=-2233} BlockPos{x=-2012, y=67, z=-2234}
+[17Apr2025 08:05:10.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2012, y=68, z=-2233} BlockPos{x=-2012, y=67, z=-2234}
+[17Apr2025 08:05:10.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2012, y=68, z=-2233} BlockPos{x=-2012, y=67, z=-2234}
+[17Apr2025 08:05:10.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2012, y=68, z=-2233} BlockPos{x=-2012, y=67, z=-2234}
+[17Apr2025 08:05:10.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2011, y=69, z=-2236} BlockPos{x=-2012, y=67, z=-2234}
+[17Apr2025 08:05:10.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2011, y=69, z=-2236} BlockPos{x=-2012, y=67, z=-2234}
+[17Apr2025 08:05:10.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2011, y=69, z=-2236} BlockPos{x=-2012, y=67, z=-2234}
+[17Apr2025 08:05:14.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1990, y=71, z=-2246} BlockPos{x=-1989, y=69, z=-2248}
+[17Apr2025 08:05:14.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1990, y=71, z=-2246} BlockPos{x=-1989, y=69, z=-2248}
+[17Apr2025 08:05:14.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1990, y=71, z=-2246} BlockPos{x=-1989, y=69, z=-2248}
+[17Apr2025 08:05:14.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1990, y=71, z=-2246} BlockPos{x=-1989, y=69, z=-2248}
+[17Apr2025 08:05:16.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1987, y=73, z=-2261} BlockPos{x=-1987, y=71, z=-2260}
+[17Apr2025 08:05:16.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1987, y=73, z=-2261} BlockPos{x=-1987, y=71, z=-2260}
+[17Apr2025 08:05:16.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1987, y=72, z=-2262} BlockPos{x=-1987, y=71, z=-2260}
+[17Apr2025 08:05:16.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1987, y=72, z=-2262} BlockPos{x=-1987, y=71, z=-2260}
+[17Apr2025 08:06:05.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Best Friends Forever]
+[17Apr2025 08:06:05.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> yo
+[17Apr2025 08:06:40.954] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1584, y=17, z=-2512} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:06:40.954] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-1584, y=17, z=-2512}
+[17Apr2025 08:06:40.989] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Palmer'/9774, l='ServerLevel[world]', x=-2147.52, y=62.11, z=-2391.84] died, message: 'Palmer was slain by Crocodile'
+[17Apr2025 08:06:40.990] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Palmer'/9774, l='ServerLevel[world]', x=-2147.52, y=62.11, z=-2391.84] died: Palmer was slain by Crocodile
+[17Apr2025 08:06:55.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1749, y=-35, z=-2661} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:06:55.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-1749, y=-35, z=-2661}
+[17Apr2025 08:07:56.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Unknown Technology]
+[17Apr2025 08:07:57.924] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[17Apr2025 08:07:57.934] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[17Apr2025 08:07:57.934] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[17Apr2025 08:09:08.922] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1291, y=12, z=-2535} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:09:08.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-1291, y=12, z=-2535}
+[17Apr2025 08:10:23.022] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1654, y=16, z=-2858} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:10:23.022] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-1654, y=16, z=-2858}
+[17Apr2025 08:11:27.665] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1789, y=-21, z=-3217} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:11:27.666] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-1789, y=-21, z=-3217}
+[17Apr2025 08:11:36.976] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-26, z=202}
+[17Apr2025 08:11:36.977] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-26, z=203}
+[17Apr2025 08:11:36.978] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=202}
+[17Apr2025 08:11:36.978] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=196}
+[17Apr2025 08:11:36.978] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-24, z=195}
+[17Apr2025 08:11:36.979] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=194}
+[17Apr2025 08:11:36.979] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=198}
+[17Apr2025 08:11:36.980] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=195}
+[17Apr2025 08:11:36.980] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=194}
+[17Apr2025 08:11:36.980] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=196}
+[17Apr2025 08:11:36.981] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=196}
+[17Apr2025 08:11:36.981] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=193}
+[17Apr2025 08:13:20.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 0.3767255859265788
+[17Apr2025 08:13:20.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 0.8311950549937137
+[17Apr2025 08:13:20.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 1.2842239519463874
+[17Apr2025 08:13:20.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 1.738031888833575
+[17Apr2025 08:13:20.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of JhairJCM) moved wrongly! 2.194715001660825
+[17Apr2025 08:14:03.564] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1373, y=-51, z=-3283} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:14:03.564] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-1373, y=-51, z=-3283}
+[17Apr2025 08:14:39.515] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1473, y=17, z=-3534} but found not block entity block Block{minecraft:water}[level=0] at location
+[17Apr2025 08:14:39.516] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1473, y=17, z=-3534}
+[17Apr2025 08:14:59.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has completed the challenge [Centennial]
+[17Apr2025 08:15:04.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Mine? Mine? Mine?]
+[17Apr2025 08:16:42.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has reached the goal [Clay Island]
+[17Apr2025 08:17:27.644] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1001, y=-33, z=-3398} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:17:27.644] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-1001, y=-33, z=-3398}
+[17Apr2025 08:17:35.147] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1047, y=-33, z=-3505} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:17:35.148] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-1047, y=-33, z=-3505}
+[17Apr2025 08:21:29.998] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-348, y=-44, z=-3423} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:21:29.998] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-348, y=-44, z=-3423}

@@ -749,6 +749,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-04-17 08:14:01 +0000",
       "minecraft:deep_ocean": "2025-04-17 04:06:37 +0000",
       "minecraft:birch_forest": "2025-04-17 03:55:02 +0000",
       "minecraft:badlands": "2025-04-17 07:05:31 +0000",
@@ -762,6 +763,7 @@
       "minecraft:deep_cold_ocean": "2025-04-17 04:05:31 +0000",
       "minecraft:desert": "2025-04-17 07:05:37 +0000",
       "minecraft:ocean": "2025-04-17 01:00:57 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-17 08:17:17 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 00:55:33 +0000",
       "minecraft:savanna": "2025-04-17 06:51:00 +0000",
       "minecraft:plains": "2025-04-17 04:54:31 +0000"
@@ -6658,7 +6660,9 @@
       "wasteland": "2025-04-17 07:39:06 +0000",
       "redwood_forest": "2025-04-17 05:15:00 +0000",
       "dune_beach": "2025-04-17 04:25:36 +0000",
+      "pasture": "2025-04-17 08:05:30 +0000",
       "volcanic_plains": "2025-04-17 07:45:19 +0000",
+      "prairie": "2025-04-17 08:06:01 +0000",
       "rainforest": "2025-04-17 07:40:05 +0000"
     },
     "done": false
@@ -12822,6 +12826,138 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-04-17 07:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-04-17 08:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-17 08:02:35 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/campfire/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-04-17 08:08:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-17 08:02:35 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smelting/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-04-17 08:08:21 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/raw_iron_block_slab": {
+    "criteria": {
+      "has_raw_iron_block": "2025-04-17 08:04:51 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/coal_block_slab": {
+    "criteria": {
+      "has_coal_block": "2025-04-17 08:04:46 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/quill": {
+    "criteria": {
+      "has_tag_a": "2025-04-17 08:15:25 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smoking/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-04-17 08:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-17 08:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-04-17 08:04:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-04-17 08:15:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-17 07:58:45 +0000"
+    },
+    "done": true
+  },
+  "super_ore_block:recipes/building_blocks/super_coal_block_from_coal_block": {
+    "criteria": {
+      "has_coal_block": "2025-04-17 08:04:46 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/nut_butter_bottle": {
+    "criteria": {
+      "has_nuts": "2025-04-17 08:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-17 08:15:25 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/baklava_no_citrus": {
+    "criteria": {
+      "has_nuts": "2025-04-17 08:08:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-17 08:15:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/clay_island": {
+    "criteria": {
+      "found_island": "2025-04-17 08:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-17 07:58:45 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2025-04-17 08:15:25 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/storage/acorn_storage_block": {
+    "criteria": {
+      "has_acorn": "2025-04-17 08:08:21 +0000"
     },
     "done": true
   },

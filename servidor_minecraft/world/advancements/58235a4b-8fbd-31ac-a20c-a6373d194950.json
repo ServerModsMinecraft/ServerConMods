@@ -1386,6 +1386,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-17 07:15:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-04-17 06:33:05 +0000"
@@ -2472,6 +2478,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-04-17 07:16:22 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/parapets": {
     "criteria": {
       "has_wood": "2025-04-17 05:51:45 +0000"
@@ -2684,6 +2696,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-17 07:15:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_grill": {
     "criteria": {
       "has_iron": "2025-04-17 04:01:45 +0000"
@@ -2832,6 +2850,12 @@
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-17 06:19:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-17 07:16:27 +0000"
     },
     "done": true
   },
@@ -3609,6 +3633,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-17 07:15:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
     "criteria": {
       "has_planks": "2025-04-17 03:39:32 +0000"
@@ -4359,6 +4389,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-17 07:16:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-04-17 03:39:54 +0000"
@@ -5085,6 +5121,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/planks": {
+    "criteria": {
+      "has_log": "2025-04-17 07:13:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-04-17 03:43:36 +0000"
@@ -5196,6 +5238,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
     "criteria": {
       "has_item": "2025-04-17 03:39:54 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-04-17 07:16:27 +0000"
     },
     "done": true
   },
@@ -5520,6 +5568,12 @@
   "twigs:recipes/basalt_blocks/polished_basalt_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-04-17 04:05:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-04-17 07:16:22 +0000"
     },
     "done": true
   },
@@ -6076,6 +6130,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tools/tools/building/sky_staff": {
+    "criteria": {
+      "has_wood": "2025-04-17 07:13:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-17 06:19:58 +0000"
@@ -6352,6 +6412,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-17 07:15:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-04-17 04:01:28 +0000"
@@ -6559,6 +6625,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 04:01:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-04-17 07:16:14 +0000"
     },
     "done": true
   },
@@ -7065,6 +7137,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-04-17 07:16:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 04:01:45 +0000"
@@ -7236,6 +7314,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
     "criteria": {
       "has_birch_planks": "2025-04-17 03:39:32 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-17 07:15:57 +0000"
     },
     "done": true
   },
@@ -8068,6 +8152,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-17 07:15:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-04-17 04:01:49 +0000"
@@ -8179,6 +8269,15 @@
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-04-17 03:51:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-04-17 07:16:14 +0000",
+      "silicon": "2025-04-17 07:16:14 +0000",
+      "engineering": "2025-04-17 07:16:14 +0000",
+      "logic": "2025-04-17 07:16:14 +0000"
     },
     "done": true
   },
@@ -8624,6 +8723,12 @@
   "mcwpaths:recipes/granite": {
     "criteria": {
       "has_wood": "2025-04-17 05:18:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/log_to_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 07:13:37 +0000"
     },
     "done": true
   },
@@ -9119,6 +9224,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-04-17 07:16:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-04-17 05:11:20 +0000"
@@ -9128,6 +9239,12 @@
   "mekanism:materials": {
     "criteria": {
       "material": "2025-04-17 04:42:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-17 07:15:57 +0000"
     },
     "done": true
   },
@@ -9302,6 +9419,12 @@
   "biomesoplenty:recipes/redstone/jacaranda_door": {
     "criteria": {
       "has_planks": "2025-04-17 04:32:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-17 07:16:27 +0000"
     },
     "done": true
   },
@@ -10247,6 +10370,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-17 07:16:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grass_washed_white.json": {
     "criteria": {
       "has_grass_block": "2025-04-17 03:37:55 +0000"
@@ -10292,6 +10421,18 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-04-17 06:33:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-04-17 07:16:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-17 07:16:27 +0000"
     },
     "done": true
   },
@@ -11708,6 +11849,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-17 07:16:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-04-17 07:16:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-17 03:57:56 +0000"
@@ -11867,6 +12020,12 @@
   "decorative_blocks:recipes/building_blocks/mangrove_support": {
     "criteria": {
       "has_plank": "2025-04-17 04:37:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-17 07:15:57 +0000"
     },
     "done": true
   },
@@ -12173,6 +12332,12 @@
   "mcwlights:recipes/lantern": {
     "criteria": {
       "has_the_recipe": "2025-04-17 03:40:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-17 07:15:57 +0000"
     },
     "done": true
   },

@@ -2746,3 +2746,31 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17Apr2025 07:11:42.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has reached the goal [Skyslime Island]
 [17Apr2025 07:11:45.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has reached the goal [Skyslime Island]
 [17Apr2025 07:13:36.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu fell from a high place
+[17Apr2025 07:15:02.277] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-26, z=202}
+[17Apr2025 07:15:02.277] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-26, z=203}
+[17Apr2025 07:15:02.278] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=202}
+[17Apr2025 07:15:02.278] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=196}
+[17Apr2025 07:15:02.278] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-24, z=195}
+[17Apr2025 07:15:02.278] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=194}
+[17Apr2025 07:15:02.279] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=198}
+[17Apr2025 07:15:02.280] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=195}
+[17Apr2025 07:15:02.280] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=194}
+[17Apr2025 07:15:02.280] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=196}
+[17Apr2025 07:15:02.281] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=196}
+[17Apr2025 07:15:02.281] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=193}
+[17Apr2025 07:15:24.889] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Devin'/79709, l='ServerLevel[world]', x=-2952.52, y=-65.00, z=-946.18] died, message: 'Devin was killed'
+[17Apr2025 07:15:24.889] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Devin'/79709, l='ServerLevel[world]', x=-2952.52, y=-65.00, z=-946.18] died: Devin was killed
+[17Apr2025 07:15:48.362] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[17Apr2025 07:15:48.363] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[17Apr2025 07:15:48.363] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[17Apr2025 07:15:48.364] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[17Apr2025 07:15:48.364] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[17Apr2025 07:15:48.365] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[17Apr2025 07:15:48.365] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[17Apr2025 07:15:48.365] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[17Apr2025 07:16:14.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Unknown Technology]
+[17Apr2025 07:20:11.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid was tragically enlightened!
+[17Apr2025 07:21:01.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid lost connection: Timed out
+[17Apr2025 07:21:01.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid left the game
+[17Apr2025 07:21:01.097] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Apr2025 07:23:01.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was slain by Skyslime

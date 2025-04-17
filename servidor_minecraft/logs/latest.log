@@ -2088,3 +2088,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 21:20:41.514] [Server thread/INFO] [Jade/]: Syncing config to Sameu (b1b63f1d-df45-3898-b941-fc806e390edb)
 [17Apr2025 21:21:01.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Cow
 [17Apr2025 21:21:48.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Suit Up]
+[17Apr2025 21:23:29.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new JhairenGey
+[17Apr2025 21:24:06.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new JhairenGey
+[17Apr2025 21:24:37.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> XD IMBECIL
+[17Apr2025 21:24:53.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['JhairenGey'/44827, l='ServerLevel[world]', x=-527.46, y=24.00, z=-5924.85] died: JhairenGey was slain by Sameu
+[17Apr2025 21:26:45.755] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['JhairenGey'/44642, l='ServerLevel[world]', x=-528.77, y=70.00, z=-5958.23] died: JhairenGey was slain by JhairJCM
+[17Apr2025 21:34:21.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Mariachi?]
+[17Apr2025 21:34:51.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has completed the challenge [Mariachi!]
+[17Apr2025 21:35:19.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [We Need to Go Deeper]
+[17Apr2025 21:35:22.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6519ms or 130 ticks behind
+[17Apr2025 21:35:23.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [A Terrible Fortress]
+[17Apr2025 21:35:24.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [We Need to Go Deeper]
+[17Apr2025 21:35:25.331] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/47863, l='ServerLevel[world]', x=-129.00, y=31.00, z=-835.00] as it would cause deadlock
+[17Apr2025 21:35:26.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [A Terrible Fortress]
+[17Apr2025 21:35:41.238] [Worker-Main-28/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/48357, l='ServerLevel[world]', x=78.00, y=31.00, z=-577.00] as it would cause deadlock
+[17Apr2025 21:35:45.929] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/48411, l='ServerLevel[world]', x=-219.00, y=31.00, z=-563.00] as it would cause deadlock

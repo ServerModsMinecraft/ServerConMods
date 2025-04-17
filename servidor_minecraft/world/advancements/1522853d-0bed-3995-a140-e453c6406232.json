@@ -1781,6 +1781,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-04-17 21:26:49 +0000",
       "beef": "2025-04-17 05:43:30 +0000",
       "tropical_fish": "2025-04-17 04:42:27 +0000",
       "cooked_cod": "2025-04-17 04:47:13 +0000",
@@ -2938,9 +2939,11 @@
       "shrubland": "2025-04-17 04:25:55 +0000",
       "rocky_shrubland": "2025-04-17 06:40:18 +0000",
       "scrubland": "2025-04-17 07:10:08 +0000",
+      "erupting_inferno": "2025-04-17 21:35:23 +0000",
       "highland": "2025-04-17 08:38:51 +0000",
       "clover_patch": "2025-04-17 05:43:22 +0000",
       "old_growth_woodland": "2025-04-17 05:44:40 +0000",
+      "withered_abyss": "2025-04-17 21:37:53 +0000",
       "orchard": "2025-04-17 05:40:25 +0000",
       "field": "2025-04-17 08:41:00 +0000",
       "lavender_forest": "2025-04-17 04:26:53 +0000",
@@ -4887,6 +4890,7 @@
       "minecraft:creeper": "2025-04-17 04:49:36 +0000",
       "minecraft:phantom": "2025-04-17 20:54:01 +0000",
       "minecraft:cave_spider": "2025-04-17 05:29:46 +0000",
+      "minecraft:piglin": "2025-04-17 21:39:46 +0000",
       "minecraft:enderman": "2025-04-17 07:19:24 +0000",
       "minecraft:stray": "2025-04-17 05:50:09 +0000",
       "minecraft:zombie": "2025-04-17 04:47:25 +0000",
@@ -11024,6 +11028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-17 21:26:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2025-04-17 20:49:05 +0000"
@@ -11035,6 +11045,12 @@
       "has_item": "2025-04-17 20:51:51 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-17 21:36:17 +0000"
+    },
+    "done": false
   },
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
@@ -11066,9 +11082,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-04-17 21:36:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2025-04-17 20:51:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:36:25 +0000"
     },
     "done": true
   },
@@ -11093,6 +11121,12 @@
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-04-17 19:01:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:23:16 +0000"
     },
     "done": true
   },
@@ -11126,6 +11160,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:23:16 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-04-17 19:15:04 +0000"
@@ -11144,6 +11184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:36:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-17 19:16:31 +0000"
@@ -11159,6 +11205,12 @@
   "twigs:recipes/tuff/polished_tuff": {
     "criteria": {
       "has_item": "2025-04-17 19:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-17 21:26:46 +0000"
     },
     "done": true
   },
@@ -11198,9 +11250,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 21:23:06 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_from_pebble": {
     "criteria": {
       "has_item": "2025-04-17 19:00:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-04-17 21:36:02 +0000"
     },
     "done": true
   },
@@ -11228,6 +11292,18 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/netherrack_slab": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:36:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-04-17 20:48:15 +0000"
@@ -11249,6 +11325,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-04-17 19:10:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-17 21:21:48 +0000"
     },
     "done": true
   },
@@ -11282,9 +11364,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:23:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_roller": {
     "criteria": {
       "has_item": "2025-04-17 20:51:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-04-17 21:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-17 21:35:19 +0000"
     },
     "done": true
   },
@@ -11312,9 +11412,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-17 21:36:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-04-17 20:56:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:36:25 +0000"
     },
     "done": true
   },
@@ -11348,6 +11460,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-17 21:36:25 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/schist/polished_schist": {
     "criteria": {
       "has_item": "2025-04-17 19:00:38 +0000"
@@ -11366,6 +11484,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-04-17 21:23:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-04-17 20:55:47 +0000"
@@ -11381,6 +11505,18 @@
   "create_connected:recipes/crafting/kinetics/brake": {
     "criteria": {
       "has_item": "2025-04-17 21:05:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-17 21:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:36:25 +0000"
     },
     "done": true
   },
@@ -11438,6 +11574,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-04-17 21:36:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-04-17 20:55:37 +0000"
@@ -11450,9 +11592,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:23:16 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
     "criteria": {
       "has_item": "2025-04-17 19:15:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-04-17 21:36:02 +0000"
     },
     "done": true
   },
@@ -11564,9 +11718,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:36:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:23:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-17 19:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:36:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:23:16 +0000"
     },
     "done": true
   },
@@ -11624,6 +11808,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-17 21:36:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2025-04-17 20:49:05 +0000"
@@ -11678,9 +11868,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-04-17 21:23:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-17 21:36:25 +0000"
     },
     "done": true
   },
@@ -11699,6 +11901,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
     "criteria": {
       "has_item": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-04-17 21:35:23 +0000"
     },
     "done": true
   },
@@ -11738,6 +11946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-17 21:26:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/redstone_link": {
     "criteria": {
       "has_item": "2025-04-17 20:51:51 +0000"
@@ -11762,6 +11976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-17 21:26:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-04-17 20:55:37 +0000"
@@ -11774,9 +11994,33 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-17 21:36:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-04-17 19:35:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:36:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:23:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-04-17 21:36:02 +0000"
     },
     "done": true
   },
@@ -11789,6 +12033,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2025-04-17 20:51:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-04-17 21:36:25 +0000"
     },
     "done": true
   },
@@ -11807,6 +12057,18 @@
   "cfm:recipes/decorations/stripped_oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-04-17 20:51:48 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-04-17 21:36:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-17 21:36:25 +0000"
     },
     "done": true
   },
@@ -11858,6 +12120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:36:25 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/schist/schist_stairs": {
     "criteria": {
       "has_item": "2025-04-17 19:00:38 +0000"
@@ -11882,6 +12150,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/combat/gadgets/shuriken/quartz_shuriken": {
+    "criteria": {
+      "has_item": "2025-04-17 21:36:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2025-04-17 20:49:05 +0000"
@@ -11903,6 +12177,12 @@
   "twigs:recipes/schist/schist_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-04-17 19:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-17 21:35:19 +0000"
     },
     "done": true
   },
@@ -11945,6 +12225,18 @@
   "twigs:recipes/rhyolite/rhyolite_stairs": {
     "criteria": {
       "has_item": "2025-04-17 19:15:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-17 21:23:16 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-04-17 21:36:25 +0000"
     },
     "done": true
   },

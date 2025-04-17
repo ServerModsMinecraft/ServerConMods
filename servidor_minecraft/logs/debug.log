@@ -22521,3 +22521,102 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 21:21:14.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Apr2025 21:21:14.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Apr2025 21:21:48.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Suit Up]
+[17Apr2025 21:23:29.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new JhairenGey
+[17Apr2025 21:24:06.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new JhairenGey
+[17Apr2025 21:24:37.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> XD IMBECIL
+[17Apr2025 21:24:53.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['JhairenGey'/44827, l='ServerLevel[world]', x=-527.46, y=24.00, z=-5924.85] died: JhairenGey was slain by Sameu
+[17Apr2025 21:26:14.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 21:26:14.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 21:26:45.755] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['JhairenGey'/44642, l='ServerLevel[world]', x=-528.77, y=70.00, z=-5958.23] died: JhairenGey was slain by JhairJCM
+[17Apr2025 21:31:14.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 21:31:14.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 21:31:37.822] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 50
+[17Apr2025 21:31:37.822] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@398ea8ed=InventoryMapping{i=net.minecraft.world.CompoundContainer@398ea8ed, c=net.minecraft.world.inventory.ChestMenu@120b2832, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@120b2832, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@120b2832, b=81, e=89}}
+[17Apr2025 21:31:37.822] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@398ea8ed, c=net.minecraft.world.inventory.ChestMenu@120b2832, b=0, e=53}
+[17Apr2025 21:31:44.374] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 61
+[17Apr2025 21:31:44.374] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@398ea8ed=InventoryMapping{i=net.minecraft.world.CompoundContainer@398ea8ed, c=net.minecraft.world.inventory.ChestMenu@120b2832, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@120b2832, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@120b2832, b=81, e=89}}
+[17Apr2025 21:31:44.374] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@120b2832, b=54, e=80}
+[17Apr2025 21:31:54.524] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 49
+[17Apr2025 21:31:54.525] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@68f66436, b=54, e=80}, net.minecraft.world.CompoundContainer@445061c5=InventoryMapping{i=net.minecraft.world.CompoundContainer@445061c5, c=net.minecraft.world.inventory.ChestMenu@68f66436, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@68f66436, b=81, e=89}}
+[17Apr2025 21:31:54.525] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@445061c5, c=net.minecraft.world.inventory.ChestMenu@68f66436, b=0, e=53}
+[17Apr2025 21:33:38.567] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/roads/bent_1
+[17Apr2025 21:33:38.569] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/roads/t_3
+[17Apr2025 21:33:38.570] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/roads/straight
+[17Apr2025 21:33:38.572] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/well
+[17Apr2025 21:33:38.574] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/small_4
+[17Apr2025 21:33:38.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/cartographer
+[17Apr2025 21:33:38.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/roads/bent_2
+[17Apr2025 21:33:38.578] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/lamp_1
+[17Apr2025 21:33:38.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/lamp_3
+[17Apr2025 21:33:38.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/goddess_statue
+[17Apr2025 21:33:38.582] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/small_1
+[17Apr2025 21:33:38.584] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/pen
+[17Apr2025 21:33:38.584] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/lamp_2
+[17Apr2025 21:33:38.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/med_2
+[17Apr2025 21:33:38.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/mason
+[17Apr2025 21:33:38.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/cart
+[17Apr2025 21:33:38.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/big_1
+[17Apr2025 21:33:38.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/farm
+[17Apr2025 21:33:38.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/small_3
+[17Apr2025 21:33:38.595] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/big_3
+[17Apr2025 21:33:38.596] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/butcher
+[17Apr2025 21:33:38.597] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/lamp_4
+[17Apr2025 21:33:38.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/med_1
+[17Apr2025 21:33:38.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/fountain
+[17Apr2025 21:33:38.602] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/smith
+[17Apr2025 21:33:38.604] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/pig
+[17Apr2025 21:33:38.605] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/loomhouse
+[17Apr2025 21:33:38.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/fd_farm
+[17Apr2025 21:33:38.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/roads/terminator
+[17Apr2025 21:33:38.609] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/small_2
+[17Apr2025 21:33:38.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/roads/inter
+[17Apr2025 21:33:38.611] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/sheep
+[17Apr2025 21:33:38.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/roads/t_1
+[17Apr2025 21:33:38.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/library
+[17Apr2025 21:33:38.614] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/tree
+[17Apr2025 21:33:40.655] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:hateno_village_goddess_statue
+[17Apr2025 21:33:40.656] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:plains_village_horned_statue
+[17Apr2025 21:34:21.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Mariachi?]
+[17Apr2025 21:34:51.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has completed the challenge [Mariachi!]
+[17Apr2025 21:35:19.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [We Need to Go Deeper]
+[17Apr2025 21:35:19.507] [Worker-Main-11/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/tower/whole is being run through DFU (hash 17cbebf9528c9432ee52ee1542bf326f2ce675266ada3d0c7622191a0d8e4ffb), this will cause launch time delays
+[17Apr2025 21:35:19.908] [Worker-Main-11/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/nether_wart is being run through DFU (hash 04068336b55b2cff732f488d745b61572b76f546de0e66e375f58053bd87e1d5), this will cause launch time delays
+[17Apr2025 21:35:19.912] [Worker-Main-11/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/bridge_chest is being run through DFU (hash 23801da4e7607bdb5fbea462855b2076d13c3de021d397e4504c86f92bd8c434), this will cause launch time delays
+[17Apr2025 21:35:19.916] [Worker-Main-11/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/gilded_blackstone is being run through DFU (hash 54773a4b4582ef413954b92c8c6dee1664065d3c63adf491b794623849c5ffc8), this will cause launch time delays
+[17Apr2025 21:35:19.918] [Worker-Main-11/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/blaze_spawner is being run through DFU (hash 3c017ac499d1806260d7887485d422d93c59f4fed4cd8f1302f48a7568d764e1), this will cause launch time delays
+[17Apr2025 21:35:20.084] [Worker-Main-11/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/gold_blocks is being run through DFU (hash 23b8d080b6500ea194716e68c292816cace033437d1c7e73514cc55bb2d220ae), this will cause launch time delays
+[17Apr2025 21:35:20.087] [Worker-Main-11/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/bridge/normal is being run through DFU (hash f20f6b5af8b39b449985d7e5500a72c23701d57f2e4d97e1bd92fca0c011db5d), this will cause launch time delays
+[17Apr2025 21:35:20.113] [Worker-Main-11/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/bridge_feature/gold is being run through DFU (hash 986328020a6d2e330e83091629dcd5524252452319d61ac60f18cd58d86d7313), this will cause launch time delays
+[17Apr2025 21:35:20.115] [Worker-Main-11/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/bridge_feature/glowstone is being run through DFU (hash 6b64c7b0ae06d906e098a965ce5687c86c5fcc9d465bc7e882ea3c029e96a7b2), this will cause launch time delays
+[17Apr2025 21:35:20.117] [Worker-Main-11/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/bridge_feature/chisel is being run through DFU (hash 05847989c7cb9762a2e6d6eab050ae41f3d4332c2bb8a06585df0e3d2058f440), this will cause launch time delays
+[17Apr2025 21:35:20.120] [Worker-Main-11/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/treasure_chest is being run through DFU (hash a74297a3bb293409c2ab7980a269e20b5ff911e032e6eeb2b8418c52fad82043), this will cause launch time delays
+[17Apr2025 21:35:20.124] [Worker-Main-11/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/bridge/ruined is being run through DFU (hash 9d85d8751630757b1aeaf9088b7098918ed6ba8e3c439964ac7a27805b284bb4), this will cause launch time delays
+[17Apr2025 21:35:20.139] [Worker-Main-11/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/piglins is being run through DFU (hash 2b1938f2a87a672962d2888a7cc304f625b3deafaca128560b1819abe87473be), this will cause launch time delays
+[17Apr2025 21:35:20.144] [Worker-Main-11/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/hoglin_spawner is being run through DFU (hash f5dd51dcd1cb8a46b0a00bf2f73fcabc8515a9e72c2893c265e6ec72581cd249), this will cause launch time delays
+[17Apr2025 21:35:20.162] [Worker-Main-11/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/netherite is being run through DFU (hash ed632590a56fa500fe316b1635dab58e7696a52e5dae712b1e3a87f7c024fcb3), this will cause launch time delays
+[17Apr2025 21:35:22.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6519ms or 130 ticks behind
+[17Apr2025 21:35:23.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [A Terrible Fortress]
+[17Apr2025 21:35:24.340] [Worker-Main-10/DEBUG] [mixin/]: Mixing sequencedgearshift.SequencerInstructionsMixin from create_connected.mixins.json into com.simibubi.create.content.kinetics.transmission.sequencer.SequencerInstructions
+[17Apr2025 21:35:24.340] [Worker-Main-10/DEBUG] [mixin/]: create_connected.mixins.json:sequencedgearshift.SequencerInstructionsMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[17Apr2025 21:35:24.340] [Worker-Main-10/DEBUG] [mixin/]: Renaming @Invoker method create_connected$invokeInit(Ljava/lang/String;ILjava/lang/String;Lcom/simibubi/create/foundation/gui/AllGuiTextures;)Lcom/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions; to create_connected$invokeInit_$md$ba9cbc$0 in create_connected.mixins.json:sequencedgearshift.SequencerInstructionsMixin
+[17Apr2025 21:35:24.340] [Worker-Main-10/DEBUG] [mixin/]: Renaming @Invoker method create_connected$invokeInit(Ljava/lang/String;ILjava/lang/String;Lcom/simibubi/create/foundation/gui/AllGuiTextures;ZZIII)Lcom/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions; to create_connected$invokeInit_$md$ba9cbc$1 in create_connected.mixins.json:sequencedgearshift.SequencerInstructionsMixin
+[17Apr2025 21:35:24.357] [Worker-Main-10/DEBUG] [mixin/]: Mixing dragonLibLegacy.AdvancementBehaviourAccessor from create_enchantment_industry.mixins.json into com.simibubi.create.foundation.advancement.AdvancementBehaviour
+[17Apr2025 21:35:24.357] [Worker-Main-10/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:dragonLibLegacy.AdvancementBehaviourAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[17Apr2025 21:35:24.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [We Need to Go Deeper]
+[17Apr2025 21:35:25.331] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/47863, l='ServerLevel[world]', x=-129.00, y=31.00, z=-835.00] as it would cause deadlock
+[17Apr2025 21:35:26.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [A Terrible Fortress]
+[17Apr2025 21:35:27.223] [Worker-Main-12/DEBUG] [mixin/]: Mixing sequencedgearshift.InstructionAccessor from create_connected.mixins.json into com.simibubi.create.content.kinetics.transmission.sequencer.Instruction
+[17Apr2025 21:35:27.224] [Worker-Main-12/DEBUG] [mixin/]: create_connected.mixins.json:sequencedgearshift.InstructionAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[17Apr2025 21:35:27.224] [Worker-Main-12/DEBUG] [mixin/]: Mixing sequencedgearshift.InstructionMixin from create_connected.mixins.json into com.simibubi.create.content.kinetics.transmission.sequencer.Instruction
+[17Apr2025 21:35:27.224] [Worker-Main-12/DEBUG] [mixin/]: create_connected.mixins.json:sequencedgearshift.InstructionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[17Apr2025 21:35:27.228] [Worker-Main-12/DEBUG] [mixin/]: Mixing sequencedgearshift.InstructionSpeedModifiersAccessor from create_connected.mixins.json into com.simibubi.create.content.kinetics.transmission.sequencer.InstructionSpeedModifiers
+[17Apr2025 21:35:27.228] [Worker-Main-12/DEBUG] [mixin/]: create_connected.mixins.json:sequencedgearshift.InstructionSpeedModifiersAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[17Apr2025 21:35:29.203] [Server thread/DEBUG] [mixin/]: Mixing chaincogwheel.RotationPropagatorMixin from create_connected.mixins.json into com.simibubi.create.content.kinetics.RotationPropagator
+[17Apr2025 21:35:29.203] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:chaincogwheel.RotationPropagatorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[17Apr2025 21:35:29.204] [Server thread/DEBUG] [mixin/]: Mixing create.RotationPropagatorMixin from createcasing.mixins.json into com.simibubi.create.content.kinetics.RotationPropagator
+[17Apr2025 21:35:41.238] [Worker-Main-28/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/48357, l='ServerLevel[world]', x=78.00, y=31.00, z=-577.00] as it would cause deadlock
+[17Apr2025 21:35:45.929] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/48411, l='ServerLevel[world]', x=-219.00, y=31.00, z=-563.00] as it would cause deadlock
+[17Apr2025 21:36:21.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 21:36:21.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 21:41:21.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 21:41:21.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

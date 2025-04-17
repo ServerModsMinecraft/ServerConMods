@@ -1975,3 +1975,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 03:30:14.542] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14c2db64[id=<null>,name=JhairJCM,properties={},legacy=false] (/127.141.136.247:41105) lost connection: Disconnected
 [17Apr2025 03:30:33.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid lost connection: Disconnected
 [17Apr2025 03:30:33.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid left the game
+[17Apr2025 03:31:57.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] hola
+[17Apr2025 03:33:34.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhairJCM[/127.141.136.247:37865] logged in with entity id 1449 at (-107.5, 73.0, -117.5)
+[17Apr2025 03:33:34.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM joined the game
+[17Apr2025 03:33:34.661] [Server thread/INFO] [Jade/]: Syncing config to JhairJCM (1522853d-0bed-3995-a140-e453c6406232)
+[17Apr2025 03:34:23.767] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DierkDavid[/127.170.5.104:38071] logged in with entity id 1694 at (-122.65480905119416, 64.0, -133.84701516504353)
+[17Apr2025 03:34:23.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid joined the game
+[17Apr2025 03:34:23.876] [Server thread/INFO] [Jade/]: Syncing config to DierkDavid (58235a4b-8fbd-31ac-a20c-a6373d194950)
+[17Apr2025 03:34:54.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Set the time to 1000]
+[17Apr2025 03:35:09.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Set the weather to clear]
+[17Apr2025 03:38:03.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Monster Hunter]
+[17Apr2025 03:38:09.644] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@fd68610[id=<null>,name=Sameu,properties={},legacy=false] (/127.218.188.179:56087) lost connection: Disconnected
+[17Apr2025 03:38:22.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Set own game mode to Survival Mode]
+[17Apr2025 03:39:46.844] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15badea2[id=<null>,name=Sameu,properties={},legacy=false] (/127.218.188.179:40811) lost connection: Disconnected
+[17Apr2025 03:39:54.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Stone Age]
+[17Apr2025 03:40:40.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Getting an Upgrade]

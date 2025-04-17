@@ -1,0 +1,17 @@
+{
+	id: "1522853d-0bed-3995-a140-e453c6406232"
+	type: "player"
+	player_name: "JhairJCM"
+	ranks: {
+		1522853d-0bed-3995-a140-e453c6406232: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JhairJCM"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E1FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

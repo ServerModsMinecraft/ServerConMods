@@ -3305,6 +3305,7 @@
       "lavender_field": "2025-04-17 08:32:18 +0000",
       "fir_clearing": "2025-04-17 08:06:08 +0000",
       "snowy_coniferous_forest": "2025-04-17 08:44:31 +0000",
+      "snowy_fir_clearing": "2025-04-17 08:48:28 +0000",
       "rainforest": "2025-04-17 07:39:46 +0000",
       "ominous_woods": "2025-04-17 08:39:36 +0000"
     },
@@ -9726,6 +9727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-17 08:58:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-04-17 08:08:19 +0000"
@@ -9753,6 +9760,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-17 08:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-17 08:58:44 +0000"
     },
     "done": true
   },
@@ -9822,6 +9835,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/quill": {
+    "criteria": {
+      "has_tag_a": "2025-04-17 08:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-17 08:29:34 +0000"
@@ -9861,6 +9880,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-04-17 08:45:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-04-17 08:58:44 +0000"
     },
     "done": true
   },
@@ -9924,6 +9949,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-17 08:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-17 08:58:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-04-17 08:08:19 +0000"
@@ -9963,6 +10000,12 @@
   "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-04-17 08:08:19 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2025-04-17 08:58:44 +0000"
     },
     "done": true
   },

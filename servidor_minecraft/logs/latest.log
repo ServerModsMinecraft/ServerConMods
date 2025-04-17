@@ -2268,3 +2268,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Apr2025 08:48:59.496] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=241}
 [17Apr2025 08:48:59.496] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=243}
 [17Apr2025 08:48:59.496] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}
+[17Apr2025 08:53:41.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> otra aldea
+[17Apr2025 08:54:45.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu was slain by Snake
+[17Apr2025 08:55:07.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-118, y=73, z=-140}
+[17Apr2025 08:55:42.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Teleported Sameu to JhairJCM]
+[17Apr2025 08:55:59.654] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-753, y=-34, z=-6750}
+[17Apr2025 08:56:21.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu was slain by Wolf
+[17Apr2025 08:56:26.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Teleported Sameu to JhairJCM]
+[17Apr2025 08:56:28.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> ni le pegue
+[17Apr2025 08:57:27.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> entonces a donde
+[17Apr2025 08:59:15.359] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-389, y=-36, z=-5708} but found not block entity block Block{create_better_motors:deepslate_reggarfonite_ore} at location
+[17Apr2025 08:59:15.359] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create_better_motors:deepslate_reggarfonite_ore} but failed at location BlockPos{x=-389, y=-36, z=-5708}
+[17Apr2025 09:00:01.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> aqui o donde esta dierk
+[17Apr2025 09:01:52.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sameu> buenas noches papues
+[17Apr2025 09:01:55.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sameu lost connection: Disconnected
+[17Apr2025 09:01:55.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu left the game
+[17Apr2025 09:02:22.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhairJCM lost connection: Disconnected
+[17Apr2025 09:02:22.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM left the game

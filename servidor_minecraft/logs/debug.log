@@ -22437,3 +22437,42 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 06:28:24.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 06:28:24.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Apr2025 06:31:51.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Stan'/4062, l='ServerLevel[world]', x=-2513.45, y=75.00, z=-1731.44] died: Stan was shot by Skeleton
+[18Apr2025 06:32:45.133] [Server thread/DEBUG] [Eat an Omelette/]: Loaded forge.com.cursee.eat_an_omelette.platform.ForgePlatformHelper@4c9711c8 for service interface forge.com.cursee.eat_an_omelette.platform.services.IPlatformHelper
+[18Apr2025 06:32:46.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> no
+[18Apr2025 06:32:57.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> :(
+[18Apr2025 06:33:04.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> YA OE
+[18Apr2025 06:33:10.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> TE VOY A PARTIR TU MANDARINA
+[18Apr2025 06:33:24.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 06:33:24.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 06:33:38.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> YO ACABO DE LLEGAR
+[18Apr2025 06:37:38.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [Acquire Hardware]
+[18Apr2025 06:37:48.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [Amateur Archaeologist]
+[18Apr2025 06:38:24.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 06:38:24.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 06:38:44.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [Suit Up]
+[18Apr2025 06:38:49.293] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/tower/whole
+[18Apr2025 06:38:49.300] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/gilded_blackstone
+[18Apr2025 06:38:49.301] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge/ruined
+[18Apr2025 06:38:49.304] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/nether_wart
+[18Apr2025 06:38:49.305] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/treasure_chest
+[18Apr2025 06:38:49.306] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/bridge_chest
+[18Apr2025 06:38:49.307] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/blaze_spawner
+[18Apr2025 06:38:49.308] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge_feature/chisel
+[18Apr2025 06:38:49.308] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge_feature/glowstone
+[18Apr2025 06:38:49.615] [Server thread/DEBUG] [mixin/]: Mixing sequencedgearshift.InstructionAccessor from create_connected.mixins.json into com.simibubi.create.content.kinetics.transmission.sequencer.Instruction
+[18Apr2025 06:38:49.615] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:sequencedgearshift.InstructionAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[18Apr2025 06:38:49.616] [Server thread/DEBUG] [mixin/]: Mixing sequencedgearshift.InstructionMixin from create_connected.mixins.json into com.simibubi.create.content.kinetics.transmission.sequencer.Instruction
+[18Apr2025 06:38:49.616] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:sequencedgearshift.InstructionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[18Apr2025 06:38:49.620] [Server thread/DEBUG] [mixin/]: Mixing sequencedgearshift.InstructionSpeedModifiersAccessor from create_connected.mixins.json into com.simibubi.create.content.kinetics.transmission.sequencer.InstructionSpeedModifiers
+[18Apr2025 06:38:49.620] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:sequencedgearshift.InstructionSpeedModifiersAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[18Apr2025 06:38:50.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhairJCM moved too quickly! 8.421910280775933,0.0,5.490944004545781
+[18Apr2025 06:38:52.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge/normal
+[18Apr2025 06:38:52.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/gold_blocks
+[18Apr2025 06:38:52.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge_feature/gold
+[18Apr2025 06:38:52.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/piglins
+[18Apr2025 06:38:52.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/hoglin_spawner
+[18Apr2025 06:38:52.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/netherite
+[18Apr2025 06:39:02.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM fell from a high place
+[18Apr2025 06:39:44.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [We Need to Go Deeper]
+[18Apr2025 06:39:45.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [A Terrible Fortress]
+[18Apr2025 06:41:06.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [Stone Age]

@@ -13798,6 +13798,12 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-04-18 00:57:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-04-18 00:03:28 +0000"

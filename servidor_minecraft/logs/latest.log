@@ -38,3 +38,4 @@
 [18Apr2025 00:53:37.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-522, y=71, z=-5934} BlockPos{x=-523, y=69, z=-5935}
 [18Apr2025 00:55:00.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhairJCM lost connection: Disconnected
 [18Apr2025 00:55:00.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM left the game
+[18Apr2025 01:11:15.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Bonfire Lit]

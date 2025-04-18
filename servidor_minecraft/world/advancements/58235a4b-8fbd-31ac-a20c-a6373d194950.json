@@ -15148,6 +15148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-18 06:54:50 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/nether_bricks_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-18 06:38:55 +0000"
@@ -15169,6 +15175,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2025-04-18 06:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-18 06:54:50 +0000"
     },
     "done": true
   },
@@ -15196,9 +15208,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/red_nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-04-18 06:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-18 06:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-18 06:54:50 +0000"
     },
     "done": true
   },
@@ -15232,6 +15256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-18 06:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-04-18 06:38:55 +0000"
@@ -15244,9 +15274,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-18 06:54:50 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/nether_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-04-18 06:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-18 06:54:50 +0000"
     },
     "done": true
   },

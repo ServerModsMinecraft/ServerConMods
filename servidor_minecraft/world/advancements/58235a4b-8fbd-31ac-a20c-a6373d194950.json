@@ -13621,6 +13621,12 @@
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-04-18 00:24:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2025-04-17 23:28:13 +0000"
@@ -13676,6 +13682,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2025-04-18 00:23:18 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
     "criteria": {
       "has_item": "2025-04-17 23:44:55 +0000"
@@ -13685,6 +13697,18 @@
   "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2025-04-17 23:28:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2025-04-18 00:23:18 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-04-18 00:26:18 +0000"
     },
     "done": true
   },
@@ -13727,6 +13751,12 @@
   "create:recipes/misc/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2025-04-17 23:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-18 00:23:18 +0000"
     },
     "done": true
   },

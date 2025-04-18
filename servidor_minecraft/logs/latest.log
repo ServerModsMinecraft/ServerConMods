@@ -2043,3 +2043,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 07:13:02.893] [Server thread/INFO] [Jade/]: Syncing config to JhairJCM (1522853d-0bed-3995-a140-e453c6406232)
 [18Apr2025 07:13:06.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM tried to swim in lava
 [18Apr2025 07:13:06.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Teleported JhairJCM to DierkDavid]
+[18Apr2025 07:13:26.465] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/31626, l='ServerLevel[world]', x=110.00, y=31.00, z=-447.10] as it would cause deadlock
+[18Apr2025 07:13:41.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM tried to swim in lava
+[18Apr2025 07:14:45.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was slain by Bone Serpent
+[18Apr2025 07:16:50.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 was slain by Piglin Brute
+[18Apr2025 07:17:03.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Teleported JhairJCM to DierkDavid]
+[18Apr2025 07:17:07.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Teleported Cursed10 to JhairJCM]
+[18Apr2025 07:17:23.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 was slain by Piglin
+[18Apr2025 07:17:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Teleported Cursed10 to JhairJCM]

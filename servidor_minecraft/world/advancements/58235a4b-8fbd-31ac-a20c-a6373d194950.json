@@ -14398,6 +14398,12 @@
     },
     "done": true
   },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-04-18 03:02:14 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_planks": {
     "criteria": {
       "has_logs": "2025-04-18 00:01:25 +0000"

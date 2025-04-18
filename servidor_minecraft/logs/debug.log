@@ -23902,3 +23902,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 02:51:25.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Apr2025 02:56:25.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 02:56:25.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 03:01:25.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 03:01:25.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 03:03:06.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has reached the goal [Workout Session]
+[18Apr2025 03:06:25.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 03:06:25.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

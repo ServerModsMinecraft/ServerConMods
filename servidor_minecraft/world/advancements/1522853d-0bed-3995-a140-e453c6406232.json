@@ -13591,6 +13591,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2025-04-18 02:16:39 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/inverted_gearshift_from_conversion": {
     "criteria": {
       "has_item": "2025-04-18 01:43:11 +0000"
@@ -13627,6 +13633,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2025-04-18 02:17:28 +0000"
+    },
+    "done": true
+  },
   "create:crushing_wheel": {
     "criteria": {
       "0": "2025-04-18 01:44:05 +0000"
@@ -13654,6 +13666,12 @@
   "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
     "criteria": {
       "has_item": "2025-04-18 02:11:22 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-04-18 02:17:42 +0000"
     },
     "done": true
   },

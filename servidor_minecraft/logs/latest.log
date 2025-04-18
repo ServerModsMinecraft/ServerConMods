@@ -52,3 +52,6 @@
 [18Apr2025 01:44:05.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has made the advancement [Wheels of Destruction]
 [18Apr2025 02:44:19.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> -550 74 -5964
 [18Apr2025 03:03:06.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has reached the goal [Workout Session]
+[18Apr2025 04:08:21.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sameu[/127.50.61.139:44817] logged in with entity id 135397 at (-531.5273751625102, 70.0, -5953.964407024036)
+[18Apr2025 04:08:21.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu joined the game
+[18Apr2025 04:08:21.669] [Server thread/INFO] [Jade/]: Syncing config to Sameu (b1b63f1d-df45-3898-b941-fc806e390edb)

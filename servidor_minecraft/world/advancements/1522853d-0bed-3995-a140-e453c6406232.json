@@ -14856,6 +14856,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/encased_chain_cogwheel": {
+    "criteria": {
+      "has_item": "2025-04-18 08:44:48 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/calcite/calcite_stairs": {
     "criteria": {
       "has_item": "2025-04-18 07:49:41 +0000"

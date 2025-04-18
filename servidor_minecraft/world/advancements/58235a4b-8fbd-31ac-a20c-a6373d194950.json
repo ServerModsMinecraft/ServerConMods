@@ -13563,6 +13563,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-04-18 04:45:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-04-18 01:17:44 +0000"
@@ -13752,6 +13758,12 @@
   "create_connected:recipes/crafting/palettes/copycat_vertical_step": {
     "criteria": {
       "has_item": "2025-04-18 01:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-18 04:45:15 +0000"
     },
     "done": true
   },
@@ -14493,6 +14505,12 @@
       "has_shear": "2025-04-18 02:04:04 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-04-18 04:45:15 +0000"
+    },
+    "done": false
   },
   "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
     "criteria": {

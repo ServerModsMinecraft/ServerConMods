@@ -13611,6 +13611,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-04-18 02:45:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-04-18 02:04:10 +0000"
@@ -14122,6 +14128,12 @@
     },
     "done": true
   },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-04-18 02:45:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2025-04-18 01:17:44 +0000"
@@ -14182,9 +14194,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-04-18 02:45:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-04-18 01:12:41 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "has_item": "2025-04-18 02:45:55 +0000"
     },
     "done": true
   },
@@ -14275,6 +14299,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-04-18 01:04:58 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2025-04-18 02:45:55 +0000"
     },
     "done": true
   },
@@ -14389,6 +14419,12 @@
   "create:belt": {
     "criteria": {
       "0": "2025-04-18 00:57:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-04-18 02:45:55 +0000"
     },
     "done": true
   },
@@ -14575,6 +14611,12 @@
   "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-04-18 01:17:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-04-18 02:45:55 +0000"
     },
     "done": true
   },

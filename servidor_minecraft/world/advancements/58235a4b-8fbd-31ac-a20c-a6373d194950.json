@@ -15386,6 +15386,12 @@
     },
     "done": true
   },
+  "create:drain": {
+    "criteria": {
+      "0": "2025-04-18 07:45:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-04-18 07:02:15 +0000"

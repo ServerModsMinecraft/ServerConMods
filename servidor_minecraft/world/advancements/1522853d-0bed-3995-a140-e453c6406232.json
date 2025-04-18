@@ -11202,6 +11202,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-04-18 00:01:47 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
     "criteria": {
       "has_item": "2025-04-17 19:35:41 +0000"
@@ -11559,6 +11565,12 @@
   "cfm:recipes/decorations/stripped_oak_blinds": {
     "criteria": {
       "has_log": "2025-04-17 20:51:48 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-04-18 00:01:54 +0000"
     },
     "done": true
   },
@@ -12250,6 +12262,12 @@
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-17 21:55:54 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
+    "criteria": {
+      "has_item": "2025-04-18 00:01:47 +0000"
     },
     "done": true
   },
@@ -13123,6 +13141,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/crank_wheel": {
+    "criteria": {
+      "has_item": "2025-04-18 00:01:47 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/schist/schist_wall": {
     "criteria": {
       "has_item": "2025-04-17 19:00:38 +0000"
@@ -13228,6 +13252,12 @@
   "twigs:recipes/bloodstone/bloodstone": {
     "criteria": {
       "has_item": "2025-04-17 21:36:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-04-18 00:01:47 +0000"
     },
     "done": true
   },

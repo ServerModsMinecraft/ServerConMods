@@ -6661,6 +6661,7 @@
       "shrubland": "2025-04-17 04:25:48 +0000",
       "rocky_shrubland": "2025-04-17 08:24:38 +0000",
       "scrubland": "2025-04-17 07:09:53 +0000",
+      "erupting_inferno": "2025-04-18 00:03:28 +0000",
       "highland": "2025-04-17 08:39:38 +0000",
       "old_growth_woodland": "2025-04-17 05:51:15 +0000",
       "orchard": "2025-04-17 05:42:27 +0000",
@@ -13559,6 +13560,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
+    "criteria": {
+      "has_item": "2025-04-18 00:10:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-04-17 23:44:55 +0000"
@@ -13568,6 +13575,18 @@
   "create:recipes/misc/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_item": "2025-04-17 23:49:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:02:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:02:12 +0000"
     },
     "done": true
   },
@@ -13583,9 +13602,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-18 00:10:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/propeller": {
     "criteria": {
       "has_item": "2025-04-17 23:28:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-04-18 00:01:25 +0000"
     },
     "done": true
   },
@@ -13598,6 +13629,18 @@
   "create:water_wheel": {
     "criteria": {
       "0": "2025-04-17 23:49:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-18 00:03:27 +0000"
     },
     "done": true
   },
@@ -13614,9 +13657,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-04-18 00:02:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2025-04-17 23:43:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:02:12 +0000"
     },
     "done": true
   },
@@ -13632,9 +13687,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:02:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:02:12 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_press": {
     "criteria": {
       "0": "2025-04-17 23:28:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-04-18 00:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-04-18 00:03:28 +0000"
     },
     "done": true
   },
@@ -13644,15 +13723,39 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-04-18 00:10:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:02:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-04-17 23:40:55 +0000"
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-18 00:03:27 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/crank_wheel": {
     "criteria": {
       "has_item": "2025-04-17 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:02:12 +0000"
     },
     "done": true
   },

@@ -5,3 +5,13 @@
 [18Apr2025 00:21:18.283] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-786, y=-10, z=-5638}
 [18Apr2025 00:26:18.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Wheels of Destruction]
 [18Apr2025 00:27:34.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid was processed by Crushing Wheels
+[18Apr2025 00:42:43.101] [Worker-Main-299/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[18Apr2025 00:42:43.102] [Worker-Main-299/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[18Apr2025 00:42:43.102] [Worker-Main-299/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[18Apr2025 00:42:43.103] [Worker-Main-299/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[18Apr2025 00:42:43.103] [Worker-Main-299/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[18Apr2025 00:42:43.105] [Worker-Main-299/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[18Apr2025 00:42:43.105] [Worker-Main-299/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[18Apr2025 00:42:43.106] [Worker-Main-299/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[18Apr2025 00:43:43.406] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Jarvis'/88286, l='ServerLevel[world]', x=-2051.79, y=71.10, z=-5639.87] died: Jarvis drowned
+[18Apr2025 00:44:55.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has completed the challenge [Free Willy]

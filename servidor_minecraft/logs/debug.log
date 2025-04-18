@@ -23275,3 +23275,105 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 00:27:34.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid was processed by Crushing Wheels
 [18Apr2025 00:31:25.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 00:31:25.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 00:36:25.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 00:36:25.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 00:41:25.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 00:41:25.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 00:42:43.101] [Worker-Main-299/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[18Apr2025 00:42:43.102] [Worker-Main-299/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[18Apr2025 00:42:43.102] [Worker-Main-299/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[18Apr2025 00:42:43.103] [Worker-Main-299/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[18Apr2025 00:42:43.103] [Worker-Main-299/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[18Apr2025 00:42:43.105] [Worker-Main-299/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[18Apr2025 00:42:43.105] [Worker-Main-299/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[18Apr2025 00:42:43.106] [Worker-Main-299/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[18Apr2025 00:42:57.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/roads/straight
+[18Apr2025 00:42:57.603] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/roads/inter
+[18Apr2025 00:42:57.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/roads/bent_1
+[18Apr2025 00:42:57.608] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/deco/goddess_statue
+[18Apr2025 00:42:57.611] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/deco/lamp_3
+[18Apr2025 00:42:57.613] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/cartographer
+[18Apr2025 00:42:57.614] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/deco/lamp_2
+[18Apr2025 00:42:57.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/house/tipi_1
+[18Apr2025 00:42:57.618] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/chemist
+[18Apr2025 00:42:57.620] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/roads/t_3
+[18Apr2025 00:42:57.622] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/house/longhouse_1
+[18Apr2025 00:42:57.624] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/loomhouse
+[18Apr2025 00:42:57.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/mason
+[18Apr2025 00:42:57.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/deco/lamp_1
+[18Apr2025 00:42:57.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/tannery
+[18Apr2025 00:42:57.632] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/house/tipi_2
+[18Apr2025 00:42:57.634] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/house/longhouse_4
+[18Apr2025 00:42:57.635] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/deco/lamp_5
+[18Apr2025 00:42:57.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/deco/well
+[18Apr2025 00:42:57.639] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/library
+[18Apr2025 00:42:57.640] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/deco/lamp_4
+[18Apr2025 00:42:57.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/restaurant
+[18Apr2025 00:42:57.645] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/roads/terminator
+[18Apr2025 00:42:57.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/butcher
+[18Apr2025 00:42:57.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/roads/t_2
+[18Apr2025 00:42:57.649] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/house/longhouse_2
+[18Apr2025 00:42:57.650] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/roads/bent_2
+[18Apr2025 00:42:57.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/jobsite/smith
+[18Apr2025 00:42:57.655] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/house/hut_2
+[18Apr2025 00:42:57.657] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/house/longhouse_3
+[18Apr2025 00:42:57.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna_na/house/hut_1
+[18Apr2025 00:43:21.392] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/med_2
+[18Apr2025 00:43:21.394] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/butcher
+[18Apr2025 00:43:21.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/big_2
+[18Apr2025 00:43:21.399] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/smith
+[18Apr2025 00:43:21.400] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/bent_1
+[18Apr2025 00:43:21.400] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/farm
+[18Apr2025 00:43:21.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/big_1
+[18Apr2025 00:43:43.406] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Jarvis'/88286, l='ServerLevel[world]', x=-2051.79, y=71.10, z=-5639.87] died: Jarvis drowned
+[18Apr2025 00:44:27.151] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/straight
+[18Apr2025 00:44:27.158] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/t_3
+[18Apr2025 00:44:27.162] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/big_1
+[18Apr2025 00:44:27.163] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/med_1
+[18Apr2025 00:44:27.165] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/med_2
+[18Apr2025 00:44:27.166] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/small_1
+[18Apr2025 00:44:27.167] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/small_2
+[18Apr2025 00:44:27.168] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/small_3
+[18Apr2025 00:44:27.169] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/med_3
+[18Apr2025 00:44:27.170] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/big_2
+[18Apr2025 00:44:27.171] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/butcher
+[18Apr2025 00:44:27.172] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/chemist
+[18Apr2025 00:44:27.173] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/farm
+[18Apr2025 00:44:27.174] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/library
+[18Apr2025 00:44:27.175] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/mason
+[18Apr2025 00:44:27.176] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/loomhouse
+[18Apr2025 00:44:27.177] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/smith
+[18Apr2025 00:44:27.178] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/cartography
+[18Apr2025 00:44:27.179] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/restaurant
+[18Apr2025 00:44:27.180] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/fd_farm
+[18Apr2025 00:44:27.181] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/lamp_1
+[18Apr2025 00:44:27.182] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/lamp_2
+[18Apr2025 00:44:27.182] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/lamp_3
+[18Apr2025 00:44:27.183] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/lamp_4
+[18Apr2025 00:44:27.183] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/lamp_5
+[18Apr2025 00:44:27.183] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/bench
+[18Apr2025 00:44:27.184] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/campfire_1
+[18Apr2025 00:44:27.184] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/campfire_2
+[18Apr2025 00:44:27.184] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/flowerbed
+[18Apr2025 00:44:27.185] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/well
+[18Apr2025 00:44:27.185] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/fountain
+[18Apr2025 00:44:27.185] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/goddess_statue
+[18Apr2025 00:44:27.190] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/t_1
+[18Apr2025 00:44:27.254] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/villager/swamp
+[18Apr2025 00:44:27.584] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/inter
+[18Apr2025 00:44:27.587] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/bent_2
+[18Apr2025 00:44:27.864] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/bent_1
+[18Apr2025 00:44:27.957] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/t_2
+[18Apr2025 00:44:27.961] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/terminator
+[18Apr2025 00:44:28.545] [Worker-Main-348/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/stall_2
+[18Apr2025 00:44:34.885] [Worker-Main-349/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/mountain/base_plate
+[18Apr2025 00:44:34.907] [Worker-Main-349/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/jungle/base_plate
+[18Apr2025 00:44:34.913] [Worker-Main-349/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/swamp/base_plate
+[18Apr2025 00:44:34.918] [Worker-Main-349/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/badlands/base_plate
+[18Apr2025 00:44:34.923] [Worker-Main-349/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/dark_forest/base_plate
+[18Apr2025 00:44:34.928] [Worker-Main-349/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/desert/base_plate
+[18Apr2025 00:44:34.931] [Worker-Main-349/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/taiga/base_plate
+[18Apr2025 00:44:34.937] [Worker-Main-349/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/beach/base_plate
+[18Apr2025 00:44:34.940] [Worker-Main-349/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/snowy/base_plate
+[18Apr2025 00:44:34.947] [Worker-Main-349/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/base_plate
+[18Apr2025 00:44:55.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has completed the challenge [Free Willy]

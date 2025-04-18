@@ -13553,6 +13553,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox": {
+    "criteria": {
+      "has_item": "2025-04-18 00:00:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-04-17 23:44:55 +0000"
@@ -13562,6 +13568,12 @@
   "create:recipes/misc/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_item": "2025-04-17 23:49:34 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
+    "criteria": {
+      "has_item": "2025-04-18 00:00:56 +0000"
     },
     "done": true
   },
@@ -13593,6 +13605,12 @@
     "criteria": {
       "0": "2025-04-17 23:45:10 +0000",
       "1": "2025-04-17 23:45:44 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
+    "criteria": {
+      "has_item": "2025-04-18 00:00:56 +0000"
     },
     "done": true
   },

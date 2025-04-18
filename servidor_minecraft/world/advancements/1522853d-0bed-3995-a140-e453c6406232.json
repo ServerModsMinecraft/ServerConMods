@@ -13537,6 +13537,18 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/inverted_gearshift_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-18 01:43:11 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-04-18 01:44:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
     "criteria": {
       "has_item": "2025-04-18 01:38:37 +0000"

@@ -14386,6 +14386,12 @@
     },
     "done": true
   },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-04-18 03:26:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2025-04-18 01:05:33 +0000"

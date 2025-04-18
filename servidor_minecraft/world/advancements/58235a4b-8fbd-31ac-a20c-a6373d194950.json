@@ -15194,9 +15194,21 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-04-18 08:37:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2025-04-18 06:38:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-04-18 08:41:01 +0000"
     },
     "done": true
   },
@@ -15227,6 +15239,12 @@
   "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
     "criteria": {
       "has_rose_quartz_chunk": "2025-04-18 06:59:55 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-04-18 08:37:13 +0000"
     },
     "done": true
   },

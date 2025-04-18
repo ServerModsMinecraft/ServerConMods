@@ -2059,3 +2059,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 08:09:47.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [Hot Stuff]
 [18Apr2025 08:14:11.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [Ice Bucket Challenge]
 [18Apr2025 08:32:07.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhairJCM moved wrongly!
+[18Apr2025 08:37:59.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [Unknown Technology]
+[18Apr2025 08:42:26.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [Hunt and Gather]
+[18Apr2025 08:44:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has reached the goal [Flowers of the Savanna]

@@ -13090,9 +13090,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/redstone/world/wood/skyroot/door": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_planks": "2025-04-18 04:55:34 +0000"
+      "traded": "2025-04-18 04:33:55 +0000"
     },
     "done": true
   },
@@ -13102,9 +13102,57 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/fir_wood": {
+  "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
-      "has_log": "2025-04-18 05:01:58 +0000"
+      "has_item": "2025-04-18 04:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-18 04:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-18 04:46:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/planks": {
+    "criteria": {
+      "has_log": "2025-04-18 04:50:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/tools/building/sky_staff": {
+    "criteria": {
+      "has_wood": "2025-04-18 04:50:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/log_to_wood": {
+    "criteria": {
+      "has_log": "2025-04-18 04:50:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_seagrass": {
+    "criteria": {
+      "has_seagrass": "2025-04-18 04:52:35 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/seagrass_salad": {
+    "criteria": {
+      "has_seagrass": "2025-04-18 04:52:35 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/world/wood/skyroot/door": {
+    "criteria": {
+      "has_planks": "2025-04-18 04:55:34 +0000"
     },
     "done": true
   },
@@ -13120,33 +13168,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/tree_fertilizer": {
-    "criteria": {
-      "has_item": "2025-04-18 04:46:54 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/world/wood/skyroot/planks": {
-    "criteria": {
-      "has_log": "2025-04-18 04:50:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/green_dye_from_seagrass": {
-    "criteria": {
-      "has_seagrass": "2025-04-18 04:52:35 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/decorations/world/wood/skyroot/fence": {
     "criteria": {
       "has_planks": "2025-04-18 04:55:34 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/tools/tools/building/sky_staff": {
-    "criteria": {
-      "has_wood": "2025-04-18 04:50:53 +0000"
     },
     "done": true
   },
@@ -13162,45 +13186,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-04-18 04:46:54 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/redstone/world/wood/skyroot/fence_gate": {
     "criteria": {
       "has_planks": "2025-04-18 04:55:34 +0000"
-    },
-    "done": true
-  },
-  "oceansdelight:recipes/oceansdelight/seagrass_salad": {
-    "criteria": {
-      "has_seagrass": "2025-04-18 04:52:35 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/world/wood/skyroot/log_to_wood": {
-    "criteria": {
-      "has_log": "2025-04-18 04:50:53 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_planks": {
-    "criteria": {
-      "has_logs": "2025-04-18 05:01:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-04-18 04:46:54 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-04-18 04:58:49 +0000"
     },
     "done": true
   },
@@ -13210,15 +13198,27 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-04-18 04:33:55 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/decorations/world/wood/skyroot/sign": {
     "criteria": {
       "has_planks": "2025-04-18 04:55:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-18 04:58:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-04-18 05:01:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-04-18 05:01:58 +0000"
     },
     "done": true
   },

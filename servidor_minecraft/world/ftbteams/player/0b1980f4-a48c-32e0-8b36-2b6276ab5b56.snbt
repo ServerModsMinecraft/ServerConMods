@@ -1,0 +1,17 @@
+{
+	id: "0b1980f4-a48c-32e0-8b36-2b6276ab5b56"
+	type: "player"
+	player_name: "Cursed10"
+	ranks: {
+		0b1980f4-a48c-32e0-8b36-2b6276ab5b56: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Cursed10"
+		"ftbteams:description": ""
+		"ftbteams:color": "#70FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

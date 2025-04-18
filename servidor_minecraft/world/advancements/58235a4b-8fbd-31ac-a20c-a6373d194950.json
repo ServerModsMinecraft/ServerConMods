@@ -14998,12 +14998,6 @@
     },
     "done": true
   },
-  "create:glass_pipe": {
-    "criteria": {
-      "0": "2025-04-18 05:53:18 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-04-18 05:51:20 +0000"
@@ -15145,6 +15139,12 @@
   "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-04-18 05:51:20 +0000"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2025-04-18 05:53:18 +0000"
     },
     "done": true
   },

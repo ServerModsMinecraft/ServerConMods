@@ -953,6 +953,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-04-18 07:03:18 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/copper_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 06:37:38 +0000"
@@ -1530,6 +1536,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-04-18 07:03:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
     "criteria": {
       "has_planks": "2025-04-18 06:34:09 +0000"
@@ -1836,6 +1848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-04-18 07:00:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-04-18 06:41:06 +0000"
@@ -1896,6 +1914,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-04-18 07:03:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 06:37:38 +0000"
@@ -1911,6 +1935,12 @@
   "cfm:recipes/decorations/pink_trampoline": {
     "criteria": {
       "has_iron": "2025-04-18 06:37:38 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-04-18 07:01:18 +0000"
     },
     "done": true
   },
@@ -2431,6 +2461,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-04-18 07:03:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_mail_box": {
     "criteria": {
       "has_chest": "2025-04-18 06:34:22 +0000"
@@ -2512,6 +2548,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 06:37:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-04-18 07:03:18 +0000"
     },
     "done": true
   },
@@ -2935,6 +2977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-04-18 07:00:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_planks": "2025-04-18 06:34:09 +0000"
@@ -3027,6 +3075,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:wither_skeleton": "2025-04-18 07:02:10 +0000",
       "minecraft:piglin": "2025-04-18 06:46:18 +0000"
     },
     "done": false
@@ -3313,6 +3362,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-04-18 07:00:48 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/cyan_cooler": {
     "criteria": {
       "has_chest": "2025-04-18 06:34:22 +0000"
@@ -3364,6 +3419,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 06:37:38 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:loved_by_piglins": {
+    "criteria": {
+      "armor": "2025-04-18 07:01:18 +0000"
     },
     "done": true
   },
@@ -3763,6 +3824,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-18 07:00:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 06:37:38 +0000"
@@ -3949,6 +4016,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-04-18 07:03:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-04-18 06:41:52 +0000"
@@ -3983,6 +4056,7 @@
     "criteria": {
       "erupting_inferno": "2025-04-18 06:39:45 +0000",
       "crystalline_chasm": "2025-04-18 06:47:38 +0000",
+      "withered_abyss": "2025-04-18 07:01:15 +0000",
       "coniferous_forest": "2025-04-18 06:24:05 +0000",
       "fir_clearing": "2025-04-18 06:22:25 +0000"
     },
@@ -4213,6 +4287,12 @@
   "mcwlights:recipes/iron_stuff": {
     "criteria": {
       "has_wood": "2025-04-18 06:37:38 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
+    "criteria": {
+      "has_bone": "2025-04-18 07:02:11 +0000"
     },
     "done": true
   },

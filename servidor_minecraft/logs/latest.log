@@ -2033,3 +2033,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 06:59:54.208] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [18Apr2025 07:00:48.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement ['X' Marks the Spot]
 [18Apr2025 07:02:15.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Into Fire]
+[18Apr2025 07:04:00.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has reached the goal [Magma Wheel]
+[18Apr2025 07:08:11.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has reached the goal [Tapping the Mantle]
+[18Apr2025 07:11:11.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was slain by Zombified Piglin
+[18Apr2025 07:12:06.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhairJCM lost connection: Disconnected
+[18Apr2025 07:12:06.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM left the game
+[18Apr2025 07:13:02.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhairJCM[/127.252.103.120:48853] logged in with entity id 31120 at (-65.10700437216516, 27.12126437725673, -753.0833232192022)
+[18Apr2025 07:13:02.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM joined the game
+[18Apr2025 07:13:02.893] [Server thread/INFO] [Jade/]: Syncing config to JhairJCM (1522853d-0bed-3995-a140-e453c6406232)
+[18Apr2025 07:13:06.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM tried to swim in lava
+[18Apr2025 07:13:06.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Teleported JhairJCM to DierkDavid]

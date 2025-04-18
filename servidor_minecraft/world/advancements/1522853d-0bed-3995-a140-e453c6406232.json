@@ -4890,6 +4890,7 @@
       "minecraft:spider": "2025-04-17 05:21:37 +0000",
       "minecraft:creeper": "2025-04-17 04:49:36 +0000",
       "minecraft:phantom": "2025-04-17 20:54:01 +0000",
+      "minecraft:zombified_piglin": "2025-04-18 07:08:25 +0000",
       "minecraft:wither_skeleton": "2025-04-18 04:35:30 +0000",
       "minecraft:cave_spider": "2025-04-17 05:29:46 +0000",
       "minecraft:piglin": "2025-04-17 21:39:46 +0000",
@@ -14085,6 +14086,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-04-18 07:08:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_red_nether_bricks": "2025-04-18 06:53:28 +0000"
@@ -14187,6 +14194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-18 07:08:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-18 06:55:02 +0000"
@@ -14241,6 +14254,12 @@
     },
     "done": true
   },
+  "create:lava_wheel_00000": {
+    "criteria": {
+      "0": "2025-04-18 07:04:00 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/blackstone": {
     "criteria": {
       "has_wood": "2025-04-18 06:55:02 +0000"
@@ -14250,6 +14269,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-18 06:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-18 07:08:27 +0000"
     },
     "done": true
   },

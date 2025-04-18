@@ -1580,10 +1580,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-17 07:58:07 +0000",
+      "minecraft:blaze": "2025-04-18 07:02:15 +0000",
       "minecraft:skeleton": "2025-04-17 03:55:04 +0000",
       "minecraft:spider": "2025-04-17 03:38:27 +0000",
       "minecraft:creeper": "2025-04-17 03:38:03 +0000",
       "minecraft:witch": "2025-04-17 05:28:56 +0000",
+      "minecraft:wither_skeleton": "2025-04-18 07:02:13 +0000",
       "minecraft:cave_spider": "2025-04-17 05:14:15 +0000",
       "minecraft:zombie": "2025-04-17 03:51:48 +0000",
       "minecraft:drowned": "2025-04-17 04:13:51 +0000",
@@ -6667,6 +6669,7 @@
       "erupting_inferno": "2025-04-18 00:03:28 +0000",
       "highland": "2025-04-17 08:39:38 +0000",
       "old_growth_woodland": "2025-04-17 05:51:15 +0000",
+      "crystalline_chasm": "2025-04-18 06:59:20 +0000",
       "orchard": "2025-04-17 05:42:27 +0000",
       "field": "2025-04-17 08:41:20 +0000",
       "lavender_forest": "2025-04-17 04:26:59 +0000",
@@ -15148,6 +15151,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-18 07:00:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-18 07:02:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-04-18 06:54:50 +0000"
@@ -15184,6 +15199,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/chisel_netherite": {
+    "criteria": {
+      "has_rod": "2025-04-18 07:02:15 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-04-18 06:38:55 +0000"
@@ -15193,6 +15214,18 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-18 06:38:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-04-18 06:59:55 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2025-04-18 07:08:11 +0000"
     },
     "done": true
   },
@@ -15217,6 +15250,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-18 06:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-18 07:02:15 +0000"
     },
     "done": true
   },
@@ -15256,6 +15295,18 @@
     },
     "done": true
   },
+  "create:hose_pulley_lava": {
+    "criteria": {
+      "0": "2025-04-18 07:08:11 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/encased_chain_cogwheel": {
+    "criteria": {
+      "has_item": "2025-04-18 07:06:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-04-18 06:54:50 +0000"
@@ -15286,9 +15337,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
+    "criteria": {
+      "has_bone": "2025-04-18 07:02:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-04-18 06:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-18 07:02:15 +0000"
     },
     "done": true
   },

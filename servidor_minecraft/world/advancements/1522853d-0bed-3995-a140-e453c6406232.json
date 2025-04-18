@@ -13568,6 +13568,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/world/wood/skyroot/door": {
+    "criteria": {
+      "has_planks": "2025-04-18 04:51:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/placard": {
     "criteria": {
       "has_item": "2025-04-18 02:11:22 +0000"
@@ -13634,6 +13640,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/world/wood/skyroot/button": {
+    "criteria": {
+      "has_planks": "2025-04-18 04:51:03 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/world/wood/skyroot/pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-18 04:51:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-04-18 02:59:11 +0000"
@@ -13670,9 +13688,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/planks": {
+    "criteria": {
+      "has_log": "2025-04-18 04:51:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-04-18 02:59:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/world/wood/skyroot/fence": {
+    "criteria": {
+      "has_planks": "2025-04-18 04:51:03 +0000"
     },
     "done": true
   },
@@ -13691,6 +13721,18 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-04-18 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/tools/building/sky_staff": {
+    "criteria": {
+      "has_wood": "2025-04-18 04:51:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/world/wood/skyroot/trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-18 04:51:03 +0000"
     },
     "done": true
   },
@@ -13727,6 +13769,12 @@
   "create:recipes/misc/crafting/appliances/filter_clear": {
     "criteria": {
       "has_item": "2025-04-18 02:17:28 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/stairs": {
+    "criteria": {
+      "has_planks": "2025-04-18 04:51:03 +0000"
     },
     "done": true
   },
@@ -13772,6 +13820,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/world/wood/skyroot/fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-18 04:51:03 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_pump_0": {
     "criteria": {
       "0": "2025-04-18 04:05:46 +0000"
@@ -13781,6 +13835,12 @@
   "create:recipes/misc/crafting/kinetics/attribute_filter": {
     "criteria": {
       "has_item": "2025-04-18 02:11:22 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/log_to_wood": {
+    "criteria": {
+      "has_log": "2025-04-18 04:51:01 +0000"
     },
     "done": true
   },
@@ -13805,6 +13865,12 @@
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-04-18 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/slab": {
+    "criteria": {
+      "has_planks": "2025-04-18 04:51:03 +0000"
     },
     "done": true
   },
@@ -13853,6 +13919,12 @@
   "create:recipes/decorations/brass_table_cloth_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-04-18 02:11:22 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/world/wood/skyroot/sign": {
+    "criteria": {
+      "has_planks": "2025-04-18 04:51:03 +0000"
     },
     "done": true
   },

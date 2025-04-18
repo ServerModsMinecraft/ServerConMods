@@ -1582,6 +1582,7 @@
       "minecraft:pillager": "2025-04-17 07:58:07 +0000",
       "minecraft:blaze": "2025-04-18 07:02:15 +0000",
       "minecraft:skeleton": "2025-04-17 03:55:04 +0000",
+      "minecraft:ghast": "2025-04-18 07:31:03 +0000",
       "minecraft:spider": "2025-04-17 03:38:27 +0000",
       "minecraft:creeper": "2025-04-17 03:38:03 +0000",
       "minecraft:witch": "2025-04-17 05:28:56 +0000",
@@ -15241,9 +15242,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/slime/ichor/crystal_smelting": {
+    "criteria": {
+      "has_crystal": "2025-04-18 07:21:18 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/red_nether_bricks": {
     "criteria": {
       "has_planks": "2025-04-18 06:54:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/ichor/crystal_block": {
+    "criteria": {
+      "has_item": "2025-04-18 07:21:18 +0000"
     },
     "done": true
   },
@@ -15298,6 +15311,12 @@
   "create:hose_pulley_lava": {
     "criteria": {
       "0": "2025-04-18 07:08:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-18 07:24:02 +0000"
     },
     "done": true
   },

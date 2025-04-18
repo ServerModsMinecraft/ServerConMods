@@ -22947,3 +22947,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 07:18:26.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Apr2025 07:23:05.009] [Server thread/DEBUG] [mixin/]: Mixing FillingBySpoutMixin from create_enchantment_industry.mixins.json into com.simibubi.create.content.fluids.spout.FillingBySpout
 [18Apr2025 07:23:05.009] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:FillingBySpoutMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[18Apr2025 07:23:26.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 07:23:26.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 07:23:31.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 was slain by Wither Skeleton
+[18Apr2025 07:23:40.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM was slain by Wither Skeleton
+[18Apr2025 07:24:02.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has made the advancement [Nightmare Fuel]
+[18Apr2025 07:26:08.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [Sweet Dreams]
+[18Apr2025 07:28:26.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 07:28:26.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 07:32:44.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DierkDavid> -543 -5951
+[18Apr2025 07:33:26.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 07:33:26.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

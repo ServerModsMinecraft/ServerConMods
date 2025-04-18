@@ -13694,6 +13694,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_seagrass": {
+    "criteria": {
+      "has_seagrass": "2025-04-18 05:00:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-04-18 02:59:11 +0000"
@@ -13832,6 +13838,12 @@
     },
     "done": true
   },
+  "oceansdelight:recipes/oceansdelight/seagrass_salad": {
+    "criteria": {
+      "has_seagrass": "2025-04-18 05:00:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/attribute_filter": {
     "criteria": {
       "has_item": "2025-04-18 02:11:22 +0000"
@@ -13847,6 +13859,12 @@
   "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
     "criteria": {
       "has_item": "2025-04-18 02:11:22 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inverted_clutch_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-18 05:06:24 +0000"
     },
     "done": true
   },

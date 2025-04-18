@@ -13701,6 +13701,12 @@
     },
     "done": true
   },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-04-18 05:28:39 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/world/wood/skyroot/planks": {
     "criteria": {
       "has_log": "2025-04-18 04:51:01 +0000"
@@ -13881,6 +13887,12 @@
     },
     "done": true
   },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-04-18 05:33:47 +0000"
+    },
+    "done": true
+  },
   "create:belt": {
     "criteria": {
       "0": "2025-04-18 02:17:42 +0000"
@@ -13902,6 +13914,12 @@
   "tconstruct:recipes/building_blocks/world/wood/skyroot/slab": {
     "criteria": {
       "has_planks": "2025-04-18 04:51:03 +0000"
+    },
+    "done": true
+  },
+  "create:crusher_maxed_0000": {
+    "criteria": {
+      "0": "2025-04-18 05:31:50 +0000"
     },
     "done": true
   },

@@ -106,3 +106,8 @@
 [18Apr2025 05:14:19.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1136, y=47, z=-5653} BlockPos{x=-1134, y=45, z=-5655}
 [18Apr2025 05:22:30.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1112, y=49, z=-5724} BlockPos{x=-1112, y=50, z=-5724}
 [18Apr2025 05:23:40.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1089, y=50, z=-5709} BlockPos{x=-1089, y=49, z=-5709}
+[18Apr2025 05:30:25.755] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Johnetta'/158010, l='ServerLevel[world]', x=-1009.03, y=65.44, z=-5761.49] died: Johnetta went up in flames
+[18Apr2025 05:31:50.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM has reached the goal [Crushing It]
+[18Apr2025 05:37:01.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1067, y=53, z=-5641} BlockPos{x=-1068, y=52, z=-5642}
+[18Apr2025 05:37:49.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1090, y=52, z=-5627} BlockPos{x=-1090, y=51, z=-5627}
+[18Apr2025 05:37:49.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1090, y=52, z=-5627} BlockPos{x=-1090, y=51, z=-5627}

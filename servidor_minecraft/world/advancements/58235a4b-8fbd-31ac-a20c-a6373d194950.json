@@ -768,8 +768,10 @@
       "minecraft:deep_cold_ocean": "2025-04-17 04:05:31 +0000",
       "minecraft:frozen_ocean": "2025-04-17 08:46:09 +0000",
       "minecraft:desert": "2025-04-17 07:05:37 +0000",
+      "minecraft:deep_frozen_ocean": "2025-04-18 00:45:36 +0000",
       "minecraft:ocean": "2025-04-17 01:00:57 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-17 08:17:17 +0000",
+      "minecraft:snowy_beach": "2025-04-18 00:43:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 00:55:33 +0000",
       "minecraft:meadow": "2025-04-18 00:21:09 +0000",
       "minecraft:savanna": "2025-04-17 06:51:00 +0000",
@@ -13561,6 +13563,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-18 00:50:07 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
     "criteria": {
       "has_item": "2025-04-18 00:10:06 +0000"
@@ -13615,6 +13623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-18 00:46:21 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
       "has_log": "2025-04-18 00:01:25 +0000"
@@ -13633,9 +13647,27 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2025-04-18 00:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-18 00:46:21 +0000"
+    },
+    "done": true
+  },
   "create:water_wheel": {
     "criteria": {
       "0": "2025-04-17 23:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-18 00:46:21 +0000"
     },
     "done": true
   },
@@ -13670,6 +13702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-18 00:50:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2025-04-17 23:43:55 +0000"
@@ -13691,6 +13729,12 @@
   "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
     "criteria": {
       "has_item": "2025-04-17 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-04-18 00:44:55 +0000"
     },
     "done": true
   },
@@ -13724,9 +13768,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-18 00:50:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_stairs": {
     "criteria": {
       "has_planks": "2025-04-18 00:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-18 00:46:21 +0000"
     },
     "done": true
   },

@@ -15152,6 +15152,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-04-18 07:39:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-04-18 07:00:18 +0000"
@@ -15248,6 +15254,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-04-18 07:39:59 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/red_nether_bricks": {
     "criteria": {
       "has_planks": "2025-04-18 06:54:50 +0000"
@@ -15287,6 +15299,12 @@
   "new_slab_variants:recipes/building_blocks/chiseled_nether_bricks_slab": {
     "criteria": {
       "has_chiseled_nether_bricks": "2025-04-18 06:38:54 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-04-18 07:39:59 +0000"
     },
     "done": true
   },
@@ -15371,6 +15389,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-04-18 07:02:15 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-04-18 07:39:59 +0000"
     },
     "done": true
   },

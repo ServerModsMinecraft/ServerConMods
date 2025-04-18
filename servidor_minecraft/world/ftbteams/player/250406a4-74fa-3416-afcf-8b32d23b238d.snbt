@@ -1,0 +1,17 @@
+{
+	id: "250406a4-74fa-3416-afcf-8b32d23b238d"
+	type: "player"
+	player_name: "Vhn0k"
+	ranks: {
+		250406a4-74fa-3416-afcf-8b32d23b238d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Vhn0k"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59DBFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

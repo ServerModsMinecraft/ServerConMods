@@ -57,3 +57,11 @@
 [18Apr2025 04:08:21.669] [Server thread/INFO] [Jade/]: Syncing config to Sameu (b1b63f1d-df45-3898-b941-fc806e390edb)
 [18Apr2025 04:23:52.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Into Fire]
 [18Apr2025 04:26:38.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [Take Aim]
+[18Apr2025 04:30:37.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sameu lost connection: Disconnected
+[18Apr2025 04:30:37.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu left the game
+[18Apr2025 04:31:09.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sameu[/127.50.61.139:47905] logged in with entity id 141372 at (-50.812727177804, 66.0, -819.0630363841999)
+[18Apr2025 04:31:09.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu joined the game
+[18Apr2025 04:31:09.488] [Server thread/INFO] [Jade/]: Syncing config to Sameu (b1b63f1d-df45-3898-b941-fc806e390edb)
+[18Apr2025 04:31:32.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu was slain by Wither Skeleton
+[18Apr2025 04:33:55.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sameu has made the advancement [What a Deal!]
+[18Apr2025 04:36:03.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid moved too quickly! 7.392749123434328,2.504830925685127,-6.3369951048453

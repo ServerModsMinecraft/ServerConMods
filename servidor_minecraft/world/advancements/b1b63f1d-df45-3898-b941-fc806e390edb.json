@@ -3192,6 +3192,7 @@
       "minecraft:blaze": "2025-04-18 04:23:51 +0000",
       "minecraft:skeleton": "2025-04-17 19:58:54 +0000",
       "minecraft:spider": "2025-04-17 05:14:52 +0000",
+      "minecraft:wither_skeleton": "2025-04-18 04:28:07 +0000",
       "minecraft:stray": "2025-04-17 05:50:28 +0000",
       "minecraft:zombie": "2025-04-17 06:38:10 +0000",
       "minecraft:drowned": "2025-04-17 04:15:12 +0000"
@@ -12909,15 +12910,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+  "farmersdelight:main/harvest_ropelogged_tomato": {
     "criteria": {
-      "has_stone_types_veridium": "2025-04-18 04:12:09 +0000"
+      "harvest_ropelogged_tomato": "2025-04-18 04:09:10 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "has_dried_kelp": "2025-04-18 04:20:09 +0000"
+      "has_stone_types_veridium": "2025-04-18 04:12:09 +0000"
     },
     "done": true
   },
@@ -12930,12 +12931,6 @@
   "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-18 04:12:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-04-18 04:23:52 +0000"
     },
     "done": true
   },
@@ -12963,21 +12958,9 @@
     },
     "done": true
   },
-  "chiselsandbits:recipes/tools/chisel_netherite": {
-    "criteria": {
-      "has_rod": "2025-04-18 04:23:52 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-18 04:12:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
-    "criteria": {
-      "has_dried_kelp": "2025-04-18 04:20:09 +0000"
     },
     "done": true
   },
@@ -12990,18 +12973,6 @@
   "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-18 04:12:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-04-18 04:23:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-04-18 04:19:59 +0000"
     },
     "done": true
   },
@@ -13023,12 +12994,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/kelp_roll": {
-    "criteria": {
-      "has_dried_kelp": "2025-04-18 04:20:09 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-18 04:12:09 +0000"
@@ -13038,12 +13003,6 @@
   "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-18 04:12:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/harvest_ropelogged_tomato": {
-    "criteria": {
-      "harvest_ropelogged_tomato": "2025-04-18 04:09:10 +0000"
     },
     "done": true
   },
@@ -13071,15 +13030,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
-      "has_blaze_rod": "2025-04-18 04:23:52 +0000"
+      "has_baked_potato": "2025-04-18 04:19:59 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-04-18 04:19:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-18 04:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-18 04:20:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-18 04:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-18 04:23:52 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/chisel_netherite": {
+    "criteria": {
+      "has_rod": "2025-04-18 04:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-18 04:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-18 04:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-18 04:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-18 04:33:55 +0000"
     },
     "done": true
   },

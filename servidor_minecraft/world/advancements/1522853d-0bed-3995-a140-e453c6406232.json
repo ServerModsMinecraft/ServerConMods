@@ -13663,6 +13663,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/brass_gearbox": {
+    "criteria": {
+      "has_item": "2025-04-18 03:52:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-04-18 02:59:11 +0000"

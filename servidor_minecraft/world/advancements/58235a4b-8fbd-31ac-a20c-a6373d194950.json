@@ -13953,6 +13953,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/inverted_gearshift_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-18 03:52:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-04-18 00:46:21 +0000"

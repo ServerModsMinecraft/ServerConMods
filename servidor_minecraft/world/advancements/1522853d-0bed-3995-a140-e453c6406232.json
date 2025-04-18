@@ -13651,6 +13651,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/dried_kelp_block_slab": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-04-18 04:19:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/brass_hand": {
     "criteria": {
       "has_item": "2025-04-18 02:11:22 +0000"
@@ -13702,6 +13708,12 @@
   "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-04-18 02:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-04-18 04:19:11 +0000"
     },
     "done": true
   },

@@ -3189,6 +3189,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-04-18 04:23:51 +0000",
       "minecraft:skeleton": "2025-04-17 19:58:54 +0000",
       "minecraft:spider": "2025-04-17 05:14:52 +0000",
       "minecraft:stray": "2025-04-17 05:50:28 +0000",
@@ -3219,6 +3220,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-17 05:50:38 +0000",
       "cooked_beef": "2025-04-17 18:17:59 +0000",
+      "baked_potato": "2025-04-18 04:24:11 +0000",
       "cooked_cod": "2025-04-17 05:46:19 +0000",
       "bread": "2025-04-17 06:47:55 +0000",
       "rotten_flesh": "2025-04-17 04:15:43 +0000",
@@ -12913,6 +12915,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-18 04:20:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-18 04:12:09 +0000"
@@ -12922,6 +12930,12 @@
   "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-18 04:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-18 04:23:52 +0000"
     },
     "done": true
   },
@@ -12949,9 +12963,21 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/chisel_netherite": {
+    "criteria": {
+      "has_rod": "2025-04-18 04:23:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-18 04:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-18 04:20:09 +0000"
     },
     "done": true
   },
@@ -12964,6 +12990,18 @@
   "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-18 04:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-18 04:23:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-04-18 04:19:59 +0000"
     },
     "done": true
   },
@@ -12982,6 +13020,12 @@
   "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-18 04:12:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-18 04:20:09 +0000"
     },
     "done": true
   },
@@ -13024,6 +13068,18 @@
   "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-18 04:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-18 04:23:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-04-18 04:19:59 +0000"
     },
     "done": true
   },

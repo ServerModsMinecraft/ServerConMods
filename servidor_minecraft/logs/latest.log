@@ -2077,3 +2077,35 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 09:09:19.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid has reached the goal [Half a flight]
 [18Apr2025 09:11:22.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> XD
 [18Apr2025 09:12:33.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid moved wrongly!
+[18Apr2025 09:15:04.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> acomodando
+[18Apr2025 09:15:24.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> se lleno
+[18Apr2025 09:15:40.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> ya vamonos
+[18Apr2025 09:16:02.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> chao negro
+[18Apr2025 09:16:05.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cursed10 lost connection: Disconnected
+[18Apr2025 09:16:05.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 left the game
+[18Apr2025 09:16:05.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhairJCM lost connection: Disconnected
+[18Apr2025 09:16:05.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhairJCM left the game
+[18Apr2025 09:16:06.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DierkDavid lost connection: Disconnected
+[18Apr2025 09:16:06.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DierkDavid left the game
+[18Apr2025 09:21:30.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Apr2025 09:21:30.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Apr2025 09:21:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Apr2025 09:21:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Apr2025 09:21:30.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Apr2025 09:21:30.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Apr2025 09:21:30.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[18Apr2025 09:21:30.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/createteleporters:pocket_dimension
+[18Apr2025 09:21:30.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Apr2025 09:21:30.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[18Apr2025 09:21:30.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Apr2025 09:21:30.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Apr2025 09:21:30.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[18Apr2025 09:21:30.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[18Apr2025 09:21:30.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Apr2025 09:21:30.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[18Apr2025 09:21:30.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Apr2025 09:21:30.926] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Apr2025 09:21:30.928] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[18Apr2025 09:21:30.933] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[18Apr2025 09:21:30.933] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[18Apr2025 09:21:30.946] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

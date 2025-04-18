@@ -23872,3 +23872,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 01:46:25.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Apr2025 01:51:25.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 01:51:25.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 01:56:25.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 01:56:25.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 01:56:58.101] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 13
+[18Apr2025 01:56:58.101] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@4a5e2d4c, b=9, e=35}, net.minecraft.world.inventory.TransientCraftingContainer@65456590=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@65456590, c=net.minecraft.world.inventory.InventoryMenu@4a5e2d4c, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@4a5e2d4c, b=45, e=45}, net.minecraft.world.inventory.ResultContainer@76163afc=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@76163afc, c=net.minecraft.world.inventory.InventoryMenu@4a5e2d4c, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@4a5e2d4c, b=36, e=44}}
+[18Apr2025 01:56:58.101] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@4a5e2d4c, b=9, e=35}
+[18Apr2025 02:01:25.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 02:01:25.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

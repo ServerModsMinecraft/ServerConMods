@@ -771,6 +771,7 @@
       "minecraft:ocean": "2025-04-17 01:00:57 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-17 08:17:17 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 00:55:33 +0000",
+      "minecraft:meadow": "2025-04-18 00:21:09 +0000",
       "minecraft:savanna": "2025-04-17 06:51:00 +0000",
       "minecraft:plains": "2025-04-17 04:54:31 +0000"
     },
@@ -13684,6 +13685,12 @@
   "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2025-04-17 23:28:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-18 00:11:31 +0000"
     },
     "done": true
   },

@@ -11130,6 +11130,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-04-18 00:17:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-17 21:55:54 +0000"
@@ -11169,6 +11175,12 @@
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-17 21:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-18 00:17:31 +0000"
     },
     "done": true
   },
@@ -11412,9 +11424,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2025-04-18 00:17:31 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/polished_tuff": {
     "criteria": {
       "has_item": "2025-04-17 19:11:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-04-18 00:17:31 +0000"
     },
     "done": true
   },
@@ -11592,6 +11616,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2025-04-18 00:17:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-04-17 21:36:32 +0000"
@@ -11607,6 +11637,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-04-17 20:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-04-18 00:17:31 +0000"
     },
     "done": true
   },
@@ -11760,6 +11796,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/stone_column": {
+    "criteria": {
+      "has_item": "2025-04-18 00:17:31 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-04-17 18:54:11 +0000"
@@ -11875,6 +11917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-04-18 00:17:31 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_spade": {
     "criteria": {
       "has_nether_quartz": "2025-04-17 21:36:25 +0000"
@@ -11941,6 +11989,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/stone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 00:17:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-17 21:55:54 +0000"
@@ -11968,6 +12022,12 @@
   "ae2:recipes/misc/tools/nether_quartz_axe": {
     "criteria": {
       "has_nether_quartz": "2025-04-17 21:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-18 00:17:31 +0000"
     },
     "done": true
   },
@@ -12007,6 +12067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-18 00:17:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_chain_drive_from_zinc": {
     "criteria": {
       "has_item": "2025-04-17 20:51:51 +0000"
@@ -12016,6 +12082,12 @@
   "delightful:recipes/knives/constantan_knife": {
     "criteria": {
       "has_ingots/constantan": "2025-04-17 23:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-18 00:17:31 +0000"
     },
     "done": true
   },
@@ -12052,6 +12124,12 @@
   "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-17 23:51:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-18 00:17:31 +0000"
     },
     "done": true
   },
@@ -12163,9 +12241,21 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/stone_pillar": {
+    "criteria": {
+      "has_stone": "2025-04-18 00:17:31 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
     "criteria": {
       "has_item": "2025-04-17 19:15:04 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2025-04-18 00:17:31 +0000"
     },
     "done": true
   },
@@ -12247,6 +12337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-04-18 00:17:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_saw": {
     "criteria": {
       "has_item": "2025-04-17 20:51:51 +0000"
@@ -12325,9 +12421,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-18 00:17:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/orange_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-17 23:51:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-04-18 00:17:31 +0000"
     },
     "done": true
   },
@@ -12403,6 +12511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-04-18 00:17:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-17 21:55:54 +0000"
@@ -12424,6 +12538,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_glass": "2025-04-17 21:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-04-18 00:17:31 +0000"
     },
     "done": true
   },
@@ -12589,6 +12709,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2025-04-18 00:17:31 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_press": {
     "criteria": {
       "0": "2025-04-17 23:53:44 +0000"
@@ -12646,6 +12772,12 @@
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-04-17 23:51:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2025-04-18 00:17:31 +0000"
     },
     "done": true
   },
@@ -12754,6 +12886,12 @@
   "twigs:recipes/schist/schist_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-04-17 19:00:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2025-04-18 00:17:31 +0000"
     },
     "done": true
   },
@@ -12961,6 +13099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-04-18 00:17:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-04-17 20:49:05 +0000"
@@ -13129,6 +13273,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:17:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-17 21:35:19 +0000"
@@ -13141,6 +13291,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2025-04-18 00:17:31 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/crank_wheel": {
     "criteria": {
       "has_item": "2025-04-18 00:01:47 +0000"
@@ -13150,6 +13306,12 @@
   "twigs:recipes/schist/schist_wall": {
     "criteria": {
       "has_item": "2025-04-17 19:00:38 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:17:31 +0000"
     },
     "done": true
   },
@@ -13171,9 +13333,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-18 00:17:31 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-04-17 19:11:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2025-04-18 00:17:31 +0000"
     },
     "done": true
   },

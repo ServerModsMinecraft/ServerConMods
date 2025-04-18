@@ -2012,3 +2012,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [18Apr2025 06:20:54.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> Y LA CASA DONDE QUEDO
 [18Apr2025 06:21:12.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DierkDavid: Teleported Cursed10 to JhairJCM]
 [18Apr2025 06:21:52.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cursed10 has made the advancement [Diamonds!]
+[18Apr2025 06:24:59.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Cursed10> si ocupo
+[18Apr2025 06:31:51.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Stan'/4062, l='ServerLevel[world]', x=-2513.45, y=75.00, z=-1731.44] died: Stan was shot by Skeleton

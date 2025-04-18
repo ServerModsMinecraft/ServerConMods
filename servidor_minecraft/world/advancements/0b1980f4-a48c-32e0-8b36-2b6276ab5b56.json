@@ -815,6 +815,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-04-18 08:29:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-04-18 08:17:27 +0000"
@@ -899,6 +905,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2025-04-18 08:29:39 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/cushion/blue_cushion": {
     "criteria": {
       "has_planks": "2025-04-18 06:34:09 +0000"
@@ -926,6 +938,12 @@
   "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-04-18 07:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
     },
     "done": true
   },
@@ -977,6 +995,18 @@
     },
     "done": true
   },
+  "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-04-18 08:29:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
     "criteria": {
       "has_dried_kelp": "2025-04-18 06:35:24 +0000"
@@ -992,6 +1022,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-04-18 08:01:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
     },
     "done": true
   },
@@ -1217,6 +1253,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-04-18 06:37:38 +0000"
@@ -1247,9 +1289,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2025-04-18 08:29:39 +0000"
+    },
+    "done": true
+  },
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
       "has_item": "2025-04-18 06:37:38 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_cracked_mud_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-04-18 08:28:05 +0000"
     },
     "done": true
   },
@@ -1373,6 +1427,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-18 07:52:07 +0000"
@@ -1451,6 +1511,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/bronze_knife": {
+    "criteria": {
+      "has_ingots/bronze": "2025-04-18 08:32:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-18 08:14:23 +0000"
@@ -1466,6 +1532,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 06:37:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-04-18 08:29:34 +0000"
     },
     "done": true
   },
@@ -1496,6 +1568,12 @@
   "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
     "criteria": {
       "has_item": "2025-04-18 07:49:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2025-04-18 08:29:39 +0000"
     },
     "done": true
   },
@@ -1667,6 +1745,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2025-04-18 08:29:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-04-18 06:19:58 +0000"
@@ -1676,6 +1760,12 @@
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-04-18 06:34:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
     },
     "done": true
   },
@@ -1963,9 +2053,21 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-04-18 08:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 06:37:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
     },
     "done": true
   },
@@ -2008,6 +2110,12 @@
   "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-04-18 08:14:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
     },
     "done": true
   },
@@ -2473,6 +2581,12 @@
     },
     "done": true
   },
+  "buildinggadgets2:recipes/misc/gadget_destruction": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-18 08:29:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_blinds": {
     "criteria": {
       "has_log": "2025-04-18 07:46:16 +0000"
@@ -2620,6 +2734,13 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 08:00:20 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/building_blocks/cracked_mud_brick_stairs": {
+    "criteria": {
+      "has_cracked_mud_bricks": "2025-04-18 08:28:05 +0000",
+      "has_the_recipe": "2025-04-18 08:28:05 +0000"
     },
     "done": true
   },
@@ -2995,6 +3116,12 @@
     },
     "done": true
   },
+  "chunkloaders:recipes/misc/basic_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2025-04-18 08:29:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2025-04-18 06:22:01 +0000"
@@ -3052,6 +3179,12 @@
   "mcwbridges:recipes/asian_red_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-18 07:51:05 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/building_blocks/cracked_mud_brick_slab": {
+    "criteria": {
+      "has_cracked_mud_bricks": "2025-04-18 08:28:05 +0000"
     },
     "done": true
   },
@@ -3349,6 +3482,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-18 07:58:55 +0000"
@@ -3412,6 +3551,12 @@
   "cfm:recipes/decorations/yellow_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-18 06:34:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
     },
     "done": true
   },
@@ -3595,6 +3740,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-04-18 06:35:24 +0000"
@@ -3710,6 +3861,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/brass_knife": {
+    "criteria": {
+      "has_ingots/brass": "2025-04-18 08:29:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_grill": {
     "criteria": {
       "has_iron": "2025-04-18 06:37:38 +0000"
@@ -3725,6 +3882,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-04-18 07:51:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
     },
     "done": true
   },
@@ -3986,6 +4149,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-04-18 08:29:33 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
     "criteria": {
       "has_redstone": "2025-04-18 07:52:07 +0000"
@@ -4064,9 +4233,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-04-18 08:27:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/rock_path": {
     "criteria": {
       "has_andesite": "2025-04-18 08:17:19 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_cracked_mud_brick_slab": {
+    "criteria": {
+      "has_item": "2025-04-18 08:28:05 +0000"
     },
     "done": true
   },
@@ -4142,6 +4323,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2025-04-18 08:29:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-04-18 06:22:01 +0000"
@@ -4151,6 +4338,12 @@
   "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
     "criteria": {
       "has_copper_ingot": "2025-04-18 07:56:05 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/wet_sponge_slab": {
+    "criteria": {
+      "has_wet_sponge": "2025-04-18 08:27:45 +0000"
     },
     "done": true
   },
@@ -4175,6 +4368,12 @@
   "refurbished_furniture:recipes/decorations/blue_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-18 07:52:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
     },
     "done": true
   },
@@ -4460,6 +4659,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_stairs": {
     "criteria": {
       "has_polished_cut_tuff": "2025-04-18 08:19:19 +0000"
@@ -4553,6 +4758,12 @@
   "cfm:recipes/decorations/light_gray_trampoline": {
     "criteria": {
       "has_iron": "2025-04-18 06:37:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
     },
     "done": true
   },
@@ -4664,6 +4875,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/unseal": {
+    "criteria": {
+      "has_item_a": "2025-04-18 08:27:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 06:37:38 +0000"
@@ -4751,6 +4968,12 @@
   "mcwbridges:recipes/mossy_stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-04-18 08:14:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
     },
     "done": true
   },
@@ -4961,6 +5184,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
     "criteria": {
       "has_stick": "2025-04-18 06:22:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-18 08:27:23 +0000"
     },
     "done": true
   },
@@ -5361,6 +5590,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-18 08:29:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-18 06:34:22 +0000"
@@ -5418,6 +5659,12 @@
   "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
     "criteria": {
       "has_brimstone": "2025-04-18 07:03:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-04-18 08:29:39 +0000"
     },
     "done": true
   },
@@ -5487,6 +5734,12 @@
     },
     "done": true
   },
+  "sliceanddice:recipes/misc/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-04-18 08:29:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grass_washed_green.json": {
     "criteria": {
       "has_grass_block": "2025-04-18 08:19:16 +0000"
@@ -5514,6 +5767,12 @@
   "cfm:recipes/decorations/spruce_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-18 06:34:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
     },
     "done": true
   },
@@ -5550,6 +5809,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 06:37:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-04-18 08:32:55 +0000"
     },
     "done": true
   },
@@ -5799,6 +6064,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-18 08:29:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sentry": {
     "criteria": {
       "has_iron": "2025-04-18 06:37:38 +0000"
@@ -5874,6 +6145,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
     "criteria": {
       "has_stick": "2025-04-18 06:22:01 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
+    "criteria": {
+      "has_item": "2025-04-18 08:29:34 +0000"
     },
     "done": true
   },
@@ -6863,6 +7140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_mud_brick_stairs_from_cracked_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_mud_bricks": "2025-04-18 08:28:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 06:37:38 +0000"
@@ -6878,6 +7161,12 @@
   "minecraft:recipes/decorations/grass_washed_pink.json": {
     "criteria": {
       "has_grass_block": "2025-04-18 08:19:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
     },
     "done": true
   },
@@ -6917,6 +7206,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dirt_washed_blue.json": {
     "criteria": {
       "has_dirt": "2025-04-18 08:10:03 +0000"
@@ -6932,6 +7227,12 @@
   "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-18 07:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
     },
     "done": true
   },
@@ -7054,6 +7355,12 @@
       "has_gold_ingot": "2025-04-18 08:00:20 +0000"
     },
     "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-04-18 08:32:55 +0000"
+    },
+    "done": false
   },
   "mcwwindows:recipes/birch": {
     "criteria": {
@@ -7373,6 +7680,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/magma_block_slab": {
+    "criteria": {
+      "has_magma_block": "2025-04-18 08:27:41 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/bit_storage": {
     "criteria": {
       "has_l": "2025-04-18 06:22:29 +0000"
@@ -7382,6 +7695,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_kitchen_storage_cabinet": {
     "criteria": {
       "has_blue_dye": "2025-04-18 07:52:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
     },
     "done": true
   },
@@ -7478,6 +7797,12 @@
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-04-18 07:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2025-04-18 08:29:39 +0000"
     },
     "done": true
   },
@@ -7631,9 +7956,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
     "criteria": {
       "has_stick": "2025-04-18 06:22:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-04-18 08:29:39 +0000"
     },
     "done": true
   },
@@ -7709,6 +8046,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/inverted_clutch_from_conversion": {
+    "criteria": {
+      "has_item": "2025-04-18 08:29:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_desk": {
     "criteria": {
       "has_log": "2025-04-18 07:46:16 +0000"
@@ -7724,6 +8067,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 06:37:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
     },
     "done": true
   },
@@ -8267,6 +8616,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/attribute_filter_clear": {
+    "criteria": {
+      "has_item": "2025-04-18 08:29:51 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_hoe": {
     "criteria": {
       "has_nether_quartz": "2025-04-18 06:47:19 +0000"
@@ -8282,6 +8637,12 @@
   "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-18 06:34:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
     },
     "done": true
   },
@@ -8363,6 +8724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_mud_brick_slab_from_cracked_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_mud_bricks": "2025-04-18 08:28:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-04-18 06:41:06 +0000"
@@ -8384,6 +8751,12 @@
   "create:recipes/misc/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2025-04-18 08:15:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
     },
     "done": true
   },
@@ -8579,6 +8952,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 06:37:38 +0000"
@@ -8711,15 +9090,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-04-18 07:51:47 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-18 08:27:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-18 08:14:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
     },
     "done": true
   },
@@ -8882,6 +9291,12 @@
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_diorite_pillar_trim": "2025-04-18 07:51:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:38 +0000"
     },
     "done": true
   },
@@ -9519,6 +9934,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-04-18 08:29:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/doorbell": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 06:37:38 +0000"
@@ -9594,6 +10015,12 @@
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-18 06:22:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
     },
     "done": true
   },
@@ -9729,6 +10156,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/sponge_slab": {
+    "criteria": {
+      "has_sponge": "2025-04-18 08:27:50 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-04-18 06:41:06 +0000"
@@ -9858,6 +10291,12 @@
   "mcwwindows:recipes/andesite": {
     "criteria": {
       "has_the_recipe": "2025-04-18 07:46:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-04-18 08:29:39 +0000"
     },
     "done": true
   },
@@ -10071,6 +10510,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/crank_wheel": {
+    "criteria": {
+      "has_item": "2025-04-18 08:29:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
     "criteria": {
       "has_planks": "2025-04-18 06:34:09 +0000"
@@ -10221,6 +10666,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_trampoline": {
     "criteria": {
       "has_iron": "2025-04-18 06:37:38 +0000"
@@ -10260,6 +10711,18 @@
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2025-04-18 08:15:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-04-18 08:29:39 +0000"
     },
     "done": true
   },
@@ -10407,6 +10870,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-04-18 06:41:06 +0000"
@@ -10425,9 +10894,21 @@
     },
     "done": true
   },
+  "create:recipes/decorations/brass_table_cloth_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-04-18 08:29:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-04-18 06:33:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-04-18 08:29:34 +0000"
     },
     "done": true
   },
@@ -10494,6 +10975,12 @@
   "minecraft:recipes/decorations/dirt_washed_red.json": {
     "criteria": {
       "has_dirt": "2025-04-18 08:10:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-18 08:27:37 +0000"
     },
     "done": true
   },
